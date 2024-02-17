@@ -1,3 +1,4 @@
+import time
 import streamlit as st
 import json
 import random
@@ -19,15 +20,21 @@ def quiz_app(data: list):
 
     # Display the question
     random_entry = st.session_state.random_entry
+
+    # Sidebar
+    with st.sidebar:
+        st.header("Übungen zur Heilpraktikerprüfung für Psychotherapie")
+
+        col1, col2, col3 = st.columns(3)
+        st.metric("Gesamt", len(data))
+        st.metric("Abgefragt", st.session_state.cnt_total)
+        st.metric("Richtig", st.session_state.cnt_correct)
+        st.metric("Falsch", st.session_state.cnt_wrong)
     
-    st.header("Heilpraktikerprüfung fuer Psychotherapie")
+    
 
-    col1, col2, col3 = st.columns(3)
-    col1.metric("Richtig", st.session_state.cnt_correct)
-    col2.metric("Falsch", st.session_state.cnt_wrong)
-    col3.metric("Total", st.session_state.cnt_total)
 
-    st.title(f'Frage {random_entry["number"]}')
+    st.title(f'Frage {random_entry["number"]} vom {random_entry["date"]}')
     st.write(random_entry["text"])
     
     # Display options
@@ -57,13 +64,18 @@ def quiz_app(data: list):
             st.session_state.cnt_correct += 1
         if (st.session_state.flg_wrong == 1 and st.session_state.flg_correct == 0):
             st.session_state.cnt_wrong += 1
+        if (st.session_state.flg_wrong == 1 and st.session_state.flg_correct == 1):
+            st.session_state.cnt_wrong += 1
 
         # always update the total count
         st.session_state.cnt_total += 1
+
+        # rerun app, unclear why needed
+        st.rerun()
         
 if __name__ == "__main__":
     # Specify the file path
-    file_path = "data/Q22020.json"
+    file_path = "data/HPP_QandA.json"
 
     # Load JSON data from the file
     with open(file_path, "r") as file:
