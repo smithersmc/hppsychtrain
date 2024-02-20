@@ -93,8 +93,8 @@ def quiz_app(data: list):
                .block-container {
                     padding-top: 0rem;
                     padding-bottom: 0rem;
-                    padding-left: 5rem;
-                    padding-right: 5rem;
+                    padding-left: 0rem;
+                    padding-right: rem;
                 }
         </style>
         """, unsafe_allow_html=True)
