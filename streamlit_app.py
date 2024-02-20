@@ -9,7 +9,7 @@ import extra_streamlit_components as stx
 from streamlit_extras.buy_me_a_coffee import button
 
 
-
+cookie_manager = None
 start_time = time.time()
 timeout = 0.1  # Preset timeout time
 
@@ -29,8 +29,9 @@ def get_manager():
     return stx.CookieManager()
 
 def load_cookies():
-  
-    cookie_manager = get_manager()
+    global cookie_manager
+    if not cookie_manager:
+        cookie_manager = get_manager()
     st.session_state.cookies = cookie_manager.get_all()
     
     # Wait for the cookies to be available
@@ -47,13 +48,18 @@ def load_cookies():
         
 
 def save_cookies():
-    cookie_manager = get_manager()
+    global cookie_manager
+    if not cookie_manager:
+        cookie_manager = get_manager()
     #hppsychtrain.streamlit.app
     cookie_manager.set('user_data', st.session_state.user_data, key="0", expires_at=add_years(datetime.datetime.now(),1))
-    time.sleep(5*timeout)
+    time.sleep(timeout)
 
 def reset_cookies():
-    cookie_manager = get_manager()
+    global cookie_manager
+    if not cookie_manager:
+        cookie_manager = get_manager()
+
     if 'cookies' in st.session_state:
         if 'user_data' in st.session_state.cookies:
             cookie_manager.delete('user_data')
@@ -82,6 +88,17 @@ def get_next_question(data):
 # Streamlit app
 def quiz_app(data: list):
 
+    st.markdown("""
+        <style>
+               .block-container {
+                    padding-top: 0rem;
+                    padding-bottom: 0rem;
+                    padding-left: 5rem;
+                    padding-right: 5rem;
+                }
+        </style>
+        """, unsafe_allow_html=True)
+
     # Check if the session state is already initialized
     if 'random_entry' not in st.session_state:
         #needed for the first time
@@ -98,12 +115,13 @@ def quiz_app(data: list):
         get_next_question(data)
 
     if 'reset_session' in st.session_state:
-            st.session_state.user_data['asked'] = []
-            st.session_state.user_data['wrong'] = []
-            st.session_state.user_data['correct'] = []
-            st.success("Session zurückgesetzt.")
-            del st.session_state['reset_session']
-    
+        st.session_state.user_data['asked'] = []
+        st.session_state.user_data['wrong'] = []
+        st.session_state.user_data['correct'] = []
+        st.success("Session zurückgesetzt.")
+        del st.session_state['reset_session']
+    else:
+        save_cookies()
 
     # Display the question
     random_entry = st.session_state.random_entry
@@ -125,7 +143,7 @@ def quiz_app(data: list):
         if st.button('Speichern'):
              save_cookies()
              time.sleep(0.5)
-             
+
         button(username="nakora", floating=False, width=300, font="Poppins")
         
             
@@ -167,7 +185,7 @@ def quiz_app(data: list):
         get_next_question(data)
 
         # save cookies
-        save_cookies()
+        #save_cookies()
 
         # rerun app, unclear why needed
         st.rerun()

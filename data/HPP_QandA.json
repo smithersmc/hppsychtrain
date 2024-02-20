@@ -3321,7 +3321,25 @@
             "B": "Lese- und Rechtschreibst\u00f6rung (LRS)",
             "C": "Fr\u00fchkindlicher Autismus",
             "D": "Aufmerksamkeitsdefizit-Hyperaktivit\u00e4tsst\u00f6rung (ADHS)",
-            "E": "Tic-St\u00f6rung \n \n \n17 \nEinfachauswahl   \n \n \n \n \n \n \n \n \nWelche Aussage trifft zu? \nDas pr\u00e4suizidale Syndrom nach Ringel umfasst die Trias: \nA) \nAggressionsumkehr, Suizidversuch, Depressivit\u00e4t \nB) \nVereinsamung, Suizidversuch, Depressivit\u00e4t  \nC) \nSelbstverletzendes Verhalten, Arbeitslosigkeit, Halluzinationen \nD) \nEinengung, Aggressionsumkehr, Suizidphantasien \nE) \nSuizidphantasien, Suizidversuch, selbstverletzendes Verhalten"
+            "E": "Tic-St\u00f6rung"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "17",
+        "group": "A",
+        "page": 14,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nDas pr\u00e4suizidale Syndrom nach Ringel umfasst die Trias:",
+        "options": {
+            "A": "Aggressionsumkehr, Suizidversuch, Depressivit\u00e4t",
+            "B": "Vereinsamung, Suizidversuch, Depressivit\u00e4t",
+            "C": "Selbstverletzendes Verhalten, Arbeitslosigkeit, Halluzinationen",
+            "D": "Einengung, Aggressionsumkehr, Suizidphantasien",
+            "E": "Suizidphantasien, Suizidversuch, selbstverletzendes Verhalten"
         },
         "solution": [
             "D"
