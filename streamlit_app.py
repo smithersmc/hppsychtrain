@@ -6,6 +6,7 @@ import streamlit as st
 import json
 import random
 import extra_streamlit_components as stx
+from streamlit_extras.buy_me_a_coffee import button
 
 
 
@@ -47,6 +48,7 @@ def load_cookies():
 
 def save_cookies():
     cookie_manager = get_manager()
+    #hppsychtrain.streamlit.app
     cookie_manager.set('user_data', st.session_state.user_data, key="0", expires_at=add_years(datetime.datetime.now(),1))
     time.sleep(5*timeout)
 
@@ -120,9 +122,12 @@ def quiz_app(data: list):
             reset_cookies()
             st.session_state.reset_session = 1 
 
-        # if st.button('Speichern'):
-        #     save_cookies()
-        #     time.sleep(0.5)
+        if st.button('Speichern'):
+             save_cookies()
+             time.sleep(0.5)
+             
+        button(username="nakora", floating=False, width=300, font="Poppins")
+        
             
     st.title(f'Frage {random_entry["number"]} vom {random_entry["date"]}')
     st.write(random_entry["text"])
