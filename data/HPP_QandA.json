@@ -4647,10 +4647,29 @@
             "B": "Der Begriff Legasthenie wird synonym f\u00fcr Lese- und Rechtschreibst\u00f6rung (LRS) \nverwendet",
             "C": "Kinder mit Legasthenie k\u00f6nnen das Gelesene besonders gut wiedergeben",
             "D": "Legasthenie kann nicht gezielt behandelt werden",
-            "E": "Vom Besuch einer h\u00f6heren Schule sollte bei Legasthenie generell abgeraten \nwerden \n \n \n7 \nMehrfachauswahl \nWelche der folgenden Aussagen zur Somatisierungsst\u00f6rung (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nA) \nDie St\u00f6rung beginnt meist im fr\u00fchen Erwachsenenalter  \nB) \nDie Diagnose kann nach 3 Monaten bei entsprechender Symptomatik gestellt \nwerden \nC) \nDie St\u00f6rung tritt bei beiden Geschlechtern gleich h\u00e4ufig auf \nD) \nDie Betroffenen sind aufgrund ihres hohen Leidensdruckes meist rasch zu einer \nPsychotherapie motivierbar \nE) \nIm St\u00f6rungsverlauf kann es zu einer Abh\u00e4ngigkeit oder einem Missbrauch von \nMedikamenten kommen"
+            "E": "Vom Besuch einer h\u00f6heren Schule sollte bei Legasthenie generell abgeraten \nwerden"
         },
         "solution": [
             "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "7",
+        "group": "A",
+        "page": 6,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Somatisierungsst\u00f6rung (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options":{
+            "A": "Die St\u00f6rung beginnt meist im fr\u00fchen Erwachsenenalter",
+            "B": "Die Diagnose kann nach 3 Monaten bei entsprechender Symptomatik gestellt \nwerden",
+            "C": "Die St\u00f6rung tritt bei beiden Geschlechtern gleich h\u00e4ufig auf",
+            "D": "Die Betroffenen sind aufgrund ihres hohen Leidensdruckes meist rasch zu einer \nPsychotherapie motivierbar",
+            "E": "Im St\u00f6rungsverlauf kann es zu einer Abh\u00e4ngigkeit oder einem Missbrauch von \nMedikamenten kommen"
+        },
+        "solution": [
+            "A",
+            "E"
         ]
     },
     {
@@ -4665,11 +4684,30 @@
             "B": "Andauerndes Gef\u00fchl von innerer Leere",
             "C": "Mangel an engen Freunden oder vertrauensvollen Beziehungen oder dem \nWunsch nach diesen",
             "D": "Andauernde und umfassende Gef\u00fchle von Anspannung und Besorgtheit",
-            "E": "\u00dcberm\u00e4\u00dfige Zweifel und Vorsicht \n \n9 \nMehrfachauswahl \nWelche der folgenden Aussagen zur Intelligenzminderung (nach ICD-10) im Kindes- und \nJugendalter treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nA) \nDie Einteilung der Intelligenzminderung erfolgt nach ICD-10 in leichte, \nmittelgradige, schwere und schwerste Intelligenzminderung  \nB) \nIntelligenzminderungen beginnen bei einem Intelligenzquotienten (IQ) von unter \n50 \nC) \nGenetische Faktoren als m\u00f6gliche Ursache der Intelligenzminderung sind bisher \nnicht belegt \nD) \nDie Behandlung einer Intelligenzminderung ist in der Regel erfolgsversprechend \nE) \nDas Risiko, bei einer bestehenden Intelligenzminderung an einer psychischen \nSt\u00f6rung zu erkranken, ist erh\u00f6ht"
+            "E": "\u00dcberm\u00e4\u00dfige Zweifel und Vorsicht"
         },
         "solution": [
             "A",
             "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "9",
+        "group": "A",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Intelligenzminderung (nach ICD-10) im Kindes- und Jugendalter treffen zu? \nWählen Sie zwei Antworten!",
+        "options": {
+            "A": "Die Einteilung der Intelligenzminderung erfolgt nach ICD-10 in leichte, mittelgradige, schwere und schwerste Intelligenzminderung",
+            "B": "Intelligenzminderungen beginnen bei einem Intelligenzquotienten (IQ) von unter 50",
+            "C": "Genetische Faktoren als mögliche Ursache der Intelligenzminderung sind bisher nicht belegt",
+            "D": "Die Behandlung einer Intelligenzminderung ist in der Regel erfolgsversprechend",
+            "E": "Das Risiko, bei einer bestehenden Intelligenzminderung an einer psychischen Störung zu erkranken, ist erhöht"
+        },
+        "solution": [
+            "A",
+            "E"
         ]
     },
     {
@@ -4739,9 +4777,28 @@
             "B": "Demenz bei Pick-Krankheit",
             "C": "Vaskul\u00e4re Demenz",
             "D": "Sogenannte depressive Pseudodemenz",
-            "E": "Demenz bei HIV-Krankheit \n \n14 \nMehrfachauswahl \nSie vermuten bei einem 80-j\u00e4hrigen Patienten, der Ihnen wegen Ged\u00e4chtnisst\u00f6rungen \nvorgestellt wird, eine Demenz vom Alzheimer-Typ. \nWelche der folgenden Symptome st\u00fctzen Ihren Verdacht bei der Differenzialdiagnose? \nW\u00e4hlen Sie zwei Antworten! \nA) \nSeit einem Jahr bestehende St\u00f6rungen der Merkf\u00e4higkeit  \nB) \nRechtsseitige Gesichtsl\u00e4hmung nach mehreren Schlaganf\u00e4llen \nC) \nRasche Verschlechterung innerhalb weniger Tage \nD) \nKeine qualitative Bewusstseinsst\u00f6rung \nE) \nAnamnestisch bekannter langj\u00e4hriger \u00fcberm\u00e4\u00dfiger Alkoholkonsum"
+            "E": "Demenz bei HIV-Krankheit"
         },
         "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "14",
+        "group": "A",
+        "page": 11,
+        "classification": "Mehrfachauswahl",
+        "text": "Sie vermuten bei einem 80-j\u00e4hrigen Patienten, der Ihnen wegen Ged\u00e4chtnisst\u00f6rungen \nvorgestellt wird, eine Demenz vom Alzheimer-Typ. \nWelche der folgenden Symptome st\u00fctzen Ihren Verdacht bei der Differenzialdiagnose? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Seit einem Jahr bestehende St\u00f6rungen der Merkf\u00e4higkeit",
+            "B": "Rechtsseitige Gesichtsl\u00e4hmung nach mehreren Schlaganf\u00e4llen",
+            "C": "Rasche Verschlechterung innerhalb weniger Tage",
+            "D": "Keine qualitative Bewusstseinsst\u00f6rung",
+            "E": "Anamnestisch bekannter langj\u00e4hriger \u00fcberm\u00e4\u00dfiger Alkoholkonsum"
+        },
+        "solution": [
+            "A",
             "D"
         ]
     },
@@ -4775,11 +4832,29 @@
             "B": "Mindestens gegen einen Zwangsgedanken oder gegen eine Zwangshandlung \nmuss der Patient noch Widerstand leisten",
             "C": "Mit Abstand am h\u00e4ufigsten kommt bei Zwangsst\u00f6rungen der Z\u00e4hlzwang vor",
             "D": "Therapie der Wahl ist zun\u00e4chst die alleinige Pharmakotherapie, erst bei \nTherapieresistenz sollte eine kognitive Verhaltenstherapie angewendet werden",
-            "E": "Treten Zwangssymptome nach dem 40. Lebensjahr auf, sollte eine organische \nUrsache ausgeschlossen werden \n \n17 \nEinfachauswahl \nWelche Aussage trifft zu?   \nBei der Neueinstellung eines Patienten mit depressiver St\u00f6rung auf ein antriebssteigerndes \nAntidepressivum muss in den ersten Wochen der Einnahme mit erh\u00f6hter Suizidgefahr \ngerechnet werden, wegen \nA) \nunertr\u00e4glicher unerw\u00fcnschter Nebenwirkungen   \nB) \neintretender Antriebssteigerung vor dem antidepressiven Effekt \nC) \nfehlender Akzeptanz der Medikation durch die Angeh\u00f6rigen \nD) \neines un\u00fcberwindlichen inneren Therapiewiderstandes \nE) \nEntt\u00e4uschung des Patienten aufgrund der Verz\u00f6gerung des Wirkungseintrittes"
+            "E": "Treten Zwangssymptome nach dem 40. Lebensjahr auf, sollte eine organische \nUrsache ausgeschlossen werden"
         },
         "solution": [
             "B",
             "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "17",
+        "group": "A",
+        "page": 13,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? Bei der Neueinstellung eines Patienten mit depressiver St\u00f6rung auf ein antriebssteigerndes \nAntidepressivum muss in den ersten Wochen der Einnahme mit erh\u00f6hter Suizidgefahr gerechnet werden, wegen",
+        "options": {
+            "A": "unertr\u00e4glicher unerw\u00fcnschter Nebenwirkungen",
+            "B": "eintretender Antriebssteigerung vor dem antidepressiven Effekt",
+            "C": "fehlender Akzeptanz der Medikation durch die Angeh\u00f6rigen",
+            "D": "eines un\u00fcberwindlichen inneren Therapiewiderstandes",
+            "E": "Entt\u00e4uschung des Patienten aufgrund der Verz\u00f6gerung des Wirkungseintrittes"
+        },
+        "solution": [
+            "B"
         ]
     },
     {
@@ -4794,10 +4869,29 @@
             "B": "Ein Richter des zust\u00e4ndigen Gerichts",
             "C": "Die Polizei, die den Patienten in die Klinik gebracht hat",
             "D": "Der Notarzt, der den Patienten in die Klinik gebracht hat",
-            "E": "Der Oberarzt der geschlossenen Station, in die der Betroffene eingeliefert wurde  \n \n \n19 \nMehrfachauswahl \nWelche der folgenden Aussagen zur Schizophrenie treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nA) \nEin Hinweis auf das Bestehen einer Schizophrenie sind Beziehungsideen \nB) \nEin allm\u00e4hlicher Krankheitsbeginn ist ein prognostisch g\u00fcnstiges Zeichen \nC) \nM\u00e4nner erkranken in der Regel erst nach dem 30. Lebensjahr \nD) \nNach Absetzen einer neuroleptischen Medikation besteht kaum Rezidivgefahr \nE) \nAffektverflachung und Sprachverarmung z\u00e4hlt man zu den Negativsymptomen"
+            "E": "Der Oberarzt der geschlossenen Station, in die der Betroffene eingeliefert wurde"
         },
         "solution": [
             "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "19",
+        "group": "A",
+        "page": 15,
+        "classification": "nMehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Schizophrenie treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Ein Hinweis auf das Bestehen einer Schizophrenie sind Beziehungsideen",
+            "B": "Ein allm\u00e4hlicher Krankheitsbeginn ist ein prognostisch g\u00fcnstiges Zeichen",
+            "C": "M\u00e4nner erkranken in der Regel erst nach dem 30. Lebensjahr",
+            "D": "Nach Absetzen einer neuroleptischen Medikation besteht kaum Rezidivgefahr",
+            "E": "Affektverflachung und Sprachverarmung z\u00e4hlt man zu den Negativsymptomen"
+        },
+        "solution": [
+            "A",
+            "E"
         ]
     },
     {
