@@ -3147,6 +3147,24 @@
     },
     {
         "date": "15.03.2017",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Einfachauswahl",
+        "text": "Welches Krankheitsbild gilt am ehesten als Kontraindikation f\u00fcr das autogene Training?",
+        "options": {
+            "A": "Eine Migr\u00e4neerkrankung",
+            "B": "Eine akute paranoide Psychose",
+            "C": "Eine Bluthochdruckerkrankung",
+            "D": "Ein Schlafapnoesyndrom",
+            "E": "Eine psychosomatische St\u00f6rung"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
         "number": "6",
         "group": "A",
         "page": 5,

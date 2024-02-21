@@ -6,12 +6,11 @@ import streamlit as st
 import json
 import random
 import extra_streamlit_components as stx
-from streamlit_extras.buy_me_a_coffee import button
 
 
 cookie_manager = None
 start_time = time.time()
-timeout = 0.1  # Preset timeout time
+timeout = 0.01  # Preset timeout time
 
 def add_years(d, years):
     """Return a date that's `years` years after the date (or datetime)
@@ -35,7 +34,7 @@ def load_cookies():
     st.session_state.cookies = cookie_manager.get_all()
     
     # Wait for the cookies to be available
-    for i in range(0, 10):
+    for i in range(0, 100):
         time.sleep(timeout)
         if len(st.session_state.cookies) > 0:
             break
@@ -53,7 +52,7 @@ def save_cookies():
         cookie_manager = get_manager()
     #hppsychtrain.streamlit.app
     cookie_manager.set('user_data', st.session_state.user_data, key="0", expires_at=add_years(datetime.datetime.now(),1))
-    time.sleep(timeout)
+    #time.sleep(timeout)
 
 def reset_cookies():
     global cookie_manager
@@ -65,7 +64,23 @@ def reset_cookies():
             cookie_manager.delete('user_data')
     pass
 
-def get_next_question(data):
+@st.cache_data
+def load_data():
+    # Specify the file path
+    file_path = "data/HPP_QandA.json"
+
+    # Load JSON data from the file
+    with open(file_path, "r") as file:
+        data = json.load(file)
+
+    return data
+
+
+def get_next_question():
+
+    data = load_data()
+
+    st.session_state.total = len(data)
 
     # Reset the flags
     st.session_state.flg_correct = 0
@@ -85,16 +100,17 @@ def get_next_question(data):
     # Retrieve the item
     st.session_state.random_entry = data[st.session_state.qindex]
 
+
 # Streamlit app
-def quiz_app(data: list):
+def quiz_app():
 
     st.markdown("""
         <style>
                .block-container {
                     padding-top: 0rem;
                     padding-bottom: 0rem;
-                    padding-left: 0rem;
-                    padding-right: rem;
+                    padding-left: 1rem;
+                    padding-right: 0.2rem;
                 }
         </style>
         """, unsafe_allow_html=True)
@@ -112,7 +128,7 @@ def quiz_app(data: list):
         load_cookies()
 
         # Select a random index and retrieve the item
-        get_next_question(data)
+        get_next_question()
 
     if 'reset_session' in st.session_state:
         st.session_state.user_data['asked'] = []
@@ -121,7 +137,8 @@ def quiz_app(data: list):
         st.success("Session zurückgesetzt.")
         del st.session_state['reset_session']
     else:
-        save_cookies()
+        #save_cookies()
+        pass
 
     # Display the question
     random_entry = st.session_state.random_entry
@@ -130,22 +147,22 @@ def quiz_app(data: list):
     with st.sidebar:
         st.header("Übungen zur Heilpraktikerprüfung für Psychotherapie")
 
-        col1, col2, col3 = st.columns(3)
-        st.metric("Gesamt", len(data))
-        st.metric("Abgefragt", len(st.session_state.user_data["asked"]))
-        st.metric("Richtig", len(st.session_state.user_data["correct"]))
-        st.metric("Falsch", len(st.session_state.user_data["wrong"]))
+        col1, col2 = st.columns(2)
+        col1.metric("Gesamt", st.session_state.total)
+        col2.metric("Abgefragt", len(st.session_state.user_data["asked"]))
+        col11, col22 = st.columns(2)
+        col11.metric("Richtig", len(st.session_state.user_data["correct"]))
+        col22.metric("Falsch", len(st.session_state.user_data["wrong"]))
     
         if st.button('Lernsession zurücksetzen'):
             reset_cookies()
             st.session_state.reset_session = 1 
 
-        if st.button('Speichern'):
-             save_cookies()
-             time.sleep(0.5)
-
-        button(username="nakora", floating=False, width=300, font="Poppins")
-        
+        #if st.button('Speichern'):
+        #     save_cookies()
+        #     time.sleep(0.5)
+        st.link_button(":coffee: Buy me a coffee", "http://buymeacoffee.com/nakora", help=None, type="secondary", disabled=False, use_container_width=False)
+   
             
     st.title(f'Frage {random_entry["number"]} vom {random_entry["date"]}')
     st.write(random_entry["text"])
@@ -182,24 +199,19 @@ def quiz_app(data: list):
 
         st.session_state.user_data['asked'].append(st.session_state.qindex)
 
-        get_next_question(data)
+        get_next_question()
 
         # save cookies
-        #save_cookies()
+        save_cookies()
 
         # rerun app, unclear why needed
-        st.rerun()
+        #st.rerun()
         
 if __name__ == "__main__":
-    # Specify the file path
-    file_path = "data/HPP_QandA.json"
-
-    # Load JSON data from the file
-    with open(file_path, "r") as file:
-        data = json.load(file)
+    
 
     # Now you can use the 'data' variable to access the loaded JSON data
-    # Loop until user cancels
     
-    quiz_app(data)
+    
+    quiz_app()
     
