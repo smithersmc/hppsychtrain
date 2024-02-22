@@ -12,7 +12,8 @@
             "C": "Bipolare affektive St\u00f6rung, gegenw\u00e4rtig schwere depressive Episode mit \npsychotischen Symptomen",
             "D": "Schwere depressive Episode mit psychotischen Symptomen",
             "E": "Anpassungsst\u00f6rung mit kurzer depressiver Reaktion"
-        }
+        }, "solution": ["D"]
+        
     },
     {
         "date": "21.03.2018",
@@ -27,7 +28,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -42,7 +45,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
             "E": "Nur die Antworten 1, 3, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -57,7 +62,9 @@
             "C": "Nur die Aussagen 3 und 4 sind richtig",
             "D": "Nur die Aussagen 1, 2 und 4 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -72,7 +79,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "A"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -87,7 +96,9 @@
             "C": "Atopisches Ekzem",
             "D": "Morbus Parkinson",
             "E": "Spinalkanalstenose"
-        }
+        }, "solution": [
+            "A", "D"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -102,7 +113,9 @@
             "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -117,7 +130,9 @@
             "C": "Nach den diagnostischen Leitlinien m\u00fcssen die Wahnvorstellungen mindestens \n12 Monate dauern",
             "D": "Nicht vereinbar mit der Diagnose ist eine hirnorganische Erkrankung",
             "E": "St\u00e4ndiges Stimmenh\u00f6ren und schizophrene Symptome in der Vorgeschichte sind \ntypisch"
-        }
+        }, "solution": [
+            "D"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -132,7 +147,9 @@
             "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
             "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
-        }
+        }, "solution": [
+            "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -147,7 +164,9 @@
             "C": "Abh\u00e4ngige Pers\u00f6nlichkeitsst\u00f6rung",
             "D": "Erstmanifestation einer schizophrenen Psychose",
             "E": "Creutzfeldt-Jakob-Krankheit"
-        }
+        }, "solution": [
+            "B"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -162,7 +181,9 @@
             "C": "Wahnideen im Rahmen einer manischen Episode sind dadurch gekennzeichnet, \ndass diese in der Regel mit der Gem\u00fctslage des Patienten nicht \u00fcbereinstimmen",
             "D": "Die sog. Wochenbett-Depression darf von einem Heilpraktiker nicht behandelt \nwerden",
             "E": "Im Rahmen der Behandlung einer Depression kann auch die zus\u00e4tzliche Gabe \neines Neuroleptikums zu einem Antidepressivum erforderlich sein"
-        }
+        }, "solution": [
+            "B", "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -177,7 +198,9 @@
             "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -192,7 +215,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
             "E": "Nur die Aussagen 1, 2, 3 und 4 sind richtig"
-        }
+        }, "solution": [
+            "B"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -207,7 +232,9 @@
             "C": "Bei einer Phobie liegt eine unangemessene Angst vor einem konkreten Objekt \noder einer bestimmten Situation vor",
             "D": "Die bei Angstst\u00f6rungen h\u00e4ufig eingenommenen Benzodiazepine (z.B. Lorazepam) \nhaben ein erh\u00f6htes Potenzial f\u00fcr die Entwicklung einer Abh\u00e4ngigkeit und sollten \ndeshalb nach langfristiger Einnahme sofort abgesetzt werden",
             "E": "Bei spezifischer Phobie sind expositionsorientierte Verfahren kontraindiziert"
-        }
+        }, "solution": [
+            "B", "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -222,7 +249,9 @@
             "C": "Nur die Aussagen 3, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "A"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -237,7 +266,9 @@
             "C": "k\u00f6rperliche Fehlbildung",
             "D": "chronische depressive Verstimmung",
             "E": "schwere depressive Episode"
-        }
+        }, "solution": [
+            "D"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -252,7 +283,9 @@
             "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
             "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "A"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -267,7 +300,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
             "E": "Nur die Aussagen 1, 2, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -282,7 +317,9 @@
             "C": "Affektverflachung und Antriebsverlust",
             "D": "Zwangshaltungen und Zwangsstellungen",
             "E": "Negativismus"
-        }
+        }, "solution": [
+            "B", "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -297,7 +334,9 @@
             "C": "Soziale Phobie",
             "D": "\u00c4ngstliche (vermeidende) Pers\u00f6nlichkeitsst\u00f6rung",
             "E": "Anpassungsst\u00f6rung mit l\u00e4ngerer depressiver Reaktion"
-        }
+        }, "solution": [
+            "D"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -312,7 +351,9 @@
             "C": "Ein 17-j\u00e4hriger Jugendlicher stiehlt mehrmals pro Woche eine Flasche Wodka, \num diese noch gleich vor dem Supermarkt zu konsumieren. Nach seinem 18. \nGeburtstag trinkt er mehrmals pro Woche eine Flasche Wodka gleich vor dem \nSupermarkt, nachdem er sich diese zuvor legal gekauft hat. Bei ihm wurde eine \nAlkoholabh\u00e4ngigkeit diagnostizier.",
             "D": "Ein 42-j\u00e4hriger Manager verliert beim Roulett spielen im Casino bei jedem \nEinsatz mehrere Hundert Euro. Nachdem er von seiner Frau kritisiert wird, spielt \ner nicht mehr.",
             "E": "Ein 9-j\u00e4hriges, normal intelligentes M\u00e4dchen rei\u00dft sich t\u00e4glich Kopfhaare aus, \nwas schon zu sichtbarem Haarverlust gef\u00fchrt hat. Den Eltern kann sie keinen \nGrund f\u00fcr ihr Tun nennen. Sie sagt, sie wolle damit aufh\u00f6ren, k\u00f6nne aber nicht. \nDie ausf\u00fchrliche neurologische Untersuchung ergibt keinen pathologischen \nBefund. Wahn und Halluzinationen bestehen nicht."
-        }
+        }, "solution": [
+            "A", "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -327,7 +368,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
             "E": "Nur die Aussagen 2, 4 und 5 sind richtig"
-        }
+        }, "solution": [
+            "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -342,7 +385,9 @@
             "C": "Nur die Aussagen 4 und 5 sind richtig",
             "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -357,7 +402,9 @@
             "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
             "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
-        }
+        }, "solution": [
+            "B"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -372,7 +419,9 @@
             "C": "Bei akuter Suizidalit\u00e4t muss, ggf. auch gegen den Willen des Patienten, eine \nbesch\u00fctzende station\u00e4re Behandlung veranlasst werden",
             "D": "Den Patienten nach eingehendem Interventionsgespr\u00e4ch nach Hause entlassen",
             "E": "Den Patienten nicht mehr alleine lassen"
-        }
+        }, "solution": [
+            "C", "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -387,7 +436,9 @@
             "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
             "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
             "E": "Alle Aussagen sind richtig"
-        }
+        }, "solution": [
+            "C"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -402,7 +453,9 @@
             "C": "geht mit einer Bewusstseinsst\u00f6rung einher",
             "D": "ist meistens medikament\u00f6s bedingt",
             "E": "kann bei Stoffwechselst\u00f6rungen auftreten"
-        }
+        }, "solution": [
+            "C", "E"
+        ]
     },
     {
         "date": "21.03.2018",
@@ -417,6 +470,8 @@
             "C": "In der Auraphase treten h\u00e4ufig Sehst\u00f6rungen auf",
             "D": "Die Kopfschmerzen bessern sich bei k\u00f6rperlicher Bet\u00e4tigung",
             "E": "Lebensmittel k\u00f6nnen keinen Anfall ausl\u00f6sen"
-        }
+        }, "solution": [
+            "B", "C"
+        ]
     }
 ]
