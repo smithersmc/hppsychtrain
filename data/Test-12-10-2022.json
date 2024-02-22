@@ -1,0 +1,518 @@
+[
+    {
+        "date": "12.10.2022",
+        "number": "1",
+        "group": "B",
+        "page": 1,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nIn der dialektisch-behavioralen Therapie (DBT) zur Behandlung von Pers\u00f6nlichkeitsst\u00f6rungen \nvom Borderline-Typ \n1. ist die Vermittlung von Skills (Fertigkeiten) ein Kernst\u00fcck der DBT \n2. kann das Skillstraining je nach Symptomatik der Patienten unterschiedlich \nkomponiert werden \n3. soll die Emotionsregulation verbessert werden \n4. werden Probleml\u00f6sungsfertigkeiten und soziale Kompetenzen trainiert \n5. findet der Einsatz von kognitiven Methoden keine Anwendung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "2",
+        "group": "B",
+        "page": 2,
+        "classification": "Mehrfachauswahl",
+        "text": "Bei einem wegen einer schizophrenen Psychose unter rechtlicher Betreuung stehenden \nPatienten soll eine geplante Herzkathederuntersuchung mit eventuell erforderlicher Bypass-\nOperation durchgef\u00fchrt werden. \nDer Betroffene lehnt diese Untersuchung ab. \nDie Betreuung umfasst den Aufgabenbereich Gesundheitssorge. \nWelche der folgenden Aussagen zum weiteren Vorgehen treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Der Betreuer bef\u00fcrwortet die Untersuchung und gibt dem Arzt die Einwilligung \nzur Untersuchung",
+            "B": "Ist der Betroffene zum Zeitpunkt der anstehenden Untersuchung \neinwilligungsf\u00e4hig, darf die Untersuchung nicht stattfinden",
+            "C": "Ist der Betroffene zum Zeitpunkt der anstehenden Untersuchung nicht \neinwilligungsf\u00e4hig, lehnt der Betreuer auf dessen Wunsch hin  ebenfalls die \nHerzkathederuntersuchung ab",
+            "D": "Ist der Betroffene zum Zeitpunkt der anstehenden Untersuchung nicht \neinwilligungsf\u00e4hig, darf der Betreuer die Untersuchung anordnen",
+            "E": "Ist der Betroffene zum Zeitpunkt der anstehenden Untersuchung nicht \neinwilligungsf\u00e4hig, beantragt der Betreuer die Genehmigung f\u00fcr die \ndurchzuf\u00fchrende Ma\u00dfnahme beim Betreuungsgericht"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "3",
+        "group": "B",
+        "page": 3,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nFaktoren, die bei der Erstmanifestation einer Schizophrenie hinsichtlich der Prognose als \neher g\u00fcnstig gelten, sind",
+        "options": {
+            "A": "Cannabiskonsum",
+            "B": "Weibliches Geschlecht",
+            "C": "Akuter Krankheitsbeginn",
+            "D": "Schleichender Krankheitsbeginn",
+            "E": "Auftreten von Schizophrenie bei nahen Angeh\u00f6rigen"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "4",
+        "group": "B",
+        "page": 4,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zum Suizid trifft zu?",
+        "options": {
+            "A": "Bei Jugendlichen ist Suizid eine sehr seltene Todesursache",
+            "B": "Bei Menschen, die an Suizid verstorben sind, bestand meist eine psychische \nErkrankung",
+            "C": "Bei Personen, die bereits mehrere Suizidversuche hinter sich haben, sinkt die \nWahrscheinlichkeit, dass sie sich suizidieren",
+            "D": "Nach Entlassung aus einer psychiatrischen Klinik haben Patienten im Vergleich \nzur Allgemeinbev\u00f6lkerung ein geringeres Suizidrisiko",
+            "E": "Die Suizidrate in Deutschland ist in den letzten Jahrzehnten deutlich gestiegen"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "5",
+        "group": "B",
+        "page": 5,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nZu den inhaltlichen Denkst\u00f6rungen geh\u00f6ren",
+        "options": {
+            "A": "\u00dcberwertige Ideen",
+            "B": "Konkretismus",
+            "C": "Paralogik",
+            "D": "Kontamination",
+            "E": "Symbiotischer Wahn (Folie \u00e0 deux)"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "6",
+        "group": "B",
+        "page": 6,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur geistigen Behinderung treffen zu? \n1. Menschen mit geistiger Behinderung haben oft eine mehrfache Behinderung \n2. Von einer mittelgradigen Intelligenzminderung (Imbezillit\u00e4t) spricht man bei \neinem Intelligenzquotienten (IQ) von 85 \n3. Bei Kindern mit geistiger Behinderung gelingt es heute in \u00fcber 90 % der F\u00e4lle die \nUrsache zu kl\u00e4ren \n4. Bei Kindern mit geistiger Behinderung besteht ein erh\u00f6htes Risiko an einer \npsychischen St\u00f6rung zu erkranken \n5. Zu den pr\u00e4ventiven Ma\u00dfnahmen gegen bestimmte angeborene \nIntelligenzminderungen geh\u00f6ren Schutzimpfungen der Mutter vor Eintritt der \nSchwangerschaft",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "7",
+        "group": "B",
+        "page": 7,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen trifft (treffen) zu? \nEin Behandlungs- bzw. T\u00e4tigkeitsverbot besteht f\u00fcr Inhaber einer auf das Gebiet der \nPsychotherapie beschr\u00e4nkten Heilerlaubnis f\u00fcr die \n1. Verhaltenstherapie bei einem zwangskranken Patienten mit Neurosyphilis \n2. Verordnung von Bet\u00e4ubungsmitteln bei einem Patienten mit hyperkinetischer \nSt\u00f6rung \n3. psychotherapeutische Behandlung der depressiven St\u00f6rung eines Patienten mit \nchronischer Virushepatitis C \n4. Empfehlung einer besch\u00fctzenden station\u00e4ren Behandlung bei einem Patienten \nmit paranoider Schizophrenie \n5. Psychoedukation bei einem Patienten mit Leberzirrhose",
+        "options": {
+            "A": "Nur die Aussage 2 ist richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "8",
+        "group": "B",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nZu den affektiven St\u00f6rungen (nach ICD-10) z\u00e4hlen:",
+        "options": {
+            "A": "Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS)",
+            "B": "Entzugssyndrom mit Delir",
+            "C": "Hypomanie",
+            "D": "Somatisierungsst\u00f6rung",
+            "E": "Zyklothymia"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "9",
+        "group": "B",
+        "page": 9,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur prim\u00e4ren Enuresis treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "\u00dcber 1 Jahr nach bereits erworbener Blasenkontrolle tritt wieder Einn\u00e4ssen auf",
+            "B": "Famili\u00e4re H\u00e4ufung wird nur selten beobachtet",
+            "C": "Prim\u00e4re Enuresis bezeichnet Einn\u00e4ssen bei einem Kind, das noch nie l\u00e4ngere Zeit \ntrocken war",
+            "D": "Der Verlauf zeigt eine hohe Spontanheilungsrate",
+            "E": "Am h\u00e4ufigsten tritt sie tags\u00fcber auf (Enuresis diurna)"
+        },
+        "solution": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "10",
+        "group": "B",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den \u201eIch-St\u00f6rungen\u201c geh\u00f6ren \n1. Derealisation \n2. Gedankenabrei\u00dfen \n3. Gedankenausbreitung \n4. Gedankendr\u00e4ngen \n5. Gedankeneingebung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "11",
+        "group": "B",
+        "page": 11,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum Asperger-Syndrom (nach ICD-10) treffen zu? \n1. Es ist vor allem durch Schw\u00e4chen in den Bereichen der sozialen Interaktion und \nKommunikation gekennzeichnet \n2. Die Intelligenz ist in den meisten F\u00e4llen normal ausgepr\u00e4gt \n3. M\u00e4dchen sind h\u00e4ufiger betroffen als Jungen \n4. Die ersten Auff\u00e4lligkeiten treten bereits in den ersten Lebensmonaten zu Tage \n5. Die betroffenen Kinder fallen durch extreme Sprachentwicklungsst\u00f6rung auf",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "12",
+        "group": "B",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Agoraphobie (nach ICD-10) treffen zu? \n1. Die Symptome sind prim\u00e4re Manifestationen der Angst und beruhen nicht auf \nanderen Symptomen wie Wahn oder Zwangsgedanken \n2. Die Angst tritt auf \u00f6ffentlichen Pl\u00e4tzen, in Menschenmengen, beim allein Reisen \noder Reisen mit weiter Entfernung von Zuhause auf \n3. Die Angst flottiert frei \n4. Vermeidung ist ein entscheidendes Symptom \n5. Eine Behandlung mit Expositionsverfahren ist grunds\u00e4tzlich kontraindiziert",
+        "options": {
+            "A": "Nur die Aussage, 1 und 2 sindt richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "13",
+        "group": "B",
+        "page": 13,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen f\u00fcr eine Lese- und Rechtschreibst\u00f6rung (nach ICD-\n10) zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Eine umschriebene St\u00f6rung des Sprechens oder der Sprache geht der Lese- und \nRechtschreibst\u00f6rung h\u00e4ufig voraus",
+            "B": "Die St\u00f6rung tritt vor allem im Rahmen einer allgemeinen Intelligenzminderung \nauf",
+            "C": "Ein Defizit des Leseverst\u00e4ndnisses ist typischerweise nicht vorhanden",
+            "D": "Die Leseleistung muss unter dem Niveau liegen, das aufgrund des Alters, der \nallgemeinen Intelligenz und Beschulung zu erwarten w\u00e4re",
+            "E": "Soziale und emotionale Anpassungsprobleme stehen mit einer Lese- und \nRechtschreibst\u00f6rung in keinem Zusammenhang"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "14",
+        "group": "B",
+        "page": 14,
+        "classification": "Mehrfachauswahl",
+        "text": "Bei welchen der folgenden Erkrankungen ist die Letalit\u00e4t (Sterberisiko) am h\u00f6chsten?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Schizophrenie",
+            "B": "Anorexia nervosa",
+            "C": "Hypochondrische St\u00f6rung",
+            "D": "Somatoforme autonome Funktionsst\u00f6rung (Herz- und Kreislaufsystem)",
+            "E": "Generalisierte Angstst\u00f6rung"
+        },
+        "solution": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "15",
+        "group": "B",
+        "page": 15,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Depression treffen am ehesten zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Inhaltliche Denkst\u00f6rungen treten bei depressiven Episoden nicht auf",
+            "B": "Bei einer akuten schweren depressiven Episode f\u00fchrt eine Krankschreibung in \nder Regel zu einer deutlichen Verbesserung der Antriebshemmung",
+            "C": "Der Unterschied zwischen depressiver Episode und Dysthymie liegt im \nWesentlichen im Schweregrad und im zeitlichen Verlauf der Beschwerden",
+            "D": "Ohne Behandlung folgt auf eine depressive Episode meist eine Manie",
+            "E": "Medikamente k\u00f6nnen Depressionen ausl\u00f6sen"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "16",
+        "group": "B",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nAbwehrmechanismen in Sinne der Psychoanalyse sind: \n1. Projektion \n2. Regression \n3. Amnesie \n4. Identifikation \n5. Perseveration",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "17",
+        "group": "B",
+        "page": 17,
+        "classification": "Mehrfachauswahl",
+        "text": "Ein Therapeut \u00fcberlegt, ob bei einem Patienten die Technik der kognitiven Umstrukturierung \nindiziert ist. \nWann sollte er am ehesten von der Anwendung dieser Technik absehen? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Dem Patienten ist es trotz therapeutischer Unterst\u00fctzung unm\u00f6glich, Gedanken \nzu benennen",
+            "B": "Es ist motivierende Gespr\u00e4chsf\u00fchrung erforderlich, damit sich der Patient zum \nkognitiven Arbeiten bereit erkl\u00e4rt",
+            "C": "Bei dem Patienten besteht ein Mindestma\u00df an Einsicht in kognitive Prozesse",
+            "D": "Der Patient leidet an Zwangsgedanken, die er selbst als sinnlos erlebt",
+            "E": "Der Patient kommt nach einem abgeklungenen psychotischen Zustand zur \nBehandlung"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "18",
+        "group": "B",
+        "page": 18,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nKognitive Verhaltenstherapie mit einem Konfrontationsverfahren ist in der Regel vorrangige \nBehandlungsmethode bei einer/einem",
+        "options": {
+            "A": "Alkoholdelir",
+            "B": "spezifischen (isolierten) Phobie",
+            "C": "Rett-Syndrom",
+            "D": "Manie",
+            "E": "katatonen Schizophrenie"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "19",
+        "group": "B",
+        "page": 19,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zu den diagnostischen Kriterien der schizoiden Pers\u00f6nlichkeitsst\u00f6rung (nach \nICD-10) trifft zu?",
+        "options": {
+            "A": "Eigene Bed\u00fcrfnisse werden den Bed\u00fcrfnissen anderer Personen untergeordnet",
+            "B": "Es besteht eine emotionale K\u00fchle, Distanziertheit oder flache Affektivit\u00e4t",
+            "C": "Es besteht eine niedrige Frustrationstoleranz",
+            "D": "Es zeigt sich ein \u00fcbertriebener Ausdruck von Gef\u00fchlen",
+            "E": "Soziale Konventionen werden \u00fcberm\u00e4\u00dfig stark befolgt"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "20",
+        "group": "B",
+        "page": 20,
+        "classification": "Mehrfachauswahl",
+        "text": "Eine 65-j\u00e4hrige Patientin befindet sich wegen somatoformer Funktionsst\u00f6rung des unteren \nVerdauungssystems (Colon irritabile) in psychotherapeutischer Behandlung. \nWelche der folgenden Beschwerden sind im Rahmen der Differentialdiagnose am ehesten \nein Hinweis auf ein Dickdarmkarzinom? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "V\u00f6llegef\u00fchl",
+            "B": "H\u00f6rbare Darmger\u00e4usche",
+            "C": "Bl\u00e4hungen",
+            "D": "Blutbeimischung zum Stuhl",
+            "E": "Gewichtsverlust"
+        },
+        "solution": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "21",
+        "group": "B",
+        "page": 21,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Anpassungsst\u00f6rung (nach ICD-10) treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Es treten h\u00e4ufig Zwangssymptome auf",
+            "B": "Die Symptome halten meist nicht l\u00e4nger als 6 Monate an",
+            "C": "Bei Jugendlichen kann aggressives oder dissoziales Verhalten auftreten",
+            "D": "Insbesondere bei \u00e4lteren Patienten kann eine Wahnsymptomatik auftreten",
+            "E": "Es besteht immer eine psychosoziale Belastung von katastrophalem Ausma\u00df"
+        },
+        "solution": [
+            "BC"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "22",
+        "group": "B",
+        "page": 22,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zu Abh\u00e4ngigkeitserkrankungen bzw. abh\u00e4ngigen Verhaltensweisen trifft zu?",
+        "options": {
+            "A": "Abh\u00e4ngigkeiten sind nur bei Substanzen m\u00f6glich",
+            "B": "Hauptkriterium der Diagnose einer Alkoholabh\u00e4ngigkeit (nach ICD-10) ist eine \nTrinkmenge an reinem Alkohol von mindestens 24 Gramm t\u00e4glich (M\u00e4nner) bzw. \n12 Gramm t\u00e4glich (Frauen)",
+            "C": "Polytoxikomanie bezeichnet den Missbrauch einer Substanz \u00fcber viele Monate",
+            "D": "Kontrollverlust im Rahmen der Diagnose einer Abh\u00e4ngigkeitserkrankung \nbedeutet, \u00fcber sein Leben die Kontrolle zu verlieren",
+            "E": "Die Diagnose eines sch\u00e4dlichen Gebrauchs (nach ICD-10) erfordert eine \nSch\u00e4digung der psychischen oder physischen Gesundheit des Betroffenen"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "23",
+        "group": "B",
+        "page": 23,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Bulimia nervosa (nach ICD-10) treffen am ehesten zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Es ist mit der Diagnose Bulimia nervosa vereinbar, wenn jemand seinen Essanfall \nnicht \u00fcberraschend bekommt, sondern plant und gezielt Nahrungsmittel f\u00fcr den \nEssanfall einkauft",
+            "B": "Charakteristisch ist das wiederholte Hochw\u00fcrgen der Nahrung mit nochmaligem \nKauen und Schlucken",
+            "C": "Bei Jugendlichen mit Bulimia nervosa treten keine Elektrolytst\u00f6rungen auf",
+            "D": "Kognitive Verhaltenstherapie (KVT) ist die Therapie der ersten Wahl",
+            "E": "Gegen die bulimische St\u00f6rung spricht ein normales K\u00f6rpergewicht"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "24",
+        "group": "B",
+        "page": 24,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zum pathologischen Spielen (nach ICD-10) treffen am \nehesten zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Jede Art des Gl\u00fcckspiels hat das gleiche Gef\u00e4hrdungspotenzial f\u00fcr eine \nAbh\u00e4ngigkeitsentwicklung",
+            "B": "Als Begleiterkrankung tritt h\u00e4ufig Substanzmissbrauch auf",
+            "C": "Pathologisches Spielen ist definiert als exzessives Spielen manischer Patienten",
+            "D": "Die Wirksamkeit von Psychotherapie ist bisher noch unzureichend belegt",
+            "E": "Wichtig f\u00fcr die Diagnosestellung ist das Vorliegen eines Kontrollverlusts \u00fcber das \nSpielverhalten"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "25",
+        "group": "B",
+        "page": 25,
+        "classification": "Einfachauswahl",
+        "text": "In der Verhaltenstherapie wird die Technik der L\u00f6schung (Extinktion) eingesetzt. \nWelche Aussage trifft am ehesten zu?",
+        "options": {
+            "A": "Verhaltensl\u00f6schung gelingt am schnellsten und dauerhaftesten, wenn die \nvorherige Verst\u00e4rkung des Verhaltens unregelm\u00e4\u00dfig und selten erfolgte",
+            "B": "Verst\u00e4rker, die ein Verhalten aufrecht erhalten, werden bei der L\u00f6schung \nidentifiziert und dann entfernt",
+            "C": "Verhalten, das unter sehr gleichm\u00e4\u00dfigen Bedingungen kontinuierlich verst\u00e4rkt \nund aufrecht erhalten wurde, kann nicht gel\u00f6scht werden",
+            "D": "L\u00f6schung ist dann indiziert, wenn die H\u00e4ufigkeit eines Verhaltens gesteigert \nwerden soll",
+            "E": "Die Technik der L\u00f6schung f\u00fchrt in der Regel zu einem sehr schnellen Abbau des \nVerhaltens"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "26",
+        "group": "B",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nSymptome der Katatonie sind: \n1. Spastik der Extremit\u00e4ten \n2. Sprachstereotypien \n3. Mutismus \n4. Psychomotorische Erregung \n5. Negativismus",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "27",
+        "group": "B",
+        "page": 27,
+        "classification": "Einfachauswahl",
+        "text": "Eine Ihrer Patientinnen nimmt wegen einer Depression einen selektiven \nSerotoninwiederaufnahme-Hemmer (SSRI, z.B. Citalopram, Paroxetin, Sertralin) ein \nBei welcher zus\u00e4tzlichen Selbstmedikation muss vor allem mit einem erh\u00f6hten Auftreten \nvon Nebenwirkungen gerechnet werden?",
+        "options": {
+            "A": "Baldrian",
+            "B": "Hopfen",
+            "C": "Jod (Strumaprophylaxe)",
+            "D": "Johanniskraut",
+            "E": "Lavendel"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "12.10.2022",
+        "number": "28",
+        "group": "B",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Demenz bei Alzheimer-Krankheit trifft (treffen) zu?  \n1. Die Erkrankung entwickelt sich als unmittelbare Folge von Gef\u00e4\u00dfver\u00e4nderungen \nim Gehirn \n2. Die Demenz bei Alzheimer-Krankheit ist nach der alkoholbedingten Demenz die \nzweith\u00e4ufigste Demenzerkrankung \n3. Die Erkrankung entwickelt sich meist schleichend mit sich kontinuierlich \nverschlechternder Symptomatik \n4. Wahnideen und Halluzinationen treten nicht auf \n5. Bei einem pr\u00e4morbid hohen intellektuellen Leistungsniveau treten nur leichtere \nDemenzsymptome auf",
+        "options": {
+            "A": "Nur die Aussage 3 ist richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    }
+]

@@ -1,0 +1,516 @@
+[
+    {
+        "date": "09.10.2019",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Techniken z\u00e4hlen am ehesten zu den Konfrontationstherapien? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Flooding",
+            "B": "Time-out (Auszeit)",
+            "C": "Selbstmanagement",
+            "D": "Systematische Desensibilisierung",
+            "E": "Shaping (Verhaltensausformung)"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Mehrfachauswahl",
+        "text": "Bei einer 25-j\u00e4hrigen Frau, die wegen depressiver Verstimmung in Ihre psychotherapeutische \nBehandlung kommt, vermuten Sie eine Bulimia nervosa mit selbstinduziertem Erbrechen.  \nWelche der folgenden Befunde st\u00fctzen im Rahmen der Differenzialdiagnose am ehesten Ihren \nVerdacht? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Adipositas Grad 3 (Body-Mass-Index > 40 kg/m2)",
+            "B": "Speicheldr\u00fcsenschwellung",
+            "C": "Zahnsch\u00e4den",
+            "D": "Chloasma (Pigmentflecken im Gesicht)",
+            "E": "Akne"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Einfachauswahl",
+        "text": "Empathie ist eine zentrale Komponente im therapeutischen Kontakt der Gespr\u00e4chspsychotherapie \n(nach Rogers). \nWelche Aussage zur Empathie trifft zu?",
+        "options": {
+            "A": "Empathie bedeutet, die Gef\u00fchle des anderen zu \u00fcbernehmen",
+            "B": "Empathie ist ausgerichtet auf den inneren Bezugsrahmen des Klienten",
+            "C": "Empathie ist gleichzusetzen mit billigendem Verst\u00e4ndnishaben",
+            "D": "Empathie hei\u00dft, eine Bewertung abzugeben",
+            "E": "Empathie zielt darauf ab, die Selbstexploration des Klienten zu verhindern"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nTypische Charakteristika der anankastischen (zwanghaften) Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) \nsind: \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Das Verlangen, im Mittelpunkt der Aufmerksamkeit zu stehen",
+            "B": "\u00dcbertriebene Gewissenhaftigkeit und unverh\u00e4ltnism\u00e4\u00dfige Leistungsbezogenheit unter \nVernachl\u00e4ssigung von Vergn\u00fcgen und zwischenmenschlichen Beziehungen",
+            "C": "\u00dcberlassung der Verantwortung f\u00fcr wichtige Lebensbereiche des eigenen Lebens an \nandere",
+            "D": "\u00dcberm\u00e4\u00dfige Vorliebe f\u00fcr Phantasie, einzelg\u00e4ngerisches Verhalten und in sich gekehrte \nZur\u00fcckhaltung",
+            "E": "Rigidit\u00e4t und Eigensinn, wobei anderen gegen\u00fcber auf einer Unterordnung unter \neigene Gewohnheiten bestanden wird"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nDemenzerkrankungen",
+        "options": {
+            "A": "sind ein Synonym f\u00fcr Alzheimer Erkrankung",
+            "B": "beginnen selten vor dem 75. Lebensjahr",
+            "C": "f\u00fchren zu einer Abnahme des Ged\u00e4chtnisses und des Denkverm\u00f6gens",
+            "D": "sollten zur Differenzialdiagnostik mit einem bildgebenden Verfahren (cCT, cMRT) \nuntersucht werden",
+            "E": "f\u00fchren in der Regel innerhalb von 12 Monaten zum Tod"
+        },
+        "solution": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nVerantwortlich f\u00fcr die \u00f6ffentlich-rechtliche Unterbringung eines psychisch Kranken im \npsychiatrischen Krankenhaus f\u00fcr eine Zeitdauer von 6 Wochen gem\u00e4\u00df Unterbringungsrecht der \nL\u00e4nder (z.B. Psychisch-Kranken-Gesetz) ist",
+        "options": {
+            "A": "das Ordnungsamt",
+            "B": "das Gericht",
+            "C": "das Gesundheitsamt",
+            "D": "die zust\u00e4ndige \u00c4rztekammer",
+            "E": "die Kriminalpolizei"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "7",
+        "group": "A",
+        "page": 7,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zum Delir treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei alkohol- oder drogenabh\u00e4ngigen Patienten kann ein Delir in der Regel ambulant \nbehandelt werden",
+            "B": "Ein Delir ist ein \u00e4tiologisch unspezifisches Syndrom mit St\u00f6rungen des Bewusstseins, \nder Kognition und der Psychomotorik",
+            "C": "Ein Delir verl\u00e4uft in der Regel asymptomatisch",
+            "D": "Ein Delir ist eine organisch bedingte psychische St\u00f6rung",
+            "E": "Akustische Halluzinationen treten beim Delir nicht auf"
+        },
+        "solution": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "8",
+        "group": "A",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nBei Menschen, die an einer hebephrenen Schizophrenie leiden, sind nach ICD-10 folgende \nSymptome am ehesten typisch:",
+        "options": {
+            "A": "Miosis",
+            "B": "Antriebsverlust",
+            "C": "Trance",
+            "D": "Besessenheitszust\u00e4nde",
+            "E": "Affektverflachung"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "9",
+        "group": "A",
+        "page": 9,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage \u00fcber die bipolare affektive St\u00f6rung (nach ICD-10) trifft zu?",
+        "options": {
+            "A": "Akustische Halluzinationen sind mit der Diagnose einer manischen Episode im Rahmen \neiner bipolaren affektiven St\u00f6rung nicht vereinbar",
+            "B": "Unter Rapid Cycling versteht man das st\u00e4ndige Umherlaufen manischer Patienten",
+            "C": "Die depressive Episode im Rahmen einer bipolaren affektiven St\u00f6rung unterscheidet \nsich von der unipolaren St\u00f6rung durch das Vorliegen parathymer Gedankeninhalte",
+            "D": "Eine manische Episode ist von einer Schizophrenie gelegentlich nur im Verlauf \nunterscheidbar",
+            "E": "Die Diagnose einer Dysthymia schlie\u00dft eine bipolare affektive St\u00f6rung aus"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "10",
+        "group": "A",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Zwangsst\u00f6rungen treffen zu? \n1. Bei Zwangsst\u00f6rungen beobachtet man sehr h\u00e4ufig Spontanremissionen \n2. Eine Zwangsst\u00f6rung beginnt in der Regel im mittleren bis h\u00f6heren Erwachsenenalter \n3. Aufgrund des hohen Leidensdrucks kommt es meist zu einer raschen Diagnosestellung \n4. Eine Kombination aus Psychotherapie und medikament\u00f6ser Behandlung hat sich \nbew\u00e4hrt \n5. Zwangssymptome k\u00f6nnen bei einer Depression auftreten",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "11",
+        "group": "A",
+        "page": 11,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu?  \nGr\u00fcbeln geh\u00f6rt im psychopathologischen Befund zur Gruppe der",
+        "options": {
+            "A": "Aufmerksamkeits- und Ged\u00e4chtnisst\u00f6rungen",
+            "B": "formalen Denkst\u00f6rungen",
+            "C": "Bef\u00fcrchtungen und Zw\u00e4nge",
+            "D": "Ich-St\u00f6rungen",
+            "E": "inhaltlichen Denkst\u00f6rungen"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "12",
+        "group": "A",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu psychischen St\u00f6rungen im Wochenbett treffen zu?  \n1. Die postpartale Depression hat meist eine g\u00fcnstige Prognose \n2. Bei einer schweren postpartalen Depression empfiehlt sich eine Behandlung mit einem \nAntidepressivum  \n3. Bei ersten Anzeichen f\u00fcr eine postpartale Depression sollte die Mutter vom Kind \ngetrennt werden \n4. Im Wochenbett treten psychische Erkrankungen geh\u00e4uft auf \n5. Eine postpartale Depression kann sich innerhalb von Stunden nach der Entbindung \nentwickeln",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "13",
+        "group": "A",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Antipsychotika (Neuroleptika) treffen zu? \n1. Antipsychotika sind zur Behandlung schizophrener St\u00f6rungen geeignet \n2. Antipsychotika werden auch zur Behandlung schwerer depressiver Episoden eingesetzt \n3. Antipsychotika werden nach \u201etypischen\u201c und \u201eatypischen\u201c Antipsychotika \nunterschieden \n4. Bei Einnahme von Antipsychotika sollten regelm\u00e4\u00dfige Kontrolluntersuchungen (z.B. \nElektrokardiogramm, EKG) durchgef\u00fchrt werden \n5. Bei Antipsychotika kann als typische Nebenwirkung ein Parkinsonoid auftreten",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "14",
+        "group": "A",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Welche Aussagen zum St\u00f6rungsbild einer sozialen Phobie treffen zu? \n1. Die \u00c4ngste treten vorwiegend in gr\u00f6\u00dferen Menschenmengen auf \n2. Die St\u00f6rung tritt ganz \u00fcberwiegend bei M\u00e4nnern auf \n3. Soziale Phobien sind in der Regel mit einem niedrigen Selbstwertgef\u00fchl verbunden \n4. Die Symptome k\u00f6nnen sich bis hin zu Panikattacken verst\u00e4rken \n5. Soziale Phobien k\u00f6nnen sich in Beschwerden wie H\u00e4ndezittern, \u00dcbelkeit und Drang \nzum Wasserlassen \u00e4u\u00dfern",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 4  und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "15",
+        "group": "A",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nInhaber einer auf das Gebiet der Psychotherapie beschr\u00e4nkten Heilpraktikererlaubnis sind \ngrunds\u00e4tzlich berechtigt zur selbst\u00e4ndigen Anwendung \n1. der kognitiven Verhaltenstherapie \n2. der tiefenpsychologisch fundierten Psychotherapie \n3. der Psychoanalyse \n4. von Intelligenztests \n5. der Osteopathie",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "16",
+        "group": "A",
+        "page": 16,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu Anpassungsst\u00f6rungen (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Ausl\u00f6ser sind meist nicht zu definieren",
+            "B": "Auftreten nach psychosozialer Belastung",
+            "C": "Bei Kindern h\u00e4ufig Auftreten regressiver Symptome wie z.B. sekund\u00e4re Enuresis",
+            "D": "Dauer in der Regel l\u00e4nger als 6 Monate",
+            "E": "Individuelle Faktoren spielen bei dem Auftreten keine Rolle"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "17",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Psychotherapie treffen zu? \n1. \u201eErlernte Hilflosigkeit\u201c ist ein in der psychoanalytischen Therapie verwendeter Begriff \neines Abwehrmechanismus \n2. Bei einer akuten schweren depressiven Episode ist eine ambulante psychodynamisch \norientierte Psychotherapie Therapie der ersten Wahl \n3. In der kognitiven Therapie wird der sokratische Dialog angewendet \n4. Beim SORKC-Modell handelt es sich um ein in der verhaltenstherapeutischen \nDiagnostik anwendbares Modell zur Problem-, Situations- und Verhaltensanalyse \n5. Psychodynamisch orientierte Psychotherapiemethoden spielen in der Kindertherapie \nkeine wesentliche Rolle",
+        "options": {
+            "A": "Nur die Aussagen 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "18",
+        "group": "A",
+        "page": 18,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu?  \nCharakteristisch f\u00fcr eine histrionische Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) ist/sind:",
+        "options": {
+            "A": "Starke Zweifel und \u00fcbertriebene Vorsicht",
+            "B": "\u00c4ngste vor Alleinsein und Verlassenwerden",
+            "C": "Leichte Beeinflussbarkeit durch andere Personen",
+            "D": "\u00dcberm\u00e4\u00dfige Gewissenhaftigkeit",
+            "E": "Fehlen von Selbstvertrauen"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "19",
+        "group": "A",
+        "page": 19,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu?  \nDie Substitutionsbehandlung von Opioidabh\u00e4ngigen mit Methadon:",
+        "options": {
+            "A": "darf durch den Heilpraktiker durchgef\u00fchrt werden",
+            "B": "f\u00fchrt in aller Regel zur vollst\u00e4ndigen Abstinenz",
+            "C": "h\u00e4lt die Opioidabh\u00e4ngigkeit aufrecht",
+            "D": "schlie\u00dft eine gleichzeitige psychotherapeutische Behandlung aus",
+            "E": "ist nur station\u00e4r durchf\u00fchrbar"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "20",
+        "group": "A",
+        "page": 20,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nTypische Symptome einer depressiven Episode (nach ICD-10) sind: \n1. Ideenflucht \n2. Interessensverlust \n3. Vermindertes Selbstbewusstsein \n4. Suizidgedanken \n5. Verminderter Antrieb",
+        "options": {
+            "A": "Nur die Aussagen 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle  Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "21",
+        "group": "A",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) \ntreffen zu?  \n1. Typische Kennzeichen des ADHS im Kindesalter sind u.a. Hypermotorik und \nimpulshafte Ausbr\u00fcche \n2. Typische Kennzeichen des ADHS im Erwachsenenalter sind u.a. Desorganisation und \nfehlendes Durchhalteverm\u00f6gen \n3. H\u00e4ufige komorbide St\u00f6rungen bei ADHS im Kindesalter sind Tic-St\u00f6rungen und \nSt\u00f6rungen des Sozialverhaltens \n4. H\u00e4ufige komorbide St\u00f6rungen bei ADHS im Erwachsenenalter sind \nAbh\u00e4ngigkeitserkrankungen, depressive St\u00f6rungen und Angstst\u00f6rungen \n5. Bei der Behandlung eines ADHS im Erwachsenenalter ist die Gabe von Methylphenidad \nkontraindiziert",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "22",
+        "group": "A",
+        "page": 22,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu Wahrnehmungsst\u00f6rungen treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Illusion\u00e4re Verkennungen treten u.a. beim Delir auf",
+            "B": "Eine Halluzination ist eine Sinnesst\u00e4uschung ohne entsprechenden \u00e4u\u00dferen Reiz",
+            "C": "Optische Halluzinationen sprechen gegen eine k\u00f6rperlich begr\u00fcndbare Psychose",
+            "D": "Optische Halluzinationen bestimmen das klinische Bild der hebephrenen Schizophrenie",
+            "E": "Akustische Halluzinationen sind charakteristisch f\u00fcr die paranoide \nPers\u00f6nlichkeitsst\u00f6rung"
+        },
+        "solution": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "23",
+        "group": "A",
+        "page": 23,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nSie wollen mit Ihrem Patienten im Rahmen eines sozialen Kompetenztrainings ein\u00fcben, dass \ndieser angemessen f\u00fcr seine Rechte eintritt. \nSie geben dem Patienten die Instruktionen:",
+        "options": {
+            "A": "laut und deutlich zu reden",
+            "B": "bei Forderungen den Gebrauch von \u201eich\u201c zu vermeiden",
+            "C": "sich f\u00fcr die eigenen Forderungen zu entschuldigen",
+            "D": "erst zu erkl\u00e4ren, warum man etwas wolle, dann zu sagen, was",
+            "E": "Verst\u00e4ndnis f\u00fcr die Position des anderen zu \u00e4u\u00dfern"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "24",
+        "group": "A",
+        "page": 24,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nM\u00f6gliche Ursachen einer organischen depressiven St\u00f6rung (nach ICD-10) sind: \n1. Maligne Hirnerkrankung \n2. Zwangsst\u00f6rung \n3. Hypothyreose \n4. Morbus Parkinson \n5. Hypochondrische St\u00f6rung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "25",
+        "group": "A",
+        "page": 25,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu?  \nEin 60-j\u00e4hriger Patient berichtet Ihnen von einer qu\u00e4lenden Unruhe, verst\u00e4rkt im Sitzen und \nLiegen, mit ausgepr\u00e4gtem Bewegungsdrang, der den ganzen K\u00f6rper betrifft. W\u00e4hrend des \nGespr\u00e4chs ist er unf\u00e4hig, still zu sitzen, tritt von einem Bein auf das andere und wippt hin und her. \nDas spricht am ehesten f\u00fcr ein/eine:",
+        "options": {
+            "A": "Dissoziative Bewegungsst\u00f6rung",
+            "B": "Schilddr\u00fcsenunterfunktion",
+            "C": "Tourette-Syndrom",
+            "D": "Adynamie",
+            "E": "Akathisie"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "26",
+        "group": "A",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nDie emotional instabile Pers\u00f6nlichkeitsst\u00f6rung vom Borderline-Typ (nach ICD-10) \n1. neigt zu suizidalem und pr\u00e4suizidalem Verhalten \n2. ist gleichbedeutend mit einer schweren Depression \n3. neigt selten zu Wutanf\u00e4llen und aggressiven Durchbr\u00fcchen \n4. zeigt eine ausgepr\u00e4gte und andauernde Instabilit\u00e4t des Selbstbildes oder der \nSelbstwahrnehmung \n5. ist gekennzeichnet durch ein intensives Bem\u00fchen, tats\u00e4chliches oder vermutetes \nVerlassenwerden zu vermeiden",
+        "options": {
+            "A": "Nur die Aussage, 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "27",
+        "group": "A",
+        "page": 27,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nIn der Verhaltenstherapie \n1. sind experimentelle Befunde zur klassischen und operanten Konditionierung eine \nwichtige Grundlage von Modellen zur Entstehung psychischer St\u00f6rungen sowie von \nInterventionsmethoden \n2. gilt das Prinzip der klassischen Konditionierung inzwischen als veraltet und ist nur noch \nvon untergeordneter Bedeutung \n3. bezeichnet operante Konditionierung einen Lernprozess, bei dem die \nAuftretenswahrscheinlichkeit von Verhalten durch seine Konsequenzen erh\u00f6ht oder \nerniedrigt wird \n4. ist der Begriff \u201enegative Verst\u00e4rkung\u201c innerhalb des operanten Konditionierens mit \n\u201eBestrafung\u201c gleichzusetzen \n5. kommen Verst\u00e4rkerpl\u00e4ne zum Aufbau neuen Verhaltens zum Einsatz",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "09.10.2019",
+        "number": "28",
+        "group": "A",
+        "page": 28,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Suizidalit\u00e4t treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei depressiven Menschen sollte man Fragen nach Suizidgedanken meiden, da diese \ndas Suizidrisiko in der Regel erh\u00f6hen",
+            "B": "Suchtkranke Menschen sind in erh\u00f6htem Ma\u00dfe suizidgef\u00e4hrdet",
+            "C": "Wenn suizidale Patienten nach vorheriger Verzweiflung pl\u00f6tzlich ruhig und gel\u00f6st \nwirken, ist dies ein Zeichen von Besserung, die Suizidgefahr l\u00e4sst nach",
+            "D": "Nur wenige Patienten mit Suizidgedanken k\u00fcndigen geplante Suizidhandlungen an",
+            "E": "In Deutschland sterben mehr Menschen an Suizid an im Verkehr"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    }
+]

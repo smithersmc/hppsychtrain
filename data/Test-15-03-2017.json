@@ -1,0 +1,493 @@
+[
+    {
+        "date": "15.03.2017",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZur selbst\u00e4ndigen Durchf\u00fchrung von Verhaltenstherapie bei psychisch kranken Menschen \nberechtigt grunds\u00e4tzlich:  \n1. Die Approbation als Arzt \n2. Das abgeschlossene Studium der Psychologie \n3. Die allgemeine Heilpraktikererlaubnis \n4. Die auf das Gebiet der Psychotherapie beschr\u00e4nkte Heilpraktikererlaubnis \n5. Die Approbation als Psychologischer Psychotherapeut",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nFolgende Symptome sprechen eher f\u00fcr ein Delir als f\u00fcr eine Alzheimer-Demenz: \n1. Akuter Beginn \n2. Klares Bewusstsein \n3. Hinweis auf eine k\u00f6rperliche Erkrankung oder Intoxikation \n4. Wortfindungsst\u00f6rung \n5. Flukturierender Symptomverlauf",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nTypisch f\u00fcr eine Alkoholabh\u00e4ngigkeit sind:  \n1. Craving \n2. Hyperarousal \n3. Dissoziation \n4. Kontrollverlust \n5. Toleranzentwicklung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der genannten Aussagen zum Intelligenztest (z.B. HAWIE: Hamburg-Wechsler-\nIntelligenztest f\u00fcr Erwachsene, Mittelwert 100, Standardabweichung 15) treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Ein IQ (Intelligenzquotient) von 50 entspricht der durchschnittlichen Intelligenz",
+            "B": "Bei einem IQ von 100 haben 50 % der Referenzgruppe einen h\u00f6heren \nIntelligenzquotienten",
+            "C": "30 % der Menschen liegen zwischen einem IQ von 85 bis 115",
+            "D": "Ein IQ von 115 entspricht einem Prozentrang von 99 (99 % der Referenzgruppe \nerreichen niedrigere Werte im Test)",
+            "E": "Ein IQ von weniger als 20 entspricht nach der ICD-10 einer schwersten \nIntelligenzminderung \n \n \n5 \nEinfachauswahl   \n \n \n \n \n \n \n \n \nWelches Krankheitsbild gilt am ehesten als Kontraindikation f\u00fcr das autogene Training? \nA) \nEine Migr\u00e4neerkrankung \nB) \nEine akute paranoide Psychose  \nC) \nEine Bluthochdruckerkrankung \nD) \nEin Schlafapnoesyndrom \nE) \nEine psychosomatische St\u00f6rung"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Einfachauswahl",
+        "text": "Welches Krankheitsbild gilt am ehesten als Kontraindikation f\u00fcr das autogene Training?",
+        "options": {
+            "A": "Eine Migr\u00e4neerkrankung",
+            "B": "Eine akute paranoide Psychose",
+            "C": "Eine Bluthochdruckerkrankung",
+            "D": "Ein Schlafapnoesyndrom",
+            "E": "Eine psychosomatische St\u00f6rung"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "6",
+        "group": "A",
+        "page": 5,
+        "classification": "Einfachauswahl",
+        "text": "Ein 65-j\u00e4hriger Patient befindet sich seit einigen Wochen im Ruhestand. Seine Frau berichtet, \ndass er sich seither stark ver\u00e4ndert habe. Er sei sehr zur\u00fcckgezogen und wortkarg. Wenn er \nmit ihr spreche, \u00e4u\u00dfere er nur Sorgen und \u00c4ngste. \nWelche Diagnose trifft f\u00fcr die Beschreibung am ehesten zu?",
+        "options": {
+            "A": "Posttraumatische Belastungsst\u00f6rung",
+            "B": "Anpassungsst\u00f6rung",
+            "C": "Somatisierungsst\u00f6rung",
+            "D": "Abh\u00e4ngige Pers\u00f6nlichkeitsst\u00f6rung",
+            "E": "Angstst\u00f6rung \n \n7 \nEinfachauswahl   \n \n \n \n \n \n \n \n \nWelche Aussage trifft zu? \nDer Begriff \u201ePolytoxikomanie\u201c bezeichnet \u00fcblicherweise \nA) \nEine manische Phase, die durch eine Vergiftung hervorgerufen wird \nB) \nEine Mehrfachabh\u00e4ngigkeit von verschiedenen psychotrop wirkenden \nSubstanzen  \nC) \nEine Zwangserkrankung, bei der Vergiftungs\u00e4ngste im Vordergrund stehen \nD) \nEin Entzugssyndrommit manischen Symptomen \nE) \nEine akute Intoxikation mit Arzneimitteln"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "8",
+        "group": "A",
+        "page": 6,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nTypisch f\u00fcr eine Borderline-Pers\u00f6nlichkeitsst\u00f6rung sind: \n1. Hypersomnie \n2. Anhaltende akustische Halluzinationen \n3. Chronisches Gef\u00fchl innerer Leere \n4. Impulsivit\u00e4t \n5. Selbstsch\u00e4digende Handlungen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "9",
+        "group": "A",
+        "page": 7,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Ursachen und Symptomen der Schizophrenie treffen zu?  \n1. Nach aktueller Auffassung besteht eine multifaktorielle Krankheitsentstehung \n2. F\u00fcr eine genetische Komponente gibt es bisher keine Hinweise \n3. Bei der akuten paranoiden Schizophrenie wird das klinische Bild von den \nSymptomen Affektverflachung und Antriebsst\u00f6rung beherrscht \n4. Bei manchen Patienten bestehen k\u00f6rperliche Wahrnehmungsst\u00f6rungen \n(Z\u00f6n\u00e4sthesien) \n5. Das schizophrene Residuum ist vorwiegend durch Positivsymptome \ngekennzeichnet",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1 und 4 sind richtig",
+            "C": "Nur die Aussagen 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "10",
+        "group": "A",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nEin Patient mit bekannter Abh\u00e4ngigkeitserkrankung befindet sich in Ihrer regelm\u00e4\u00dfigen \npsychotherapeutischen Behandlung. Beim aktuellen Gespr\u00e4chstermin zeigt er ein \nver\u00e4ndertes Verhalten. Zus\u00e4tzlich fallen Ihnen sehr weite Pupillen (Mydriasis) auf.",
+        "options": {
+            "A": "Kokain",
+            "B": "Morphin",
+            "C": "Buprenorphin (z.B. Subutex\u00ae)",
+            "D": "Methamphetamin",
+            "E": "Heroin"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "11",
+        "group": "A",
+        "page": 9,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Nebenwirkungen k\u00f6nnen bei der Therapie mit Lithiumpr\u00e4paraten \nauftreten? \n1. Tremor \n2. Vermehrte Harnausscheidung (Polyurie) \n3. Gewichtszunahme \n4. \u00dcbelkeit \n5. Gesteigertes Durstempfinden",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "12",
+        "group": "A",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Merkmale des somatischen Syndroms bei einer depressiven Episode (nach ICD-10) \nsind:  \n1. Appetitverlust \n2. Fr\u00fchmorgendliches Erwachen \n3. Schuldgef\u00fchle, Gef\u00fchl von Wertlosigkeit \n4. Libidoverlust \n5. Suizidgedanken",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "13",
+        "group": "A",
+        "page": 11,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen st\u00fctzen im Rahmen der Differenzialdiagnose die \nVerdachtsdiagnose einer posttraumatischen Belastungsst\u00f6rung (PTBS) nach ICD-10? \n1. Die Symptomatik wird spontan und ausf\u00fchrlich berichtet \n2. Der Betroffene berichtet \u00fcber erh\u00f6hte Schreckhaftigkeit und Vigilanzsteigerung \n3. Der Betroffene vermeidet die Konfrontation mit traumabezogenen Inhalten \n4. Der Betroffene hat keine Erinnerungen oder Tr\u00e4ume, in denen das belastende \nEreignis wieder auftritt \n5. Beim Bericht \u00fcber Flashbacks bestehen vegetative Erregung und emotionale \nAnspannung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "14",
+        "group": "A",
+        "page": 12,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden St\u00f6rungen geh\u00f6ren zu den quantitativen Bewusstseinsst\u00f6rungen? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Benommenheit",
+            "B": "Verwirrtheit",
+            "C": "Sopor",
+            "D": "Bewusstseinseinengung",
+            "E": "Halluzinationen"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "15",
+        "group": "A",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Bulimia nervosa treffen zu?  \n1. In der Vorgeschichte l\u00e4sst sich h\u00e4ufig eine Episode einer Anorexia nervosa \nnachweisen \n2. Die Betroffenen betreiben teilweise einen Missbrauch von Abf\u00fchrmitteln \n3. Frauen und M\u00e4nner sind etwa gleich h\u00e4ufig betroffen \n4. Der Body-Mass-Index liegt typischerweise unter 17,5 kg/m2 \n5. Die Betroffenen zeigen h\u00e4ufig depressive Symptome",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "16",
+        "group": "A",
+        "page": 14,
+        "classification": "Einfachauswahl",
+        "text": "Eine Mutter kommt mit ihrer 5-j\u00e4hrigen Tochter in Ihre Praxis. Sie beklagt, dass ihr Kind im \nVergleich zu anderen auff\u00e4llig unkonzentriert sei, sich leicht ablenken lasse, nicht l\u00e4nger still \nsitzen k\u00f6nne sowie neben raschen Stimmungswechseln auch zu unbegr\u00fcndeten Wutanf\u00e4llen \nneige. \nWoran denken Sie am ehesten?",
+        "options": {
+            "A": "Rett-Syndrom",
+            "B": "Lese- und Rechtschreibst\u00f6rung (LRS)",
+            "C": "Fr\u00fchkindlicher Autismus",
+            "D": "Aufmerksamkeitsdefizit-Hyperaktivit\u00e4tsst\u00f6rung (ADHS)",
+            "E": "Tic-St\u00f6rung"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "17",
+        "group": "A",
+        "page": 14,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nDas pr\u00e4suizidale Syndrom nach Ringel umfasst die Trias:",
+        "options": {
+            "A": "Aggressionsumkehr, Suizidversuch, Depressivit\u00e4t",
+            "B": "Vereinsamung, Suizidversuch, Depressivit\u00e4t",
+            "C": "Selbstverletzendes Verhalten, Arbeitslosigkeit, Halluzinationen",
+            "D": "Einengung, Aggressionsumkehr, Suizidphantasien",
+            "E": "Suizidphantasien, Suizidversuch, selbstverletzendes Verhalten"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "18",
+        "group": "A",
+        "page": 15,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \n\u00dcbertragung und Gegen\u00fcbertragung",
+        "options": {
+            "A": "st\u00f6ren den geordneten Ablauf einer Psychotherapie",
+            "B": "begr\u00fcnden ein regul\u00e4res Vertragsverh\u00e4ltnis zwischen Patient und Behandler in \nder Richtlinienpsychotherapie",
+            "C": "beschreiben Gef\u00fchlsreaktionen zwischen Therapeuten und Patienten im \npsychotherapeutischen Prozess",
+            "D": "werden in der Verhaltenstherapie besonders gef\u00f6rdert",
+            "E": "dienen der fortlaufenden Abgleichung der Psychotherapieziele zwischen \nTherapeut und Patient"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "19",
+        "group": "A",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nSt\u00f6rungen der Psychomotorik bei Schizophrenie k\u00f6nnen sein: \n1. Katalepsie \n2. Negativismus \n3. Derealision \n4. Mutismus  \n5. Parathymie",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 2 und 4 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "20",
+        "group": "A",
+        "page": 17,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur rechtlichen Betreuung treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei behandlungsuneinsichtigen psychisch Kranken kann das Gesundheitsamt eine \nBetreuung anordnen",
+            "B": "Die Behandlung von Menschen mit Betreuung ist Heilpraktikern grunds\u00e4tzlich \nnicht gestattet",
+            "C": "Die Entscheidung \u00fcber die Bestellung eines Betreuers trifft das Gericht",
+            "D": "Die Errichtung einer Betreuung gegen den Willen eines Betroffenen kann auch \ndurch nahe Angeh\u00f6rige angeregt werden",
+            "E": "Eine Betreuung bleibt lebenslang bestehen"
+        },
+        "solution": [
+            "C",
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "21",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen f\u00fcr den Umgang mit suizidgef\u00e4hrdeten Patienten treffen \nzu?  \n1. Je konkreter die Ideen \u00fcber den Suizid sind, umso gr\u00f6\u00dfer ist die Suizidgefahr \n2. Depressive Patienten d\u00fcrfen nicht nach ihren suizidalen Ideen exploriert werden \n3. Die suizidale Gef\u00e4hrdung bei Patienten mit Psychosen aus dem schizophrenen \nFormenkreis ist vergleichbar mit der der Allgemeinbev\u00f6lkerung \n4. Bei depressiven Patienten k\u00f6nnen sich suizidale Tendenzen in der Anfangsphase \nder medikament\u00f6sen Behandlung verst\u00e4rken \n5. Bei Alkoholabh\u00e4ngigkeit ist das Suizidrisiko erh\u00f6ht",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "22",
+        "group": "A",
+        "page": 19,
+        "classification": "Mehrfachauswahl",
+        "text": "Ein 50-j\u00e4hriger Mann mit bekannter Alkoholkrankheit wird von Angeh\u00f6rigen in Ihre Praxis \ngebracht.  \nWelche der folgenden Befunde st\u00fctzen den Verdacht auf ein Korsakow-Syndrom? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Akustische Halluzination",
+            "B": "St\u00f6rung des Kurzzeitged\u00e4chtnisses",
+            "C": "Ausgepr\u00e4gte Bewusstseinseintr\u00fcbung",
+            "D": "Gr\u00f6\u00dfenwahn",
+            "E": "Deutliche St\u00f6rung des Zeitgef\u00fchls"
+        },
+        "solution": [
+            "BE"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "23",
+        "group": "A",
+        "page": 20,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen trifft (treffen) zu?  \nDie wahnhafte St\u00f6rung ist nach ICD-10 charakterisiert durch: \n1. Lang anhaltenden Wahn \n2. Stupor \n3. Antriebsst\u00f6rung \n4. Denkzerfahrenheit  \n5. Anhaltende akustische Halluzinationen",
+        "options": {
+            "A": "Nur die Aussage 1 ist richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 1 und 5 sind richtig",
+            "D": "Nur die Aussagen 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "24",
+        "group": "A",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Verfahren z\u00e4hlen zu den Psychotherapieverfahren?  \n1. Schematherapie \n2. Gestalttherapie \n3. Lichttherapie \n4. Schlafentzugstherapie  \n5. EMDR (Eye Movement Desensitization and Reprocessing)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "25",
+        "group": "A",
+        "page": 22,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nDie dissoziale Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) ist charakterisiert durch:   \n1. Fehlende Bereitschaft zur Mitgliedschaft in Vereinen (z.B. Sportverein) \n2. Zur\u00fcckgezogene Lebensweise \n3. Unsichere Pers\u00f6nlichkeit \n4. Sehr geringe Frustrationstoleranz und niedrige Schwelle f\u00fcr aggressives, auch \ngewaltt\u00e4tiges Verhalten  \n5. Fehlendes Schuldbewusstsein",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "26",
+        "group": "A",
+        "page": 23,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Entwicklungsst\u00f6rungen treffen zu?  \n1. Bei einer isolierten Artikulationsst\u00f6rung ist nur das Sprachverst\u00e4ndnis au\u00dferhalb \nder Norm reduziert \n2. Der fr\u00fchkindliche Autismus tritt vorwiegend bei M\u00e4dchen auf \n3. Bei der expressiven Sprachst\u00f6rung ist die Intelligenzentwicklung in der Regel \nnicht gest\u00f6rt \n4. Bei der rezeptiven Sprachst\u00f6rung ist das Sprachverst\u00e4ndnis nicht gest\u00f6rt  \n5. Ein Beispiel f\u00fcr eine Artikulationsst\u00f6rung ist das Lispeln (Sigmatismus)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "27",
+        "group": "A",
+        "page": 24,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum St\u00f6rungsbild der sozialen Phobie treffen zu?  \n1. Die Symptome treten in (fast) allen Lebensbereichen auf \n2. Die St\u00f6rung ist gekennzeichnet durch eine deutliche Furcht, sich in sozialen \nSituationen auf peinliche oder erniedrigende Weise zu verhalten \n3. Typische hinzukommende Symptome sind Err\u00f6ten, Zittern oder die Angst zu \nerbrechen \n4. Patienten mit einer sozialen Phobie weisen nur selten ein niedriges \nSelbstwertgef\u00fchl auf  \n5. Die \u00c4ngste in sozialen Situationen werden als \u00fcbertrieben bzw. unvern\u00fcnftig \nerlebt",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2017",
+        "number": "28",
+        "group": "A",
+        "page": 25,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nZu den Negativsymptomen einer Schizophrenie z\u00e4hlen:",
+        "options": {
+            "A": "Katatonie",
+            "B": "Bizarres Verhalten",
+            "C": "Apathie",
+            "D": "Anhedonie",
+            "E": "Halluzinationen"
+        },
+        "solution": [
+            "C",
+            "D"
+        ]
+    }
+]

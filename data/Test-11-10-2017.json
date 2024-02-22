@@ -1,0 +1,514 @@
+[
+    {
+        "date": "11.10.2017",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Methoden/Techniken der Psychoanalyse sind: \n1. Traumdeutung \n2. Deutung des Widerstandes \n3. Shaping (Verhaltensausformung) \n4. Bearbeitung der \u00dcbertragung \n5. Freie Assoziation",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypisch f\u00fcr das alkoholbedingte Delirium tremens ist/sind: \n1. Der Zustand h\u00e4lt gew\u00f6hnlich \u00fcber Wochen an \n2. Verwirrtheit, motorische Unruhe und Halluzinationen \n3. Beginn nach Absetzen des Alkohols \n4. Es kann auch w\u00e4hrend einer Periode des schweren Trinkens beginnen \n5. Eine Bewusstseinseintr\u00fcbung tritt nicht auf",
+        "options": {
+            "A": "Nur die Aussage 2 ist richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Bindungsst\u00f6rungen (nach ICD-10) treffen zu? \n1. Wichtig ist die Abgrenzung von tief greifenden  \nEntwicklungsst\u00f6rungen (nach ICD-10) \n2. Beginn vor dem Alter von 5 Jahren \n3. Zur klinischen Leitsymptomatik der reaktiven Bindungsst\u00f6rung geh\u00f6ren \nrepetetive und stereotype Verhaltensmuster \n4. Die reaktive Bindungsst\u00f6rung wird von anhaltenden und ausgepr\u00e4gten \nkognitiven Defiziten, die denen des Autismus vergleichbar sind, begleitet \n5. Die reaktive Bindungsst\u00f6rung tritt meist im Kontext von Vernachl\u00e4ssigung  oder \nMisshandlung auf",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den Symptomen des akuten Cannabisrausches z\u00e4hlen: \n1. Ger\u00f6tete Augen \n2. Konzentrationsverbesserung \n3. Ver\u00e4nderung der Sinneswahrnehmung \n4. Ideenfl\u00fcchtiges Denken \n5. Miosis",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nIm Rahmen einer depressiven Episode kann es zum Auftreten folgender Symptome \nkommen: \n1. Halluzinationen \n2. Autoaggressive Handlungen \n3. Hypochondrische Gr\u00fcbeleien \n4. Agitiertheit \n5. Wahnvorstellungen",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur Legasthenie trifft zu?",
+        "options": {
+            "A": "Es besteht in der Regel eine schwere Intelligenzminderung",
+            "B": "Der Begriff Legasthenie wird synonym f\u00fcr Lese- und Rechtschreibst\u00f6rung (LRS) \nverwendet",
+            "C": "Kinder mit Legasthenie k\u00f6nnen das Gelesene besonders gut wiedergeben",
+            "D": "Legasthenie kann nicht gezielt behandelt werden",
+            "E": "Vom Besuch einer h\u00f6heren Schule sollte bei Legasthenie generell abgeraten \nwerden"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "7",
+        "group": "A",
+        "page": 6,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Somatisierungsst\u00f6rung (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options":{
+            "A": "Die St\u00f6rung beginnt meist im fr\u00fchen Erwachsenenalter",
+            "B": "Die Diagnose kann nach 3 Monaten bei entsprechender Symptomatik gestellt \nwerden",
+            "C": "Die St\u00f6rung tritt bei beiden Geschlechtern gleich h\u00e4ufig auf",
+            "D": "Die Betroffenen sind aufgrund ihres hohen Leidensdruckes meist rasch zu einer \nPsychotherapie motivierbar",
+            "E": "Im St\u00f6rungsverlauf kann es zu einer Abh\u00e4ngigkeit oder einem Missbrauch von \nMedikamenten kommen"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "8",
+        "group": "A",
+        "page": 7,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nDie schizoide Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) ist charakterisiert durch:",
+        "options": {
+            "A": "Mangelnde Sensibilit\u00e4t im Erkennen und Befolgen gesellschaftlicher Regeln",
+            "B": "Andauerndes Gef\u00fchl von innerer Leere",
+            "C": "Mangel an engen Freunden oder vertrauensvollen Beziehungen oder dem \nWunsch nach diesen",
+            "D": "Andauernde und umfassende Gef\u00fchle von Anspannung und Besorgtheit",
+            "E": "\u00dcberm\u00e4\u00dfige Zweifel und Vorsicht"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "9",
+        "group": "A",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Intelligenzminderung (nach ICD-10) im Kindes- und Jugendalter treffen zu? \nWählen Sie zwei Antworten!",
+        "options": {
+            "A": "Die Einteilung der Intelligenzminderung erfolgt nach ICD-10 in leichte, mittelgradige, schwere und schwerste Intelligenzminderung",
+            "B": "Intelligenzminderungen beginnen bei einem Intelligenzquotienten (IQ) von unter 50",
+            "C": "Genetische Faktoren als mögliche Ursache der Intelligenzminderung sind bisher nicht belegt",
+            "D": "Die Behandlung einer Intelligenzminderung ist in der Regel erfolgsversprechend",
+            "E": "Das Risiko, bei einer bestehenden Intelligenzminderung an einer psychischen Störung zu erkranken, ist erhöht"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "10",
+        "group": "A",
+        "page": 8,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nBei der kognitiven Verhaltenstherapie (nach Beck) werden \n1. traumatische Kindheitserinnerungen gespiegelt \n2. Tagesprotokolle zur Selbstbeobachtung eingesetzt \n3. eine kognitive Umstrukturierung durchgef\u00fchrt \n4. nachts mittels Elektroden kleine Elektrost\u00f6\u00dfe auf die Schl\u00e4fen gegeben \n5. einseitige Bewertungen durch neue Zuschreibungen ersetzt (Reattribuierung)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "11",
+        "group": "A",
+        "page": 9,
+        "classification": "Einfachauswahl",
+        "text": "Eine 28-j\u00e4hrige Frau, ohne psychische Vorerkrankungen, kommt in Ihre Praxis. \nSie berichtet aufgeregt und kurzatmig, dass sie am Morgen an einer stark befahrenen \nStra\u00dfenkreuzung einen Verkehrsunfall mit einem LKW gehabt habe, welcher wohl eine rote \nAmpel \u00fcbersehen haben musste. Sie brauche daher unbedingt \u201eetwas zur Beruhigung\u201c. So \nk\u00f6nne sie nicht zur Arbeit. \nDie Betroffene berichtet stereotyp, dass sie doch \u201egr\u00fcn\u201c gehabt habe und was denn passiert \nw\u00e4re, wenn der LKW sie mit ihrer 3-j\u00e4hrigen Tochter frontal an ihrer Fahrerseite erwischt \nh\u00e4tte. Die Betroffene zittert, wirkt psychomotorisch unruhig, verzweifelt und zeigt deutliche \nAuffassungs- und Konzentrationsst\u00f6rungen. \nWelche der folgenden Diagnosen im Sinne der ICD-10 trifft am ehesten zu?",
+        "options": {
+            "A": "Posttraumatische Belastungsst\u00f6rung",
+            "B": "Anpassungsst\u00f6rung mit gemischter St\u00f6rung von Gef\u00fchlen und Sozialverhalten",
+            "C": "Panikst\u00f6rung",
+            "D": "Akute Belastungsreaktion",
+            "E": "Dissoziative St\u00f6rung (Konversionsst\u00f6rung), gemischt"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "12",
+        "group": "A",
+        "page": 10,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Suizidalit\u00e4t treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Sobald ein Patient Suizidgedanken \u00e4u\u00dfert, muss die zwangsweise Unterbringung \nin einer psychiatrischen Klinik erfolgen",
+            "B": "Bei einer Schizophrenie vom paranoid-halluzinatorischen Typ k\u00f6nnen imperative \nStimmen zu einer Suizidhandlung aufrufen",
+            "C": "Methoden des sog. \u201eweichen\u201c Suizids f\u00fchren h\u00e4ufiger zum Tod als Methoden des \nsog. \u201eharten\u201c Suizids",
+            "D": "Die Stadien der suizidalen Entwicklung (nach P\u00f6ldinger) sind. \nErw\u00e4gungsstadium - Ambivalenzstadium - Entschlussstadium",
+            "E": "Die Rate an vollendeten Suiziden ist bei M\u00e4nnern und Frauen gleich hoch"
+        },
+        "solution": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "13",
+        "group": "A",
+        "page": 11,
+        "classification": "Einfachauswahl",
+        "text": "Ein 65-j\u00e4hriger Patient stellt sich in Begleitung seiner Ehefrau vor. Er wirkt sehr klagsam und \nantriebsgemindert. Er klagt \u00fcber Vergesslichkeit, er k\u00f6nne sich das Datum nicht merken und \nvergesse Termine. Er interessiere sich f\u00fcr fast nichts mehr. Der Hausarzt habe ihn zum \nNervenarzt \u00fcberwiesen. Dieser habe ihm ein Medikament verschrieben und eine \nPsychotherapie empfohlen. \nWelche der folgenden Diagnosen kommt am ehesten in Frage?",
+        "options": {
+            "A": "Korsakow-Syndrom",
+            "B": "Demenz bei Pick-Krankheit",
+            "C": "Vaskul\u00e4re Demenz",
+            "D": "Sogenannte depressive Pseudodemenz",
+            "E": "Demenz bei HIV-Krankheit"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "14",
+        "group": "A",
+        "page": 11,
+        "classification": "Mehrfachauswahl",
+        "text": "Sie vermuten bei einem 80-j\u00e4hrigen Patienten, der Ihnen wegen Ged\u00e4chtnisst\u00f6rungen \nvorgestellt wird, eine Demenz vom Alzheimer-Typ. \nWelche der folgenden Symptome st\u00fctzen Ihren Verdacht bei der Differenzialdiagnose? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Seit einem Jahr bestehende St\u00f6rungen der Merkf\u00e4higkeit",
+            "B": "Rechtsseitige Gesichtsl\u00e4hmung nach mehreren Schlaganf\u00e4llen",
+            "C": "Rasche Verschlechterung innerhalb weniger Tage",
+            "D": "Keine qualitative Bewusstseinsst\u00f6rung",
+            "E": "Anamnestisch bekannter langj\u00e4hriger \u00fcberm\u00e4\u00dfiger Alkoholkonsum"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "15",
+        "group": "A",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nTic-St\u00f6rungen \n1. sind willk\u00fcrliche und regelm\u00e4\u00dfige Muskelaktionen und Laut\u00e4u\u00dferungen, die \ngewohnheitsm\u00e4\u00dfig auftreten \n2. gelten ab einer Dauer von einem Monat als chronisch \n3. beginnen typischerweise vor der Pubert\u00e4t \n4. werden klinisch diagnostiziert \n5. treten bei ungef\u00e4hr 10 % aller Kinder und Jugendlichen vor\u00fcbergehend auf",
+        "options": {
+            "A": "Nur die Aussagen 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "16",
+        "group": "A",
+        "page": 13,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Zwangsst\u00f6rung (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Patienten mit einer Zwangsst\u00f6rung erleben ihre Zwangshandlungen im \nGegensatz zur anankastischen (zwanghaften) Pers\u00f6nlichkeitsst\u00f6rung \n\u00fcblicherweise als ich-synton",
+            "B": "Mindestens gegen einen Zwangsgedanken oder gegen eine Zwangshandlung \nmuss der Patient noch Widerstand leisten",
+            "C": "Mit Abstand am h\u00e4ufigsten kommt bei Zwangsst\u00f6rungen der Z\u00e4hlzwang vor",
+            "D": "Therapie der Wahl ist zun\u00e4chst die alleinige Pharmakotherapie, erst bei \nTherapieresistenz sollte eine kognitive Verhaltenstherapie angewendet werden",
+            "E": "Treten Zwangssymptome nach dem 40. Lebensjahr auf, sollte eine organische \nUrsache ausgeschlossen werden"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "17",
+        "group": "A",
+        "page": 13,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? Bei der Neueinstellung eines Patienten mit depressiver St\u00f6rung auf ein antriebssteigerndes \nAntidepressivum muss in den ersten Wochen der Einnahme mit erh\u00f6hter Suizidgefahr gerechnet werden, wegen",
+        "options": {
+            "A": "unertr\u00e4glicher unerw\u00fcnschter Nebenwirkungen",
+            "B": "eintretender Antriebssteigerung vor dem antidepressiven Effekt",
+            "C": "fehlender Akzeptanz der Medikation durch die Angeh\u00f6rigen",
+            "D": "eines un\u00fcberwindlichen inneren Therapiewiderstandes",
+            "E": "Entt\u00e4uschung des Patienten aufgrund der Verz\u00f6gerung des Wirkungseintrittes"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "18",
+        "group": "A",
+        "page": 14,
+        "classification": "Einfachauswahl",
+        "text": "Ein 45-j\u00e4hriger Mann mit bekannter paranoid-halluzinatorischer Schizophrenie greift \naufgrund wahnhafter Verkennung einen Nachbarn an und wird gegen seinen Willen in der \ngeschlossenen Station einer psychiatrischen Klinik zur weiteren Behandlung untergebracht \nWer entscheidet rechtlich \u00fcber die Unterbringung und Behandlung des Patienten f\u00fcr die \nn\u00e4chsten Wochen?",
+        "options": {
+            "A": "Der zust\u00e4ndige Arzt des Gesundheitsamtes",
+            "B": "Ein Richter des zust\u00e4ndigen Gerichts",
+            "C": "Die Polizei, die den Patienten in die Klinik gebracht hat",
+            "D": "Der Notarzt, der den Patienten in die Klinik gebracht hat",
+            "E": "Der Oberarzt der geschlossenen Station, in die der Betroffene eingeliefert wurde"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "19",
+        "group": "A",
+        "page": 15,
+        "classification": "nMehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Schizophrenie treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Ein Hinweis auf das Bestehen einer Schizophrenie sind Beziehungsideen",
+            "B": "Ein allm\u00e4hlicher Krankheitsbeginn ist ein prognostisch g\u00fcnstiges Zeichen",
+            "C": "M\u00e4nner erkranken in der Regel erst nach dem 30. Lebensjahr",
+            "D": "Nach Absetzen einer neuroleptischen Medikation besteht kaum Rezidivgefahr",
+            "E": "Affektverflachung und Sprachverarmung z\u00e4hlt man zu den Negativsymptomen"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "20",
+        "group": "A",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZu den Kriterien der Anorexia nervosa (nach ICD-10) z\u00e4hlen: \n1. K\u00f6rperschema-St\u00f6rung \n2. Selbst herbeigef\u00fchrter Gewichtsverlust \n3. Amenorrhoe \n4. Body-Mass-Index (BMI) unter 17,5 kg/m2 \n5. Angeborene Hormonst\u00f6rung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "21",
+        "group": "A",
+        "page": 16,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nKennzeichen einer sozialen Phobie ist/sind am ehesten:",
+        "options": {
+            "A": "Angst in Menschenmengen",
+            "B": "Suggestibilit\u00e4t",
+            "C": "Direkter Augenkontakt wird als belastend empfunden",
+            "D": "Antriebsst\u00f6rungen",
+            "E": "Furcht vor Kritik"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "22",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nFr\u00fchkindlicher Autismus \n1. z\u00e4hlt nach ICD-10 zu den tief greifenden Entwicklungsst\u00f6rungen  \n2. ist gekennzeichnet durch einen krankhaften Zustand von Selbstbezogenheit und \nsozialem R\u00fcckzug, bei dem Sprache, Kontaktaufnahme, Empathie, Interessen und \nEntwicklungsf\u00e4higkeit gest\u00f6rt sind. \n3. ist gleichzusetzen mit dem Asperger-Syndrom \n4. tritt bei Jungen h\u00e4ufiger auf  \n5. ist eine sehr h\u00e4ufige Erkrankung bei Kinden",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "23",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Ein Patient m\u00f6chte sich von Ihnen psychotherapeutisch behandeln lassen. \nWelche der im Folgenden genannten Symptome st\u00fctzen den Verdacht auf eine \nHyperthyreose?   \n1. Motorische Unruhe \n2. Schlaflosigkeit \n3. Gewichtszunahme \n4. Bradykardie \n5. Hervortreten der Aug\u00e4pfel (Exophthalmus)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "24",
+        "group": "A",
+        "page": 19,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen trifft (treffen) zu?  \nEin Behandlungs- bzw. T\u00e4tigkeitsverbot besteht f\u00fcr Inhaber einer auf das Gebiet der \nPsychotherapie  beschr\u00e4nkten Heilpraktikererlaubnis f\u00fcr die \n1. psychoanalytische Therapie eines psychisch kranken Patienten mit chronischer \nBorreliose \n2. Verordnung von Bet\u00e4ubungsmitteln  \n3. psychotherapeutischen Behandlung der depressiven St\u00f6rungen eines Patienten \nmit bekannter HIV-Infektion  \n4. Empfehlung einer station\u00e4ren Behandlung  \n5. Psychoedukation bei einem schizophrenen Patienten",
+        "options": {
+            "A": "Nur die Aussage 2 ist richtig",
+            "B": "Nur die Aussage 3 ist richtig",
+            "C": "Nur die Aussagen 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "25",
+        "group": "A",
+        "page": 20,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden St\u00f6rungsbilder sind nach ICD-10 den affektiven St\u00f6rungen \nzugeordnet?   \n1. Hypomanie \n2. Manie mit psychotischen Symptomen \n3. Dysthymia \n4. Neurasthenie  \n5. Zyklothymia",
+        "options": {
+            "A": "Nur die Aussagen 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "26",
+        "group": "A",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Merkmale lassen am ehesten an eine narzisstische \nPers\u00f6nlichkeitsst\u00f6rung denken?   \n1. Eingeschr\u00e4nkte F\u00e4higkeit beim Treffen von allt\u00e4glichen Entscheidungen ohne \nRatschl\u00e4ge und Best\u00e4tigung von anderen \n2. Die Betroffenen besitzen in der Regel eine \u00fcbersteigerte Anspruchshaltung in \nBezug auf Mitmenschen \n3. Umst\u00e4nde, welche als massive pers\u00f6nliche Kr\u00e4nkung empfunden werden, \nk\u00f6nnen zu akuter Suizidalit\u00e4t f\u00fchren \n4. Mangelnde Empathie anderen Menschen gegen\u00fcber  \n5. \u00dcberm\u00e4\u00dfige Gewissenshaftigkeit bis hin zum Perfektionismus, um Fehler zu \nvermeiden",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "27",
+        "group": "A",
+        "page": 22,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur dissoziativen Amnesie treffen zu?  \n1. Charakteristisch ist eine partielle oder vollst\u00e4ndige Amnesie f\u00fcr k\u00fcrzlich \ntraumatisierende oder belastende Ereignisse \n2. Charakteristisch ist das Fehlen von hirnorganischen St\u00f6rungen, Intoxikation oder \nextremer Ersch\u00f6pfung \n3. Die dissoziative Amnesie ist ein typisches Symptom einer Alzheimer-Krankheit \n4. Schwierig ist es, eine bewusste Simulation der Amnesie auszuschlie\u00dfen  \n5. Eine dissoziative Amnesie ist grunds\u00e4tzlich nicht reversibel",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2017",
+        "number": "28",
+        "group": "A",
+        "page": 23,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Psychotherapieverfahren treffen zu?  \n1. Das katathyme Bilderleben geh\u00f6rt zu den verhaltenstherapeutischen Verfahren \n2. Zu den systemischen Therapien geh\u00f6rt die Technik des zirkul\u00e4ren Fragens \n3. Indikationen der Verhaltenstherapie sind Depressionen sowie Angst- und \nZwangsst\u00f6rungen \n4. Bei Kindern k\u00f6nnen analytische Techniken angewendet werden \n5. Die tiefenpsychologisch fundierte Psychotherapie geh\u00f6rt zu den imaginativen \nVerfahren",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    }
+]

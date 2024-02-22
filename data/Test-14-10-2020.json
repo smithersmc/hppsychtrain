@@ -1,0 +1,518 @@
+[
+    {
+        "date": "14.10.2020",
+        "number": "1",
+        "group": "B",
+        "page": 1,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nBei somatoformen St\u00f6rungen (nach ICD-10)",
+        "options": {
+            "A": "findet sich bei der Abkl\u00e4rung keine ausreichende organische Erkl\u00e4rung f\u00fcr die \nbeschriebenen K\u00f6rperbeschwerden",
+            "B": "sollten die Patienten wiederholt die komplette somatische Diagnostik inklusive \napparativer Verfahren und Bildgebung durchlaufen",
+            "C": "besteht h\u00e4ufig eine Komorbidit\u00e4t mit depressiven St\u00f6rungen",
+            "D": "spielen soziale Faktoren keine Rolle",
+            "E": "steht die medikament\u00f6se Therapie im Vordergrund"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "2",
+        "group": "B",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nEin erh\u00f6htes Suizidrisiko gegen\u00fcber der Normalbev\u00f6lkerung besteht bei einer Erkrankung \nan: \n1. Schizophrenie \n2. Depression \n3. Alkoholkrankheit \n4. Anorexia nervosa  \n5. Pers\u00f6nlichkeitsst\u00f6rung",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "3",
+        "group": "B",
+        "page": 3,
+        "classification": "Aussagenkombination",
+        "text": "Eine Patientin mit einer emotional-instabilen Pers\u00f6nlichkeitsst\u00f6rung vom Borderline-Typ \n(BPS) stellt sich nach einem station\u00e4ren Klinikaufenthalt im nahegelegenen psychiatrischen \nKrankenhaus in Ihrer Praxis vor mit dem Wunsch zur Durchf\u00fchrung einer Psychotherapie. \nDem vorgelegten Arztbrief entnehmen Sie, dass die Patientin im klinischen Setting sehr von \nder dialektisch-behavioralen Therapie (DBT) profitiert habe. \nWelche der folgenden Aussagen zur dialektisch-behavioralen Therapie (DBT) treffen zu?  \n1. Die DBT integriert Techniken aus Verhaltenstherapie (VT), der humanistischen \nTherapie, der psychodynamischen Therapie und der Zen-Meditation \n2. Die DBT findet in erster Linie in der Behandlung schwerer komorbider St\u00f6rungen \n(z.B. akute Drogenintoxikationen) von Patienten mit BPS Anwendung  \n3. Die DBT ist bei chronisch suizidalen Patienten mit BPS kontraindiziert \n4. Die DBT wird u. a. als Fertigkeitentraining (sog. Interaktives Skilltraining) \ndurchgef\u00fchrt \n5. Die Wirksamkeit der DBT bei Patienten mit BPS ist wissenschaftlich belegt",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "4",
+        "group": "B",
+        "page": 4,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) \ntreffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "ADHS ist gekennzeichnet durch motorische Hyperaktivit\u00e4t, Impulsivit\u00e4t und \nSt\u00f6rung der Aufmerksamkeit",
+            "B": "ADHS tritt im Erwachsenenalter nicht auf",
+            "C": "Vor Diagnosestellung einer ADHS muss eine organische Ursache ausgeschlossen \nwerden",
+            "D": "Genetische Faktoren spielen bei der ADHS keine Rolle",
+            "E": "Eine alleinige Verhaltenstherapie ist einer medikament\u00f6sen Therapie bei ADHS  \neindeutig \u00fcberlegen"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "5",
+        "group": "B",
+        "page": 5,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Behandlung von chronischen Schmerzst\u00f6rungen treffen \nzu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Opioidhaltige Analgetika f\u00fchren nicht selten zu einer Abh\u00e4ngigkeitsentwicklung",
+            "B": "Ein Training zur Stressbew\u00e4ltigung kann dazu beitragen, Hilflosigkeitsgef\u00fchle zu \n\u00fcberwinden",
+            "C": "Entspannungstraining ist kontraindiziert",
+            "D": "Auf Schonung und Vermeidung k\u00f6rperlicher Aktivit\u00e4t sollte auch bei psychischer \nUrsache der Schmerzen konsequent geachtet werden",
+            "E": "Der Patient sollte regelm\u00e4\u00dfig auf das Fortbestehen seiner Beschwerden \nhingewiesen werden"
+        },
+        "solution": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "6",
+        "group": "B",
+        "page": 6,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nTypische Symptome des amnestischen Syndroms (Korsakow-Syndrom) sind:",
+        "options": {
+            "A": "Akustische Halluzinationen",
+            "B": "Zeitgitterst\u00f6rungen",
+            "C": "Erh\u00f6hte Vigilanz",
+            "D": "Augenmuskell\u00e4hmungen",
+            "E": "Beeintr\u00e4chtigungen des Kurzzeitged\u00e4chtnisses"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "7",
+        "group": "B",
+        "page": 7,
+        "classification": "Einfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Diagnosestellung eines Abh\u00e4ngigkeitssyndroms (nach \nICD-10) trifft zu?",
+        "options": {
+            "A": "Eine Alkoholabh\u00e4ngigkeit besteht, wenn t\u00e4glich mehr als 50 g (M\u00e4nner) oder 30 g \n(Frauen) Alkohol konsumiert werden",
+            "B": "Die Diagnose eines Abh\u00e4ngigkeitssyndroms kann nur dann gestellt werden, wenn \neindeutige sch\u00e4dliche Folgen (z.B. Lebersch\u00e4digung oder F\u00fchrerscheinverlust) \nnachgewiesen werden k\u00f6nnen",
+            "C": "Eine erhaltene Kontrollf\u00e4higkeit bez\u00fcglich Beginn, Beendigung oder Menge des \nKonsums schlie\u00dft die Diagnose eines Abh\u00e4ngigkeitssyndroms aus",
+            "D": "Zu den Kriterien f\u00fcr die Diagnosestellung z\u00e4hlt, ob ein starker Wunsch oder eine \nArt Zwang besteht, eine Substanz zu konsumieren",
+            "E": "Ein Abh\u00e4ngigkeitssyndrom kann ausgeschlossen werden, wenn der Betroffene 30 \nTage lang auf die Substanz verzichten kann"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "8",
+        "group": "B",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu psychotischen St\u00f6rungen treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei der katatonen Schizophrenie treten nur selten psychomotorische \nErregungszust\u00e4nde auf",
+            "B": "Die z\u00f6n\u00e4sthetische Schizophrenie ist gekennzeichnet durch k\u00f6rperliche \nMissempfindungen und Leibhalluzinationen",
+            "C": "Die hebephrene Schizophrenie beginnt selten vor dem 25. Lebensjahr",
+            "D": "Amphetaminkonsum ist ein Risikofaktor f\u00fcr psychotische St\u00f6rungen",
+            "E": "Die Lebenserwartung schizophrener Patienten ist gegen\u00fcber der \nGesamtbev\u00f6lkerung nicht verringert"
+        },
+        "solution": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "9",
+        "group": "B",
+        "page": 9,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nSymptome einer schweren depressiven Episode ohne psychotische Symptome (nach ICD-10) \nsind:",
+        "options": {
+            "A": "Gedankenausbreitung",
+            "B": "Schuldgef\u00fchle",
+            "C": "Psychomotorische Hemmung",
+            "D": "Verarmungswahn",
+            "E": "Anhaltende Halluzinationen"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "10",
+        "group": "B",
+        "page": 10,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nSt\u00f6rungen der Affektivit\u00e4t bei Schizophrenie sind:",
+        "options": {
+            "A": "Ambivalenz",
+            "B": "Haltungsstereotypien",
+            "C": "Manierismen",
+            "D": "Parathymie",
+            "E": "Akustische Halluzinationen"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "11",
+        "group": "B",
+        "page": 11,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nF\u00fcr eine schizoide Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) sprechen im Rahmen der \nDifferentialdiagnostik:",
+        "options": {
+            "A": "Deutlich mangelnde Sensibilit\u00e4t im Erkennen und Befolgen gesellschaftlicher \nRegeln",
+            "B": "Emotionale K\u00fchle, Distanziertheit oder flache Affektivit\u00e4t",
+            "C": "\u00dcberm\u00e4\u00dfiges Interesse an k\u00f6rperlicher Attraktivit\u00e4t",
+            "D": "Bed\u00fcrfnis nach \u00fcberm\u00e4\u00dfiger Bewunderung",
+            "E": "\u00dcberm\u00e4\u00dfiger Zweifel und Vorsicht"
+        },
+        "solution": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "12",
+        "group": "B",
+        "page": 12,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zum Eye Movement Desensitization and Reprocessing \n(EMDR) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei der Behandlung der posttraumatischen Belastungsst\u00f6rung (PTBS) \nkonzentriert sich der Patient auf eine traumatische Erinnerung und die damit \nverbundenen Gedanken und K\u00f6rperempfindungen",
+            "B": "EMDR funktioniert nur mit visueller Stimulierung",
+            "C": "Bei EMDR wird grunds\u00e4tzlich mit einer wenig Angst ausl\u00f6senden Szene begonnen",
+            "D": "Bei EMDR wird eine bilaterale zerebrale Stimulation eingesetzt",
+            "E": "EMDR ist vor allem f\u00fcr Patienten mit schizophrenen Psychosen und schweren \nhirnorganischen Erkrankungen geeignet"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "13",
+        "group": "B",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Sexualst\u00f6rungen treffen nach ICD-10 zu? \n1. Der dauerhafte Wunsch, dem anderen Geschlecht anzugeh\u00f6ren, wird als \nTranssexualismus bezeichnet \n2. Anhedonie bezeichnet psychogen bedingte Schmerzen w\u00e4hrend des \nGeschlechtsverkehrs \n3. Bei sexuellen Funktionsst\u00f6rungen muss an eine m\u00f6gliche organische Ursache \ngedacht werden \n4. Homo- und Bisexualit\u00e4t werden zu den St\u00f6rungen der Sexualpr\u00e4ferenz gerechnet \n5. Exhibitionismus wird zu den sexuellen Funktionsst\u00f6rungen gerechnet",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "14",
+        "group": "B",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Welche Aussagen zu Bindungsst\u00f6rungen (nach ICD-10) treffen zu? \n1. Die reaktive Bindungsst\u00f6rung wird von anhaltenden und ausgepr\u00e4gten \nkognitiven Defiziten, die denen des Autismus vergleichbar sind, begleitet \n2. Zur klinischen Leitsymptomatik der reaktiven Bindungsst\u00f6rung geh\u00f6ren \nrepetitive und stereotype Verhaltensmuster \n3. Wichtig ist die diagnostische Abgrenzung zu tief greifenden \nEntwicklungsst\u00f6rungen (nach ICD-10) \n4. Die reaktive Bindungsst\u00f6rung tritt meist im Kontext von Vernachl\u00e4ssigung oder \nMisshandlung auf \n5. Beginn vor dem Alter von 5 Jahren",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2  und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "15",
+        "group": "B",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Essst\u00f6rungen treffen zu? \n1. Patienten mit Anorexia nervosa klagen meist \u00fcber Kraftlosigkeit und k\u00f6rperliche \nErsch\u00f6pfung \n2. Bei einem Body-Mass-Index (BMI) kleiner als 18,5 kg/m2 bei Erwachsenen spricht \nman von Untergewicht \n3. Charakteristisch f\u00fcr die Binge-Eating-St\u00f6rung (BES) sind gewichtsregulierende \nMa\u00dfnahmen wie z. B. Erbrechen  \n4. Patienten mit Anorexia nervosa haben einen hohen Leidensdruck und erleben \nsich als zu d\u00fcnn \n5. Zu den Symptomen der Anorexia nervosa geh\u00f6ren \u00fcbertriebene k\u00f6rperliche \nAktivit\u00e4ten, wie z. B. h\u00e4ufiges Joggen und Schwimmen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "16",
+        "group": "B",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Symptome des Morbus Parkinson sind: \n1. Monotone Stimme \n2. Mikrografie \n3. Bewegungsarmut  \n4. Tremor \n5. Krampfanf\u00e4lle",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "17",
+        "group": "B",
+        "page": 17,
+        "classification": "Mehrfachauswahl",
+        "text": "Ein Patient kommt in Ihre Praxis, weil der Hausarzt im eine psychotherapeutische \nBehandlung seiner Depression empfohlen habe. \nDer Patient klagt \u00fcber innere Leere, Antriebslosigkeit, Nichts freue ihn mehr, auf nichts habe \ner mehr Lust, st\u00e4ndig gr\u00fcble er. Alles mache er falsch. Er meide andere Menschen. Er komme \nnoch nicht einmal von seinem Sofa hoch. \nWelche der folgenden Aussagen zum verhaltenstherapeutischen Vorgehen treffen am \nehesten zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Der Therapeut sollte mit ihm das sogenannte Teufelskreismodell der Angst \nerarbeiten",
+            "B": "Der Therapeut sollte ihn vor allem in Planung und Aufbau von herausfordernden, \ngro\u00dfen und besonderen Aktivit\u00e4ten (z. B. Marathon laufen) unterst\u00fctzen",
+            "C": "Der Therapeut sollte ihm gezielt Gegenargumente nennen, die beweisen, dass \nsein automatischer Gedanke (\u201eIch mache alles falsch\u201c) falsch ist",
+            "D": "Der Therapeut sollte mit ihm Techniken ein\u00fcben, seine Gr\u00fcbelgedanken und  \n -inhalte zu unterbrechen und umzustrukturieren",
+            "E": "Der Therapeut sollte im Verlauf auch soziale Fertigkeiten trainieren und \nRessourcen aktivieren"
+        },
+        "solution": [
+            "D",
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "18",
+        "group": "B",
+        "page": 18,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur gesetzlichen Betreuung treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Die Anordnung einer Betreuung f\u00fchrt zur Gesch\u00e4ftsunf\u00e4higkeit",
+            "B": "Ein vollj\u00e4hriger Gesch\u00e4ftsunf\u00e4higer kann keine Betreuung f\u00fcr sich beantragen",
+            "C": "Organische psychische St\u00f6rungen sind h\u00e4ufig Anlass f\u00fcr die Einrichtung einer \nBetreuung",
+            "D": "Psychotherapeutische Gespr\u00e4che mit Betreuten erfordern grunds\u00e4tzlich die \nGenehmigung durch das Gericht",
+            "E": "Angeh\u00f6rige k\u00f6nnen eine Betreuung beim Gericht anregen"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "19",
+        "group": "B",
+        "page": 19,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum unterschiedlichen Vorgehen von Psychoanalyse und \nVerhaltenstherapie treffen am ehesten zu?  \n1. In der klassischen Psychoanalyse wird \u00fcberwiegend gegenwartsbezogen \ngearbeitet \n2. In der klassischen Psychoanalyse werden vor allem kognitive Techniken \neingesetzt \n3. In der klassischen Psychoanalyse bleibt der Therapeut neutral-indifferent \n4. In der kognitiven Verhaltenstherapie (KVT) geht es auch um beobachtbares \nVerhalten \n5. Ziel der kognitiven Verhaltenstherapie (KVT) ist unter anderem eine \nVerbesserung des Selbstmanagements",
+        "options": {
+            "A": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "20",
+        "group": "B",
+        "page": 20,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur schweren Intelligenzminderung (nach ICD-10) trifft zu?",
+        "options": {
+            "A": "Der IQ (Intelligenzquotient) liegt unter 20",
+            "B": "Der IQ liegt im Bereich zwischen 20 und 34",
+            "C": "Der IQ liegt im Bereich zwischen 50 und 69",
+            "D": "Der IQ liegt im Bereich zwischen 70 und 84",
+            "E": "Der IQ liegt im Bereich zwischen 85 und 115"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "21",
+        "group": "B",
+        "page": 21,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur verhaltenstherapeutischen Behandlung von Zwangsst\u00f6rungen trifft am \nehesten zu?",
+        "options": {
+            "A": "Der Therapeut versucht, die Verdr\u00e4ngung aufzuheben und den Patienten zu \nermutigen, sich dem zu stellen, was er wirklich f\u00fcrchtet",
+            "B": "Besonders wirksam ist die Rekonstruktion des ausl\u00f6senden Ereignisses der \nZwangsrituale",
+            "C": "Bei einem Expositionstraining mit Reaktionsmanagement soll der Patient die \nErfahrung machen, dass sich der Spannungszustand auch abbaut, wenn er seine \nRituale nicht ausf\u00fchrt",
+            "D": "F\u00fcr die Wirkung einer Konfrontation ist es besser, wenn sich der Patient \ngedanklich ablenkt",
+            "E": "Begleitend zur verhaltenstherapeutischen Behandlung sollte eine Dauertherapie \nmit Benzodiazepinen erfolgen"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "22",
+        "group": "B",
+        "page": 22,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Pers\u00f6nlichkeitsst\u00f6rungen (nach ICD-10) treffen zu?  \n1. Das auff\u00e4llige Verhaltensmuster ist andauernd \n2. Charakteristisch sind Ged\u00e4chtnisprobleme \n3. Die St\u00f6rungen beginnen in der Kindheit oder Adoleszenz \n4. Die St\u00f6rungen sind gut mit Medikamenten behandelbar \n5. Die St\u00f6rungen werden durch eine organische Erkrankung oder Verletzung des \nGehirns verursacht",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "23",
+        "group": "B",
+        "page": 23,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nAls Absetzph\u00e4nomene nach l\u00e4ngerem hochdosiertem Cannabiskonsum k\u00f6nnen auftreten: \n1. Angst \n2. Tremor \n3. Schlafst\u00f6rungen \n4. Schwitzen \n5. Reizbarkeit",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "24",
+        "group": "B",
+        "page": 24,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nUnerw\u00fcnschte Nebenwirkungen der Antipsychotika (Neuroleptika) sind: \n1. Parkinsonoid \n2. Sitzunruhe (Akathisie) \n3. Herzkreislaufst\u00f6rungen \n4. Gewichtszunahme \n5. Abh\u00e4ngigkeitsentwicklung",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "25",
+        "group": "B",
+        "page": 25,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZwangssymptome k\u00f6nnen auftreten bei: \n1. Angstst\u00f6rungen \n2. Depressive Episode \n3. Schizophrenie \n4. Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) \n5. Hirntumor",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "26",
+        "group": "B",
+        "page": 26,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur \u00dcbertragung/Gegen\u00fcbertragung im Sinne der \nPsychoanalyse treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei der \u00dcbertragung werden aggressive Triebe \u00fcbertrieben und theatralisch \ndargestellt",
+            "B": "Eine \u00dcbertragung ist kein Grund eine Therapie zu beenden",
+            "C": "Der Therapeut muss auf \u00dcbertragungen rasch mit Gegenma\u00dfnahmen reagieren",
+            "D": "Die Gegen\u00fcbertragung bezeichnet das \u00dcbertragen von W\u00fcnschen des \nTherapeuten durch den Patienten",
+            "E": "Je nach Zeitpunkt der Therapie kann der Therapeut auf eine \u00dcbertragung im \nSinne einer Deutung hinweisen"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "27",
+        "group": "B",
+        "page": 27,
+        "classification": "Einfachauswahl",
+        "text": "Welche der folgenden Aussagen zur anhaltenden wahnhaften St\u00f6rung (nach ICD-10) trifft \nzu?",
+        "options": {
+            "A": "St\u00e4ndiges Stimmenh\u00f6ren und schizophrene Symptome in der Vorgeschichte sind \ntypisch",
+            "B": "Nach den diagnostischen Leitlinien m\u00fcssen die Wahnvorstellungen mindestens \n12 Monate dauern",
+            "C": "Die Betroffenen zeigen auch in Bereichen und Handlungen, die sich nicht auf den \nWahn beziehen, massive Auff\u00e4lligkeiten",
+            "D": "Nur in seltenen F\u00e4llen bestehen Verfolgungs- und Beeintr\u00e4chtigungsideen",
+            "E": "Nicht vereinbar mit der Diagnose ist eine hirnorganische Erkrankung"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "14.10.2020",
+        "number": "28",
+        "group": "B",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum Patientenrechtegesetz (Gesetz zur Verbesserung der \nRechte von Patientinnen und Patienten) treffen zu?  \nIm Patientenrechtegesetz sind folgende Pflichten des Behandelnden verankert: \n1. Aufkl\u00e4rungspflicht \n2. Aufbewahrungspflicht der Patientenakte \n3. Dokumentationspflicht \n4. Informationspflicht \n5. Meldepflicht",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    }
+]

@@ -1,0 +1,513 @@
+[
+    {
+        "date": "17.03.2021",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zum Delir treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Im Gegensatz zur Demenz fehlt bei einem Delir die Bewusstseinsst\u00f6rung",
+            "B": "Akustische Halluzinationen treten beim Alkoholentzugsdelir nicht auf",
+            "C": "Das Delir ist gekennzeichnet durch St\u00f6rungen der Orientierung, der \nPsychomotorik und der Wahrnehmung",
+            "D": "Ein Alkoholentzugsdelir kann h\u00e4ufig bis zu einem Jahr anhalten",
+            "E": "F\u00fcr ein Alkoholentzugsdelir ist ein typisches Symptom die erh\u00f6hte Suggestibilit\u00e4t"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nMerkmale des pr\u00e4suizidalen Syndroms nach Ringel sind: \n1. Realit\u00e4tsverkennung \n2. Aggressionsumkehr \n3. Einengung \n4. Gedankenentzug  \n5. Suizidphantasien",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu St\u00f6rungen der Aufmerksamkeits- und \nGed\u00e4chtnisfunktionen treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Konfabulationen sind f\u00fcr das Korsakow-Syndrom typische Erinnerungsl\u00fccken, die \nmit Einf\u00e4llen gef\u00fcllt werden, die vom Betroffenen f\u00fcr Erinnerungen gehalten \nwerden",
+            "B": "Eine Merkf\u00e4higkeitsst\u00f6rung wird durch Fragen zu biographischen und \nhistorischen Ereignissen \u00fcberpr\u00fcft",
+            "C": "Mit der Aufgabe \u201evon 100 immer 7 abziehen\u201c (100 \u2013 7 Test) wird die Funktion \ndes Langzeitged\u00e4chtnisses gepr\u00fcft",
+            "D": "Bei einem organischen amnestischen Syndrom besteht eine Beeintr\u00e4chtigung des \nKurz- und Langzeitged\u00e4chtnisses, bei erhaltenem Immediatged\u00e4chtnis",
+            "E": "Bei der Amnesie ist die Erinnerungsf\u00e4higkeit gesteigert"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Symptome und Verhaltensweisen k\u00f6nnen zur Prodromalphase einer \nSchizophrenie geh\u00f6ren? \n1. Interessenverlust an der Arbeit \n2. Sozialer R\u00fcckzug \n3. Vernachl\u00e4ssigung der K\u00f6rperhygiene und Kleidung \n4. Ausgestaltetes Wahnsystem  \n5. Depressivit\u00e4t",
+        "options": {
+            "A": "Nur die Aussagen 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur Unterbringung psychisch Kranker in einem psychiatrischen Krankenhaus \ntrifft zu?",
+        "options": {
+            "A": "Die Einweisung eines psychisch erkrankten Menschen nach dem \nUnterbringungsrecht der L\u00e4nder (z.B. Psychisch-Kranken-Gesetz) ist nur bei \nakuter Eigengef\u00e4hrdung m\u00f6glich",
+            "B": "Die Unterbringung nach dem Betreuungsrecht erfolgt ohne zeitliche Befristung",
+            "C": "Eine Unterbringung psychisch Kranker nach dem Betreuungsrecht kann auch zum \nZwecke einer notwendigen \u00e4rztlichen Untersuchung erfolgen",
+            "D": "Eine Unterbringung nach dem Betreuungsgesetz kann bei Fremdgef\u00e4hrdung auch \nvom behandelnden Psychiater angeordnet werden",
+            "E": "Die Unterbringung eines psychisch erkrankten Menschen nach dem \nUnterbringungsrecht der L\u00e4nder (z.B. Psychisch-Kranken-Gesetz) darf h\u00f6chstens \nvier Wochen andauern"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nIm Rahmen einer depressiven Episode kann es zum Auftreten folgender Symptome \nkommen: \n1. Agitiertheit \n2. Halluzinationen \n3. Wahnvorstellungen \n4. Autoaggressive Handlungen \n5. Hypochondrische Gr\u00fcbeleien",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "7",
+        "group": "A",
+        "page": 7,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zu grundlegenden Annahmen der Verhaltenstherapie trifft am ehesten zu?",
+        "options": {
+            "A": "Die Behandlung ist vor allem auf vergangene Erfahrungen und Erlebnisse \nausgerichtet",
+            "B": "Abweichendes Verhalten wird im Zuge von Lernprozessen erworben",
+            "C": "Problematisches Verhalten wird durch unbewusste Konflikte und Widerstand \naufrecht erhalten",
+            "D": "Der Entwicklung von funktionalem und dysfunktionalem Verhalten liegen \nunterschiedliche Lerngesetze zugrunde",
+            "E": "Aus der Analyse von verdr\u00e4ngten Konflikten werden therapeutische \nInterventionen abgeleitet"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "8",
+        "group": "A",
+        "page": 8,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Angstst\u00f6rungen treffen zu? \n1. Die k\u00f6rperlichen Reaktionen und Empfindungen der pathologischen Angst \nunterscheiden sich in der Qualit\u00e4t erheblich von der \u201enormalen\u201c Angst \n2. Die soziale Phobie geh\u00f6rt zu den h\u00e4ufigsten Angstst\u00f6rungen \n3. Bei der Agoraphobie besteht eine Angst sich in eine Menschenmenge oder auf \n\u00f6ffentliche Pl\u00e4tze zu begeben \n4. Eine Panikattacke ist eine einzelne, abrupt beginnende Episode von intensiver \nAngst oder Unbehagen, die mit vegetativen Symptomen einhergeht \n5. Eine prim\u00e4re Angstst\u00f6rung liegt bei einem Angstsyndrom vor, das auf eine \nk\u00f6rperliche oder psychische Grunderkrankung zur\u00fcckzuf\u00fchren ist",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "9",
+        "group": "A",
+        "page": 9,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nDiagnostische Leitlinien f\u00fcr den sch\u00e4dlichen Gebrauch von psychotropen Substanzen (nach \nICD-10) sind: \n1. Fortschreitende Vernachl\u00e4ssigung anderer Interessen zugunsten des \nSubstanzkonsums \n2. K\u00f6rperliche St\u00f6rung aufgrund des Substanzkonsums \n3. Psychische St\u00f6rung aufgrund des Substanzkonsums \n4. Starker Wunsch oder eine Art Zwang die Substanz zu konsumieren \n5. Sozial un\u00fcblicher Konsum der entsprechenden Substanz",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "10",
+        "group": "A",
+        "page": 10,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu Essst\u00f6rungen treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Anorexia nervosa tritt bei Frauen und M\u00e4nnern etwa gleich h\u00e4ufig auf",
+            "B": "Bei der Bulimia nervosa hat sich die kognitive Verhaltenstherapie (KVT) als \nwirksam erwiesen",
+            "C": "Beim Pica-Syndrom (nach lateinisch: pica = Elster) werden ungenie\u00dfbare bzw. \nnicht essbare Substanzen verzehrt",
+            "D": "F\u00fcr die Binge-Eating-St\u00f6rung (BES) ist der h\u00e4ufige Verzehr sehr kleiner \nMahlzeiten charakteristisch",
+            "E": "Von Adipositas spricht man bei M\u00e4nnern bei einem Body-Mass-Index (BMI) von \n24 kg/m2"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "11",
+        "group": "A",
+        "page": 11,
+        "classification": "Einfachauswahl",
+        "text": "Welches der folgenden psychopathologischen Symptome spricht im Rahmen der \nDifferentialdiagnose am ehesten f\u00fcr eine organische psychische St\u00f6rung aufgrund einer \nnachweisbaren Hirnerkrankung?",
+        "options": {
+            "A": "Gedankenlautwerden",
+            "B": "Gedankenentzug",
+            "C": "Dialog mit einer \u201einneren\u201c Stimme",
+            "D": "Desorientiertheit",
+            "E": "Stimmen mit Befehlscharakter"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "12",
+        "group": "A",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Entwicklungsst\u00f6rungen treffen zu? \n1. Bei der expressiven Sprachst\u00f6rung ist die Intelligenzentwicklung in der Regel \nnicht gest\u00f6rt \n2. Bei einer isolierten Artikulationsst\u00f6rung ist nur das Sprachverst\u00e4ndnis au\u00dferhalb \nder Norm reduziert \n3. Bei der rezeptiven Sprachst\u00f6rung ist das Sprachverst\u00e4ndnis nicht gest\u00f6rt \n4. Ein Beispiel f\u00fcr eine Artikulationsst\u00f6rung ist das Lispeln (Sigmatismus) \n5. Der fr\u00fchkindliche Autismus tritt vorwiegend bei M\u00e4dchen auf",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "13",
+        "group": "A",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum psychopathologischen Befund treffen zu? \n1. Illusion ist eine vermeintliche Wahrnehmung ohne Sinneseindr\u00fccke \n2. Halluzination ist eine Missdeutung von Sinneseindr\u00fccken \n3. Es kann auf mehreren Sinnesgebieten gleichzeitig halluziniert werden \n4. Orientierungsst\u00f6rung ist eine mangelnde Orientierung oder v\u00f6llige \nDesorientierung in Bezug auf Ort, Zeit, Situation und eigene Person \n5. \u201eDoppelte Buchf\u00fchrung\u201c bezeichnet die gleichzeitige Orientierung an der realen \nund wahnhaften Welt",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "14",
+        "group": "A",
+        "page": 14,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Differentialdiagnose psychotischer St\u00f6rungen treffen \nzu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Kernsymptome der wahnhaften St\u00f6rung sind Negativsymptome und \nHalluzinationen",
+            "B": "Bei der hebephrenen Schizophrenie stehen die affektiven Ver\u00e4nderungen im \nVordergrund",
+            "C": "Anhaltende Positivsymptome kennzeichnen das schizophrene Residuum",
+            "D": "Bei der Schizophrenie ist die Bewusstseinsklarheit in der Regel nicht \nbeeintr\u00e4chtigt",
+            "E": "Die induzierte wahnhafte St\u00f6rung (Folie \u00e0 deux) wird durch Drogeneinnahme \nverursacht"
+        },
+        "solution": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "15",
+        "group": "A",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Bei welchen der folgenden Erkrankungen/Folgezust\u00e4nde kann als zugeh\u00f6riges Symptom eine \nGangst\u00f6rung vorkommen? \n1. Innenohrerkrankung \n2. Dissoziative St\u00f6rungen (Konversionsst\u00f6rungen) \n3. Sch\u00e4digung peripherer Nerven (Neuropathie)  \n4. Erkrankung von Muskeln und Gelenken \n5. Nach Sch\u00e4del-Hirn-Verletzungen",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "16",
+        "group": "A",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Abstinenzregel der klassischen Psychoanalyse trifft \n(treffen) zu? \n1. Private Dienstleistungen durch den Klienten f\u00fcr den Therapeuten sind mit der \nAbstinenzregel vereinbar \n2. Es verst\u00f6\u00dft nicht gegen die Abstinenzregel, wenn der Therapeut eine rein \nfreundschaftliche Beziehung zum Klienten pflegt \n3. Es verst\u00f6\u00dft nicht gegen die Abstinenzregel, wenn der Therapeut im Rahmen der \nTherapie anhand fr\u00fcherer eigener Konflikte dem Klienten geeignete \nProbleml\u00f6sestrategien veranschaulicht und vermittelt  \n4. Die einvernehmliche Aufnahme sexueller Beziehungen zwischen Klient und \nTherapeut ist mit der Abstinenzregel vereinbar \n5. Die Abstinenzregel erstreckt sich auch auf Personen, die dem Klienten \nnahestehen",
+        "options": {
+            "A": "Nur die Aussage 5 ist richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "17",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nEin 25-j\u00e4hriger Mann wird durch \u00dcberaktivit\u00e4t, sorglose Heiterkeit, Distanzlosigkeit und \nUnkonzentriertheit auff\u00e4llig; es besteht kein Krankheitsgef\u00fchl. \nDifferenzialdiagnostisch m\u00fcssen Sie folgende Erkrankungen in Betracht ziehen und/oder \ndurch weitere Befunde abkl\u00e4ren: \n1. Manische Episode im Rahmen einer bipolaren affektiven St\u00f6rung \n2. Hirntumor (im Bereich des Stirnhirns) \n3. Neurologische System- oder Stoffwechselerkrankung \n4. Stimulanzienmissbrauch (Drogenmissbrauch vom Kokain- oder Amphetamintyp)  \n5. Alkoholdelir (Delirium tremens)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "18",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nDie Erfordernis zur Errichtung einer rechtlichen Betreuung ist aus medizinischer Sicht \ngegeben, wenn folgende gesundheitliche Einschr\u00e4nkungen vorliegen: \n1. Der Betroffene \u00fcberblickt aufgrund einer psychischen Erkrankung, trotz \numfassender \u00e4rztlicher Aufkl\u00e4rung, nicht die Tragweite des Risikos eines \noperativen Eingriffs \n2. Aufgrund k\u00f6rperlicher Behinderung gelingt die F\u00fchrung des eigenen Haushalts \nnur mit Hilfe einer Putzfrau \n3. Es besteht ein Drogenmissbrauch, kompliziert durch Beschaffungskriminalit\u00e4t \n4. Es besteht aufgrund einer psychischen Erkrankung die Unf\u00e4higkeit die eigenen \nAngelegenheiten zu besorgen  \n5. Es besteht eine nicht altersentsprechende emotionale Abh\u00e4ngigkeit von \nBezugspersonen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "19",
+        "group": "A",
+        "page": 19,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu?  \nEine negative Verst\u00e4rkung im Sinne der operanten Konditionierung ist:",
+        "options": {
+            "A": "Eine Mutter belohnt ihr Kind daf\u00fcr, dass es andere schl\u00e4gt",
+            "B": "Eine Mutter schl\u00e4gt ihr Kind, weil es andere schl\u00e4gt",
+            "C": "Eine Mutter beendet den Hausarrest, nachdem das Kind seine Hausaufgaben \ngemacht hat",
+            "D": "Eine Mutter erteilt Hausarrest, weil das Kind seine Hausaufgaben nicht gemacht \nhat",
+            "E": "Eine Mutter schr\u00e4nkt das Fu\u00dfballspielen ein, weil das Kind seine Hausaufgaben \nnicht gemacht hat"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "20",
+        "group": "A",
+        "page": 20,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Behandlung von Patienten mit narzisstischer \nPers\u00f6nlichkeitsst\u00f6rung treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Ein Therapieziel ist die Verbesserung der Beziehungsf\u00e4higkeit",
+            "B": "F\u00fcr eine gute Prognose spricht die Verdr\u00e4ngung von Abh\u00e4ngigkeitsbed\u00fcrfnissen",
+            "C": "Bei Patienten mit narzisstischer Pers\u00f6nlichkeitsst\u00f6rung besteht ein erh\u00f6htes \nSuizidrisiko gegen\u00fcber der Normalbev\u00f6lkerung",
+            "D": "Verglichen mit anderen psychischen St\u00f6rungen (wie Depression oder \nAngstst\u00f6rungen) ist die therapeutische Beziehung f\u00fcr eine erfolgreiche Therapie \nweniger bedeutsam",
+            "E": "Der narzisstische Patient sucht in der Regel fr\u00fchzeitig psychotherapeutische Hilfe \nauf"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "21",
+        "group": "A",
+        "page": 21,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu Zwangsst\u00f6rungen treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Zwangssymptome haben eine Tendenz zur Generalisierung",
+            "B": "Zwangsst\u00f6rungen treten nahezu immer isoliert auf",
+            "C": "Zwangsst\u00f6rungen treten bei M\u00e4nnern deutlich h\u00e4ufiger auf als bei Frauen",
+            "D": "Zwangsst\u00f6rungen beeintr\u00e4chtigen den Alltag des Patienten kaum",
+            "E": "Die Zwangsgedanken werden vom Betroffenen fast immer als qu\u00e4lend oder \nsinnlos erlebt"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "22",
+        "group": "A",
+        "page": 22,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu dissoziativen St\u00f6rungen (nach ICD-10) treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Frauen sind h\u00e4ufiger betroffen als M\u00e4nner",
+            "B": "Dissoziative Krampfanf\u00e4lle gehen mit einem Bewusstseinsverlust einher",
+            "C": "Chronische Zust\u00e4nde treten nicht auf",
+            "D": "Es besteht kein Zusammenhang zwischen den dissoziativen Symptomen und \nbelastenden Ereignissen, Problemen oder Bed\u00fcrfnissen",
+            "E": "Eine k\u00f6rperliche Erkrankung, welche die Symptome erkl\u00e4ren k\u00f6nnte, ist nicht \nnachweisbar"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "23",
+        "group": "A",
+        "page": 23,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Substitutionsbehandlung von Opioidabh\u00e4ngigen treffen \nzu?  \n1. Eine Schwangerschaft schlie\u00dft eine Substitutionsbehandlung aus \n2. Die Substitutionsbehandlung darf in Ausnahmef\u00e4llen (z.B. Sonntag/Feiertage) \nvom Heilpraktiker durchgef\u00fchrt werden \n3. Eine Substitutionsbehandlung ist ein generelles Ausschlusskriterium f\u00fcr das \nF\u00fchren eines Kraftfahrzeugs \n4. Methadon ist auch suchterzeugend \n5. Das Risiko von HIV-Infektionen wird durch die kontrollierte Methadonabgabe \nverringert",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "24",
+        "group": "A",
+        "page": 24,
+        "classification": "Einfachauswahl",
+        "text": "Bei einem depressiven Patienten beabsichtigt der Therapeut die Methode der kognitiven \nUmstrukturierung einzusetzen. \nWelche Aussage zur kognitiven Umstrukturierung trifft zu?",
+        "options": {
+            "A": "Der Therapeut nimmt an, dass sich Kognitionen nur indirekt \u00fcber eine \nVerhaltens\u00e4nderung beeinflussen lassen",
+            "B": "Im sokratischen Dialog versucht der Therapeut seinen Patienten von der \nobjektiven Wahrheit zu \u00fcberzeugen",
+            "C": "Im sokratischen Dialog stellt der Therapeut seine Fragen zur\u00fcckhaltend und \ngeduldig und erfragt Widerspr\u00fcche",
+            "D": "Beim Entkatastrophisieren soll sich der Patient in die Perspektive eines anderen \nversetzen",
+            "E": "Der Therapeut verzichtet auf Verhaltensexperimente, um den Patienten auf \ndessen automatische Gedanken zu fokussieren"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "25",
+        "group": "A",
+        "page": 25,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZu den unerw\u00fcnschten Wirkungen bzw. Risiken einer psychotherapeutischen Behandlung \nz\u00e4hlen: \n1. Auftreten von psychotischen Symptomen \n2. Destabilisierung von Beziehungen \n3. Suizid des Patienten \n4. Verminderung eines begleitenden Substanzkonsums \n5. \u00dcbertragung im Rahmen der psychoanalytischen Therapie",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "26",
+        "group": "A",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZum Wahn geh\u00f6ren: \n1. \u00dcberzeugungen, die im Widerspruch zu den Einsch\u00e4tzungen gesunder Menschen \noder den Naturgesetzen stehen \n2. Intakte Realit\u00e4tskontrolle \n3. Subjektive Gewissheit \n4. Unkorrigierbarkeit \n5. Somnolenz",
+        "options": {
+            "A": "Nur die Aussagen 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen  2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "27",
+        "group": "A",
+        "page": 27,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zum Heilpraktikergesetz trifft zu?",
+        "options": {
+            "A": "Das Heilpraktikergesetz wurde bereits 1949 verabschiedet",
+            "B": "\u00c4rzte ben\u00f6tigen f\u00fcr die Aus\u00fcbung der Psychotherapie eine Heilerlaubnis",
+            "C": "Die Aus\u00fcbung der Zahlheilkunde f\u00e4llt nicht unter die Bestimmungen dieses \nGesetzes",
+            "D": "Heilpraktiker d\u00fcrfen die Aus\u00fcbung der Heilkunde auch im Umherziehen anbieten",
+            "E": "Eine abgeschlossene Berufsausbildung ist eine der Voraussetzungen f\u00fcr die auf \ndas Gebiet der Psychotherapie beschr\u00e4nkte Heilpraktikererlaubnis"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "17.03.2021",
+        "number": "28",
+        "group": "A",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Demenz treffen zu?  \n1. Die h\u00e4ufigste Form aller Demenzerkrankungen ist die vaskul\u00e4re Demenz  \n2. Differenzialdiagnostisch ist bei einer Demenz auch an eine Depression zu denken \n3. Bei einer Demenz bei Alzheimer-Krankheit finden sich pathologische \nAblagerungen von Proteinen im Gehirn \n4. Verhaltensst\u00f6rungen wie Aggressivit\u00e4t und Reizbarkeit passen nicht zur Diagnose \neiner Demenz \n5. Bei einer vaskul\u00e4ren Demenz ist die Behandlung von Risikofaktoren wie arterielle \nHypertonie, Rauchen und Diabetes mellitus wichtig",
+        "options": {
+            "A": "Nur die Aussagen 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    }
+]

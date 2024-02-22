@@ -1,0 +1,515 @@
+[
+    {
+        "date": "16.03.2022",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Einfachauswahl",
+        "text": "Ein Patient mit emotional instabiler Pers\u00f6nlichkeitsst\u00f6rung vom Borderline-Typ spricht auf \neine kognitive Umstrukturierung nicht an. Sie denken daher als Alternative zur Ver\u00e4nderung \ndysfunktionaler Kognitionen an ein Emotionsregulierungstraining als Teil der Dialektisch-\nBehavioralen Therapie (DBT). \nWelche Aussage zum Emotionsregulationstraining trifft zu?",
+        "options": {
+            "A": "Einge\u00fcbt wird die Achtsamkeit f\u00fcr vergangene Gef\u00fchle",
+            "B": "Der Patient soll bef\u00e4higt werden, mit seinen Gef\u00fchlen umzugehen",
+            "C": "Gef\u00f6rdert wird, sich st\u00e4rker mit seinem Gef\u00fchl zu identifizieren",
+            "D": "Der Patient wird best\u00e4rkt, die Wahrnehmung negativer Gef\u00fchle zu vermeiden \nund diese zu unterdr\u00fccken",
+            "E": "Der Therapeut hilft dem Patienten dabei, problematische Gef\u00fchle (z. B. \nbe\u00e4ngstigende Gedanken) zu verst\u00e4rken"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nDie Zwangsst\u00f6rung (nach ICD-10) \n1. beginnt meist in der Kindheit oder im fr\u00fchen Erwachsenenalter \n2. wird als Psychotherapie der Wahl verhaltenstherapeutisch behandelt \n3. ist \u00fcberzuf\u00e4llig h\u00e4ufig mit einem depressiven Syndrom vergesellschaftet \n4. verl\u00e4uft h\u00e4ufig chronisch  \n5. wird durch Zwangsgedanken und Zwangshandlungen charakterisiert",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Symptome der generalisierten Angstst\u00f6rung sind: \n1. Vegetative Symptome (Herzklopfen, Schwei\u00dfausbr\u00fcche, Tremor) \n2. Psychische Symptome (Gef\u00fchl von Schwindel, Derealisation, Angst vor \nKontrollverlust) \n3. H\u00e4ufige und unvorhersehbare Episoden von abrupt beginnender intensiver Angst \n4. Gedanken, die sich dauernd wiederholen und als unangenehm und unsinnig \nempfunden werden  \n5. Symptome der Anspannung (Muskelverspannung, Ruhelosigkeit, Nervosit\u00e4t)",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu chronischen Depressionen treffen am ehesten zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Als chronisch wird eine Depression mit einer Symptomdauer ab 3 Monaten \nbezeichnet",
+            "B": "Bei chronischen Verl\u00e4ufen der Depression kommen fr\u00fche negative Erfahrungen \nselten vor",
+            "C": "Bei chronischen Formen der Depression finden sich erh\u00f6hte Raten an \nPers\u00f6nlichkeitsakzentuierungen und -st\u00f6rungen",
+            "D": "Chronische Depressionen sind deckungsgleich mit therapieresistenten \nDepressionen",
+            "E": "Zur Behandlung von Patienten mit chronischer Depression kommen sowohl \nPsychotherapie als auch Pharmakotherapie in Betracht"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Aussagenkombination",
+        "text": "Bei einem 35-j\u00e4hrigen Patienten mit insulinpflichtigem Typ-1 Diabetes mellitus bemerken Sie \nw\u00e4hrend der psychotherapeutischen Behandlung Ver\u00e4nderungen. \nWelche der folgenden Symptome lassen Sie an eine Hypoglyk\u00e4mie denken? \n1. Zittern \n2. Unruhe \n3. Reizbarkeit \n4. Gr\u00f6\u00dfenwahn \n5. Ger\u00f6tete \u00fcberw\u00e4rmte Haut",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den nichtmedikament\u00f6sen Interventionen bei demenziellen Syndromen geh\u00f6ren: \n1. K\u00f6rperliche Aktivierung \n2. Basale Stimulation \n3. Ergotherapie \n4. Realit\u00e4tsorientierungstraining (ROT) \n5. Supportive Psychotherapie",
+        "options": {
+            "A": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "7",
+        "group": "A",
+        "page": 7,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nAls Widerstand wird in der Psychoanalyse bezeichnet:",
+        "options": {
+            "A": "Interventionstechnik, bei der der Patient mit seinen Interpretationen \nkonfrontiert wird",
+            "B": "Das Fernbleiben eines Patienten von einer Therapiestunde, weil er keine Lust \nhabe",
+            "C": "Gleichschwebende Aufmerksamkeit des Analytikers gegen\u00fcber den \u00c4u\u00dferungen \ndes Patienten",
+            "D": "Das Ziel eines Selbstbehauptungstrainings",
+            "E": "Alles, was sich dem Fortschritt der Behandlung entgegenstellt"
+        },
+        "solution": [
+            "B",
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "8",
+        "group": "A",
+        "page": 8,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) \ntreffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei ADHS im Erwachsenenalter tritt Substanzmissbrauch geh\u00e4uft auf",
+            "B": "F\u00fcr die Diagnosestellung ist eine Dauer der Symptome von 4 Wochen \nausreichend",
+            "C": "Das klinische Bild von Betroffenen in der Kindheit verglichen mit dem von \nBetroffenen im Erwachsenenalter unterscheidet sich h\u00e4ufig",
+            "D": "Die Diagnose l\u00e4sst sich begrenzt auf bestimmte Lebensbereiche stellen (z. B. \nSchule)",
+            "E": "F\u00fcr das ADHS des Erwachsenenalters ist ein Symptombeginn nach der Pubert\u00e4t \ncharakteristisch"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "9",
+        "group": "A",
+        "page": 9,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu affektiven St\u00f6rungen (nach ICD-10) treffen zu? \n1. Es wird zwischen einzelnen Episoden und St\u00f6rungen unterschieden \n2. Die depressive Episode kann mit und ohne somatisches Syndrom auftreten \n3. Der Schweregrad wird unter anderem in leicht, mittelgradig und schwer \neingeteilt \n4. Typische Merkmale des somatischen Syndroms sind fr\u00fchmorgendliches \nErwachen, Appetitverlust, Libidoverlust \n5. Eine depressive St\u00f6rung erh\u00f6ht das Risiko f\u00fcr eine Herzerkrankung",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "10",
+        "group": "A",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen trifft (treffen) zu? \nGesch\u00e4ftsunf\u00e4higkeit nach BGB (B\u00fcrgerliches Gesetzbuch) besteht \n1. bei nicht vollendetem siebten Lebensjahr \n2. grunds\u00e4tzlich im akuten Zustand einer psychischen Erkrankung \n3. beim Vorliegen eines die freie Willensbildung ausschlie\u00dfenden Zustandes \nkrankhafter St\u00f6rung der Geistest\u00e4tigkeit, sofern dieser nicht vor\u00fcbergehend ist \n4. bei Rechenst\u00f6rung \n5. bei Analphabetismus",
+        "options": {
+            "A": "Nur die Aussage 3 ist richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 1 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "11",
+        "group": "A",
+        "page": 11,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Aus\u00fcbung der Psychotherapie treffen zu? \nZu den Behandlungsformen der Psychotherapie werden gerechnet: \n1. Hom\u00f6opathie \n2. Hypnotherapie \n3. Psychopharmakotherapie \n4. Logotherapie \n5. Gestalttherapie",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "12",
+        "group": "A",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum SORKC-Modell aus der Verhaltenstherapie trifft \n(treffen) zu? \n1. Stimulus (\u201eS\u201c) bezeichnet das sichtbare, problematische Verhalten \n2. Das Modell ber\u00fccksichtigt konstitutionelle und biologisch-physiologische Aspekte \neines problematischen Verhaltens nicht \n3. Ziel ist die Aufdeckung und Bearbeitung unbewusster psychischer Konflikte \n4. Mit Hilfe des Modells lassen sich dem Klienten ausl\u00f6sende und \naufrechterhaltende Bedingungen eines problematischen Verhaltens vermitteln \n5. F\u00fcr die Therapieplanung ist das Modell ungeeignet",
+        "options": {
+            "A": "Nur die Aussage 4 ist richtig",
+            "B": "Nur die Aussagen 1 und 4 sind richtig",
+            "C": "Nur die Aussagen 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "13",
+        "group": "A",
+        "page": 13,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Unterscheidung zwischen Demenz bei Alzheimer-\nKrankheit und Depression treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei der Depression besteht meist eine deutliche St\u00f6rung des \nOrientierungsverm\u00f6gens und der Ged\u00e4chtnisfunktion",
+            "B": "Ein korrekt durchgef\u00fchrter Uhren-Zeichen-Test spricht gegen eine schwere \nDemenz",
+            "C": "Ein Mini-Mental-Status-Test (MMST) wird bei der Diagnose und Verlaufskontrolle \nder Demenz verwendet",
+            "D": "Der \u201etypische\u201c depressive Patient \u00fcberspielt seine Unsicherheit um kompetent \nzu wirken",
+            "E": "Der \u201etypische\u201c demente Patient im Fr\u00fchstadium klagt \u00fcber Vergesslichkeit und \naggraviert seine Leistungseinbu\u00dfen"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "14",
+        "group": "A",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum Alkoholdelir treffen zu? \n1. Es tritt meist innerhalb von Stunden bis Tagen nach pl\u00f6tzlicher Unterbrechung \neiner chronischen Zufuhr von Alkohol auf \n2. Es tritt meist innerhalb von wenigen Minuten nach pl\u00f6tzlicher Unterbrechung \neiner chronischen Zufuhr von Alkohol auf \n3. Im Vollbild eines Alkoholdelirs treten Orientierungsst\u00f6rungen auf \n4. Tremor ist ein typisches Symptom \n5. Eine Komplikation eines Alkoholdelirs ist ein \u00dcbergang in ein Koma",
+        "options": {
+            "A": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "15",
+        "group": "A",
+        "page": 15,
+        "classification": "Mehrfachauswahl",
+        "text": "Ein Therapeut beabsichtigt bei einem Patienten mit Pr\u00fcfungsangst eine systematische \nDesensibilisierung durchzuf\u00fchren. \nWelche der folgenden Aussagen zur systematischen Desensibilisierung treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Es handelt sich um ein Reizkonfrontationsverfahren",
+            "B": "Systematische Desensibilisierung ist bei chronischem Asthma bronchiale \nkontraindiziert",
+            "C": "Systematische Desensibilisierung ist bei fr\u00fcherem Drogenkonsum kontraindiziert",
+            "D": "Systematische Desensibilisierung ist bei Epilepsie kontraindiziert",
+            "E": "Systematische Desensibilisierung ist bei starker kognitiver Vermeidung weniger \nerfolgversprechend"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "16",
+        "group": "A",
+        "page": 16,
+        "classification": "Einfachauswahl",
+        "text": "Im Rahmen der Psychotherapie sind Gruppentherapien als Alternative zu Einzeltherapien \ndenkbar. \nWelche Aussage trifft zu?",
+        "options": {
+            "A": "Eine auf das Gebiet der Psychotherapie beschr\u00e4nkte Heilerlaubnis berechtigt \ngrunds\u00e4tzlich auch zur Durchf\u00fchrung einer Gruppentherapie",
+            "B": "Gruppentherapien sind bei depressiven St\u00f6rungen kontraindiziert",
+            "C": "Gruppentherapien kommen nur bei der Behandlung zwischenmenschlicher \nProbleme in Frage",
+            "D": "Die Wirkfaktoren sind in der Einzel- und Gruppentherapie v\u00f6llig identisch",
+            "E": "In methodenorientierten Psychotherapiegruppen geht es vor allem um die \nBearbeitung gruppendynamischer Konflikte"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "17",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Symptome einer akuten Schizophrenie sind: \n1. Gedankeneingebung \n2. Wahnwahrnehmungen \n3. Multiple Pers\u00f6nlichkeit \n4. Sopor \n5. Akustische Halluzinationen",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "18",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Auf welchen der folgenden Rechtsgrundlagen kann ein vollj\u00e4hriger Patient mit Schizophrenie \nin einer geschlossenen Station eines psychiatrischen Krankenhauses aufgenommen werden?  \n1. Nach Beschluss einer Kommission der zust\u00e4ndigen \u00c4rztekammer \n2. Nach Strafrecht (StGB) \n3. Nach dem Unterbringungsrecht des jeweiligen Landes (z. B. Psychisch-Kranken-\nGesetz) \n4. Nach b\u00fcrgerlichem Recht (BGB, Betreuungsrecht) \n5. Nach eigener Freiwilligkeitserkl\u00e4rung",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "19",
+        "group": "A",
+        "page": 19,
+        "classification": "Einfachauswahl",
+        "text": "Eine Patientin erz\u00e4hlt von ihren Problemen: \nSie habe seit Jahren immer wieder Kopfschmerzen, Brustschmerzen, Herzstechen, \u00dcbelkeit, \nDurchfall, sexuelle Gleichg\u00fcltigkeit, Klo\u00df im Hals und Muskelschmerzen. \nKeiner der Fach\u00e4rzte, die sie aufgesucht habe, habe etwas gefunden. Sie beklagt deren \nInkompetenz. \nSie haben den Verdacht auf eine Somatisierungsst\u00f6rung. \nWelche Aussage zum therapeutischen Vorgehen trifft zu?",
+        "options": {
+            "A": "Der Therapeut sollte die Patientin ablehnen, weil die Beschwerden \nm\u00f6glicherweise doch organisch bedingt sind",
+            "B": "Da die Patientin stark k\u00f6rperlich leidet, ist automatisch von hoher \nVer\u00e4nderungsmotivation auszugehen",
+            "C": "Der Therapeut sollte die Patientin zu k\u00f6rperlichem Schonverhalten motivieren",
+            "D": "Der Therapeut sollte gemeinsam mit der Patientin ein St\u00f6rungsmodell erarbeiten",
+            "E": "Der Therapeut sollte das \u201eChecking-Verhalten\u201c (Selbst\u00fcberpr\u00fcfung der \nK\u00f6rperfunktionen, z. B. Blutdruck messen) der Patientin f\u00f6rdern und ihr \nempfehlen, dieses zur Beruhigung einzusetzen"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "20",
+        "group": "A",
+        "page": 20,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nUnter Zerfahrenheit versteht man in der Psychopathologie",
+        "options": {
+            "A": "das ph\u00e4nomenologische Bild der Parathymie",
+            "B": "eine formale Denkst\u00f6rung",
+            "C": "eine Aufmerksamkeitsst\u00f6rung",
+            "D": "eine St\u00f6rung der Affektivit\u00e4t",
+            "E": "eine Bewusstseinsst\u00f6rung"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "21",
+        "group": "A",
+        "page": 21,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Hebephrenie treffen zu?  \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Das Krankheitsbild ist unter anderem gekennzeichnet durch ungeordnetes \nDenken, weitschweifige Sprache sowie verantwortungsloses und \nunvorhersehbares Verhalten",
+            "B": "Der Beginn der Erkrankung liegt meist zwischen der Pubert\u00e4t und er Mitte des 3. \nLebensjahrzehntes",
+            "C": "Eindeutige und anhaltende Verflachung oder Inad\u00e4quatheit des Affekts k\u00f6nnen \nzwar in leichter Form vorkommen, bestimmen aber nicht das klinische Bild",
+            "D": "Halluzinationen und Wahn bestimmen das klinische Bild",
+            "E": "Die St\u00f6rung wird meist rasch erkannt, da katatone motorische Erscheinungen im \nVordergrund stehen"
+        },
+        "solution": [
+            "A",
+            "B"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "22",
+        "group": "A",
+        "page": 22,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nKlassische psychoanalytische Techniken, um unbewusste psychische Anteile zu erkennen \nund zu verstehen, sind:",
+        "options": {
+            "A": "Freies Assoziieren des Patienten w\u00e4hrend der Therapiestunde",
+            "B": "Autosuggestion des Patienten w\u00e4hrend der Therapiestunde",
+            "C": "Deutung von sogenannten Fehlleistungen",
+            "D": "Strukturierte und standardisierte Interviews",
+            "E": "Brainstorming"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "23",
+        "group": "A",
+        "page": 23,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nUnkontrollierte Steigerung des Antriebs (Antriebsenthemmung) wird beobachtet  \n1. bei organischen psychischen St\u00f6rungen \n2. bei Dysthymia \n3. bei Manie \n4. nach Einnahme von Substanzen des Amphetamintyps \n5. nach Einnahme von Alkohol",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "24",
+        "group": "A",
+        "page": 24,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nKennzeichnend f\u00fcr den \u201epathologischen Rausch\u201c ist:",
+        "options": {
+            "A": "Rausch durch pathologisch gesteigerte Trinkmenge",
+            "B": "Rausch durch illegale Droge mit dem Erscheinungsbild eines \u00fcblichen \nAlkoholrausches",
+            "C": "Auftreten psychopathologischer Symptome, wie z. B. Situationsverkennung",
+            "D": "Der Rausch geht im Regelfall \u00fcber in ein manifestes Alkoholdelir",
+            "E": "Auftreten nach Zufuhr einer relativ geringen Menge Alkohol"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "25",
+        "group": "A",
+        "page": 25,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nNach Diagnosestellung einer schweren depressiven Episode",
+        "options": {
+            "A": "sollte die Akutbehandlung von einem Arzt durchgef\u00fchrt werden",
+            "B": "ist eine alleinige psychotherapeutische Behandlung ausreichend \nerfolgversprechend",
+            "C": "muss die Behandlung wegen einer m\u00f6glichen Suizidgefahr immer auf einer \nbesch\u00fctzenden Station eines psychiatrischen Fachkrankenhauses durchgef\u00fchrt \nwerden",
+            "D": "ist eine kombinierte Behandlung, bestehend aus medikament\u00f6ser Behandlung \nund Psychotherapie, angezeigt",
+            "E": "ist bei Entscheidung f\u00fcr eine medikament\u00f6se Behandlung ein Antipsychotikum \ndas Medikament der ersten Wahl"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "26",
+        "group": "A",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nUm einen sekund\u00e4ren Krankheitsgewinn kann es sich handeln bei: \n1. Entlastung des Kranken von allt\u00e4glichen Verpflichtungen \n2. Emotionale Zuwendung von Angeh\u00f6rigen \n3. Aufmerksamkeit von Seiten des medizinischen Personals \n4. Nachlassen von krankheitsbedingten Beschwerden \n5. Krankheitsbedingter Berentung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "27",
+        "group": "A",
+        "page": 27,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nInhaber einer auf das Gebiet der Psychotherapie beschr\u00e4nkten Heilpraktikererlaubnis d\u00fcrfen \ngrunds\u00e4tzlich im Rahmen der psychotherapeutischen Behandlung anbieten: \n1. Bewusstseinsver\u00e4nderung durch Gabe von LSD (psychotropes Halluzinogen) \n2. Kognitive Umstrukturierung \n3. Training von berufsbezogenen F\u00e4higkeiten \n4. Kommunikationstraining \n5. Einbeziehung von Freunden und Angeh\u00f6rigen des Patienten",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "16.03.2022",
+        "number": "28",
+        "group": "A",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZu den Symptomen bzw. Folgen eines h\u00e4ufigeren und chronischen Cannabiskonsums z\u00e4hlen: \n1. Miosis (Verengung der Pupillen) \n2. Amotivationales Syndrom \n3. Echopsychosen (Flashbacks) \n4. Misstrauisch-dysphorische Verstimmungszust\u00e4nde \n5. Schizophrenieartige paranoid-halluzinatorische Psychosen",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    }
+]

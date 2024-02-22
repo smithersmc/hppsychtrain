@@ -1,0 +1,509 @@
+[
+    {
+        "date": "15.03.2023",
+        "number": "1",
+        "group": "B",
+        "page": 1,
+        "classification": "Einfachauswahl",
+        "text": "Das Verhalten eines Patienten erscheint Ihnen sonderbar, bizarr, gek\u00fcnstelt, unnat\u00fcrlich. \nWelcher Fachbegriff trifft hierf\u00fcr am Ehesten zu?",
+        "options": {
+            "A": "Parathymie",
+            "B": "Affektlabilit\u00e4t",
+            "C": "Logorrhoe",
+            "D": "Manierismus",
+            "E": "Mutismus"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "2",
+        "group": "B",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nSt\u00f6rungen der Psychosomatik bei Schizophrenie sind: \n1. Sprachstereotypien \n2. Ambivalenz \n3. Katatone Erregung \n4. Parathymie \n5. Stupor",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "3",
+        "group": "B",
+        "page": 3,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Aufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) \ntreffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "ADHS ist gekennzeichnet durch motorische Hyperaktivit\u00e4t, Impulsivit\u00e4t und \nSt\u00f6rung der Aufmerksamkeit",
+            "B": "ADHS tritt im Erwachsenenalter nicht auf",
+            "C": "Vor Diagnosestellung einer ADHS muss eine organische Ursache ausgeschlossen \nwerden",
+            "D": "Genetische Faktoren spielen bei ADHS keine Rolle",
+            "E": "Alleinige Verhaltenstherapie ist medikament\u00f6ser Therapie bei ADHS \u00fcberlegen"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "4",
+        "group": "B",
+        "page": 4,
+        "classification": "Einfachauswahl",
+        "text": "Im Rahmen einer rechtlichen Betreuung kann ein Einwilligungsvorbehalt angeordnet \nwerden. \nWelche Aussage zum Einwilligungsvorbehalt trifft zu?",
+        "options": {
+            "A": "Voraussetzung f\u00fcr die Anordnung eines Einwilligungsvorbehaltes ist das \nVorliegen einer schweren k\u00f6rperlichen Erkrankung oder Behinderung",
+            "B": "Es handelt sich um eine spezielle Form der Betreuung f\u00fcr h\u00f6chstpers\u00f6nliche \nRechtsgesch\u00e4fte wie Eheschlie\u00dfung oder Testament",
+            "C": "Bestimmte Rechtsgesch\u00e4fte werden ohne Einwilligung eines vom Gericht \nbestellten Betreuers nicht rechtswirksam",
+            "D": "Prim\u00e4rer Zweck des Einwilligungsvorbehaltes ist es, andere vor den \nRechtsgesch\u00e4ften des Betreuten zu sch\u00fctzen",
+            "E": "Ein Einwilligungsvorbehalt bleibt grunds\u00e4tzlich lebenslang bestehen"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "5",
+        "group": "B",
+        "page": 5,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nGr\u00fcbeln geh\u00f6rt im psychopathologischen Befund zur Gruppe der",
+        "options": {
+            "A": "Aufmerksamkeits- und Ged\u00e4chtnisst\u00f6rungen",
+            "B": "formalen Denkst\u00f6rungen",
+            "C": "Bef\u00fcrchtungen und Zw\u00e4nge",
+            "D": "Ich-St\u00f6rungen",
+            "E": "inhaltlichen Denkst\u00f6rungen"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "6",
+        "group": "B",
+        "page": 6,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nTypische Methoden/Techniken der Verhaltenstherapie sind:",
+        "options": {
+            "A": "Deutung des Widerstandes",
+            "B": "Bearbeitung der \u00dcbertragung",
+            "C": "Biofeedback",
+            "D": "freie Assoziation",
+            "E": "Flooding"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "7",
+        "group": "B",
+        "page": 7,
+        "classification": "Aussagenkombination",
+        "text": "Welche der genannten Aussagen zu Zwangsst\u00f6rungen treffen zu? \n1. Bei Zwangsst\u00f6rungen beobachtet man h\u00e4ufig Spontanremissionen \n2. Eine Zwangsst\u00f6rung beginnt in der Regel vor dem 6. Lebensjahr \n3. Aufgrund des hohen Leidensdruckes kommt es meist zu einer raschen \nDiagnosestellung \n4. Eine Kombination aus Psychotherapie und Medikation hat sich bew\u00e4hrt \n5. Zwangssymptome k\u00f6nnen im Rahmen einer Demenz auftreten",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "8",
+        "group": "B",
+        "page": 8,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nF\u00fcr Zwangsst\u00f6rungen gilt typischerweise: \n1. Ein Hauptkriterium ist das Auftreten von Zwangsgedanken \n2. Ein Hauptkriterium ist das Auftreten von Zwangshandlungen \n3. Die verhaltenstherapeutische Intervention besteht wesentlich aus der \nExposition, der Reaktionsverhinderung und dem Aushalten der nachfolgend \nauftretenden Spannungszust\u00e4nde \n4. Dem unmittelbaren famili\u00e4ren Umfeld bleibt die Erkrankung meist verborgen \n5. Zwangsgedanken oder \u2013handlungen werden vom Betroffenen meist als ich-\nsynton erlebt",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "9",
+        "group": "B",
+        "page": 9,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Neuroleptika treffen zu? \n1. Neuroleptika sind zur Behandlung schizophrener St\u00f6rungen geeignet \n2. Neuroleptika haben eine antagonistische Wirkung an Dopaminrezeptoren \n3. Man unterscheidet typische und atypische Neuroleptika \n4. Bei Gabe von Neuroleptika sollten regelm\u00e4\u00dfig Elektrokardiogramme abgeleitet \nwerden \n5. Als Nebenwirkungen kann es zum Auftreten extrapyramidaler \nBewegungsst\u00f6rungen kommen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "10",
+        "group": "B",
+        "page": 10,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nDas Rollenspiel im Rahmen der Verhaltenstherapie beruht insbesondere auf den \nLernmechanismen:",
+        "options": {
+            "A": "Positive Verst\u00e4rkung",
+            "B": "Indirekte Verst\u00e4rkung",
+            "C": "Negative Verst\u00e4rkung",
+            "D": "Lernen am Modell",
+            "E": "Habituation"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "11",
+        "group": "B",
+        "page": 11,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nVerantwortlich f\u00fcr die \u00f6ffentlich-rechtliche Unterbringung eines psychisch Kranken im \npsychiatrischen Krankenhaus gem\u00e4\u00df Unterbringungsrecht der L\u00e4nder (Psychisch-Kranken-\nGesetz) ist",
+        "options": {
+            "A": "die Kriminalpolizei",
+            "B": "das Gesundheitsamt",
+            "C": "die zust\u00e4ndige \u00c4rztekammer",
+            "D": "das Amtsgericht",
+            "E": "das Ordnungsamt"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "12",
+        "group": "B",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nRelevante Therapieprinzipien f\u00fcr die Behandlung einer spezifischen Phobie in der \nVerhaltenstherapie im Sinne einer Expositionstherapie sind: \n1. Konfrontation durch Flooding oder systematische Desensibilisierung \n2. Habituation \n3. Vollst\u00e4ndiges Durchlaufen der Angstkurve \n4. Reaktionsverhinderung \n5. Verzicht auf Selbstmedikation mit Tranquilizern",
+        "options": {
+            "A": "Nur die Aussage 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1,2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "13",
+        "group": "B",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nTypische Symptome einer depressiven Episode (nach ICD-10) sind: \n1. Ideenflucht \n2. Interessenverlust \n3. vermindertes Selbstbewusstsein \n4. Suizidgedanken \n5. verminderter Antrieb",
+        "options": {
+            "A": "Nur die Aussage 3 und 5 sind richtig",
+            "B": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "14",
+        "group": "B",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Merkmale lassen am Ehesten an eine abh\u00e4ngige (asthenische) \nPers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) denken? \n1. Streits\u00fcchtiges und beharrliches Bestehen auf eigene Rechte \n2. Ausgepr\u00e4gte \u00c4ngste vor dem Alleinsein bzw. Verlassenwerden \n3. Eingeschr\u00e4nkte F\u00e4higkeiten beim Treffen von Entscheidungen ohne Ratschl\u00e4ge \nund Best\u00e4tigung von Anderen \n4. \u00dcberm\u00e4\u00dfige Gewissenhaftigkeit bis hin zum Perfektionismus \n5. Unterordnung der eigenen Bed\u00fcrfnisse unter die anderer Personen",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "15",
+        "group": "B",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nEin Abh\u00e4ngigkeitssyndrom (nach ICD-10) ist gekennzeichnet durch: \n1. Toleranzentwicklung \n2. Entzugssymptome \n3. Beendigung des Konsums bei sch\u00e4dlichen Folgen \n4. F\u00e4higkeit den Konsum zu kontrollieren \n5. Einengung auf den Substanzkonsum",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "16",
+        "group": "B",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche Aussagen zur Psychotherapie treffen zu? \n1. \u201eErlernte Hilflosigkeit\u201c ist ein in der Psychoanalyse verwendeter Begriff f\u00fcr einen \nAbwehrmechanismus \n2. Bei einer akuten schweren depressiven Episode ist eine ambulante \npsychodynamisch orientierte Psychotherapie indiziert \n3. Ziel bei der kognitiven Therapie nach Beck ist die sogenannte kognitive \nUmstrukturierung \n4. Beim SORKC-Modell handelt es sich um ein in der verhaltenstherapeutischen \nDiagnostik anwendbares Modell zur Problem-, Situations- und Verhaltensanalyse \n5. Psychodynamische orientierte Methoden spielen in der Kinder- und \nJugendpsychiatrie keine wesentliche Rolle",
+        "options": {
+            "A": "Nur die Aussagen 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "17",
+        "group": "B",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche Aussagen treffen zu? \nUrsachen eines Delirs k\u00f6nnen sein: \n1. Stoffwechselst\u00f6rungen \n2. Elektrolytst\u00f6rungen \n3. Medikamente \n4. Operationen \n5. hohes Fieber",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "18",
+        "group": "B",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur rechtlichen Betreuung treffen zu? \n1. Der Aufgabenkreis eines Betreuers kann sich auf die Gesundheitsf\u00fcrsorge \nbeschr\u00e4nken \n2. Die Behandlung von Patienten mit gesetzlicher Betreuung ist nur mit \nevidenzbasierten Methoden erlaubt \n3. Der Betreuer kann die dauerhafte Unterbringung des Betreuten im Pflegeheim \nanordnen \n4. Im Rahmen des Betreuungsrechts kann ggf. auch eine zwangsweise Behandlung \nerfolgen \n5. Die Bestellung eines Betreuers kommt grunds\u00e4tzlich nur f\u00fcr Vollj\u00e4hrige in \nBetracht, Kinder und Jugendliche k\u00f6nnen unter Vormundschaft gestellt werden",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "19",
+        "group": "B",
+        "page": 19,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den Ich-St\u00f6rungen geh\u00f6ren \n1. Derealisation \n2. Gedankenabrei\u00dfen \n3. Gedankenausbreitung \n4. Gedankendr\u00e4ngen \n5. Gedankeneingebung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "20",
+        "group": "B",
+        "page": 20,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur Demenzerkrankung trifft zu?",
+        "options": {
+            "A": "Die Lewy-K\u00f6rperchen-Demenz ist die h\u00e4ufigste Form der Demenzerkrankungen",
+            "B": "Alzheimer-Demenz ist durch einen akuten Beginn und den pl\u00f6tzlichen Verfall der \nkognitiven F\u00e4higkeiten gekennzeichnet",
+            "C": "Die Creutzfeldt-Jakob-Erkrankung tritt als langsam fortschreitende Demenz in \nErscheinung",
+            "D": "Zu Beginn der Demenz bei Morbus-Pick (frontotemporale Demenz) stehen \nCharakterver\u00e4nderungen und der Verlust sozialer F\u00e4higkeiten im Vordergrund",
+            "E": "Die Blutwerte zeigen bei Demenz pathognomonische Ver\u00e4nderungen"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "21",
+        "group": "B",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Befunde sprechen f\u00fcr eine organische Ursache der psychischen \nSymptomatik und erfordern eine m\u00f6glichst schnelle somatische Abkl\u00e4rung?  \n1. Bewusstseinsst\u00f6rung \n2. Orientierungsst\u00f6rung \n3. Fieber \n4. Optische Halluzinationen \n5. Vegetative Auff\u00e4lligkeiten",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 1 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "22",
+        "group": "B",
+        "page": 22,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur Schizophrenie trifft zu?",
+        "options": {
+            "A": "Ein akuter Krankheitsbeginn ist prognostisch eher g\u00fcnstig",
+            "B": "Symptome nach Drogenkonsum haben keine \u00c4hnlichkeit mit Symptomen der \nSchizophrenie",
+            "C": "Mit geduldiger Erkl\u00e4rung kann sich der Patient vom Wahninhalt l\u00f6sen",
+            "D": "Es treten keine kognitiven Defizite auf",
+            "E": "Frauen erkranken in der Regel deutlich fr\u00fcher als M\u00e4nner an einer Schizophrenie"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "23",
+        "group": "B",
+        "page": 23,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nIn der kognitiven Therapie werden typische \u201eDenkfehler\u201c unterschieden. \nDie Aussage Ihrer Patientin: \u201cIch habe ein seltsames Gef\u00fchl, daher werde ich das Haus heute \nnicht mehr verlassen.\u201c Spricht am Ehesten f\u00fcr",
+        "options": {
+            "A": "Gedankenlesen",
+            "B": "unangemessener Imperativ",
+            "C": "\u00fcbertriebene Verallgemeinerung",
+            "D": "Katastrophisieren",
+            "E": "emotionale Beweisf\u00fchrung"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "24",
+        "group": "B",
+        "page": 24,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu somatoformen St\u00f6rungen (nach ICD-10) trifft (treffen) \nzu?  \n1. Eine Somatisierungsst\u00f6rung bedarf eines Ausl\u00f6sers \n2. In den meisten F\u00e4llen liegt einer somatoformen Schmerzst\u00f6rung eine somatische \nUrsache zu Grunde \n3. Die Prognose einer somatoformen Schmerzst\u00f6rung ohne organisches Korrelat ist \ng\u00fcnstig \n4. Beim Vorliegen einer somatoformen Schmerzst\u00f6rung ist ein niederpotentes \nNeuroleptikum Mittel der Wahl \n5. Patienten mit einer somatoformen St\u00f6rung suchen h\u00e4ufig prim\u00e4r einen \nAllgemeinmediziner oder Internisten auf",
+        "options": {
+            "A": "Nur die Aussage 2 ist richtig",
+            "B": "Nur die Aussage 4 ist richtig",
+            "C": "Nur die Aussagen 5 ist richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "25",
+        "group": "B",
+        "page": 25,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Psychotherapieverfahren treffen zu?  \n1. Hauptindikation der dialektisch-behavioralen Therapie sind schizophrene \nSt\u00f6rungen \n2. In der Psychoanalyse wird der Patient zum freien Assoziieren angehalten \n3. Eine speziell auf Sorgenkontrolle ausgerichtete kognitive Verhaltenstherapie hat \nsich bei der generalisierten Angstst\u00f6rung bew\u00e4hrt \n4. Verfahren der ersten Wahl bei Zwangsst\u00f6rungen ist die kognitive \nVerhaltenstherapie mit Exposition und Reaktionsmanagement \n5. Eine Retraumatisierung ist bei der Traumatherapie erw\u00fcnscht",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen  2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "26",
+        "group": "B",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu psychischen St\u00f6rungen im Wochenbett treffen zu?  \n1. Eine postpartale Depression tritt in der Regel auf, wenn das Kind unerw\u00fcnscht ist \n2. Bei einer schweren postpartalen Depression empfiehlt sich eine Behandlung mit \neinem Antidepressivum \n3. Eine postpartale Depression der Mutter kann dem S\u00e4ugling schaden, deswegen \nsollte die Mutter bei ersten Anzeichen vom Kind getrennt werden \n4. Im Wochenbett treten psychische Erkrankungen geh\u00e4uft auf \n5. Eine postpartale Depression kann sich innerhalb von Stunden nach der \nEntbindung entwickeln",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "27",
+        "group": "B",
+        "page": 27,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage trifft zu? \nEine Dysthymia (nach ICD-10) ist:",
+        "options": {
+            "A": "eine larvierte Depression",
+            "B": "eine affektive St\u00f6rung mit h\u00e4ufigen Stimmungswechseln zwischen leichter \nDepression und Hypomanie",
+            "C": "eine affektive St\u00f6rung mit mehr als 4 Episoden/Jahr",
+            "D": "eine chronische depressive Verstimmung eher leichter Auspr\u00e4gung",
+            "E": "eine St\u00f6rung mit erh\u00f6hter Erm\u00fcdbarkeit bei geringster Anstrengung"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "15.03.2023",
+        "number": "28",
+        "group": "B",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Elektrokrampftherapie (EKT) treffen zu?  \n1. Durch elektrische Reizung des Gehirns wird ein epileptischer Anfall ausgel\u00f6st \n2. Die EKT kann bei Depressionen eingesetzt werden \n3. Die EKT ist eine wirksame Behandlungsmethode \n4. Die EKT ist eine Sonderform der Elektroenzephalografie (EEG) \n5. Die EKT wird aufgrund der hohen Risiken nicht mehr angewendet",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 1 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 2 und 4 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    }
+]

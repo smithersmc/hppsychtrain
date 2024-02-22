@@ -1,0 +1,512 @@
+[
+    {
+        "date": "11.10.2023",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Aussagenkombination",
+        "text": "Eine Patientin mit einer emotional-instabilen Pers\u00f6nlichkeitsst\u00f6rung vom Borderline-Typ \nstellt sich nach einem station\u00e4ren Klinikaufenthalt in Ihrer Praxis vor mit dem Wunsch zur \nDurchf\u00fchrung einer Psychotherapie. \nDem vorgelegten Arztbrief entnehmen Sie unter anderem, dass die Patientin in der \nVergangenheit Heroin konsumiert habe. \nWelche Aussagen zu St\u00f6rungen durch Opioide treffen zu? \n1. \u00c4ngste, Anspannungen, depressive Gef\u00fchle, Selbstwertprobleme werden durch \nden Konsum von Opioiden unterdr\u00fcckt \n2. Heilpraktiker beschr\u00e4nkt auf das Gebiet der Psychotherapie d\u00fcrfen keine \nSuchtberatung durchf\u00fchren \n3. Depressive Verstimmung, Antriebs- und Konzentrationsst\u00f6rungen, \nSchlafst\u00f6rungen und Pers\u00f6nlichkeitsver\u00e4nderungen k\u00f6nnen als psychische \nFolgesch\u00e4den eines Opioid-/Heroinkonsums auftreten \n4. Ein Opioid Entzug ist deutlich weniger gef\u00e4hrlich als ein Alkoholentzug, sollte \naber sinnvollerweise von Anfang an therapeutisch begleitet werden \n5. Die psychische Abh\u00e4ngigkeit kann nach dem k\u00f6rperlichen Entzug noch \u00fcber \nWochen weiterbestehen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Eine Patientin mit einer Suchterkrankung stellt sich nach einem station\u00e4ren Klinikaufenthalt \nin Ihrer Praxis vor mit dem Wunsch zur Durchf\u00fchrung einer Psychotherapie. Sie ist aktuell \nschwanger. \nWelche Aussagen zu den St\u00f6rungen treffen zu? \n \n1. Das Risiko f\u00fcr Fehl- und Totgeburten sowie k\u00f6rperliche und geistige \nSch\u00e4digungen des Kindes ist bei Stra\u00dfenheroinkonsum in der Schwangerschaft \nerh\u00f6ht \n2. Substitutionsbehandlung gilt in der Schwangerschaft als Behandlung der ersten \nWahl \n3. Mischkonsum mit anderen Drogen wie z.B. Benzodiazepinen oder anderen \nberuhigenden Substanzen birgt die Gefahr eines Atemstillstandes durch \nL\u00e4hmung des Atemzentrums \n4. Der sch\u00e4digende Effekt von Alkohol auf das Ungeborene wird potenziert durch \nAmphetamine oder multiplen Drogenabusus \n5. Frauen, die im ersten und zweiten Trimenon Alkohol trinken haben kein Risiko, \nein Kind mit FAS (fetalem Alkoholsyndrom) zu geb\u00e4ren",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Einfachauswahl",
+        "text": "Ein Patient stellt sich erstmals beim Heilpraktiker/ der Heilpraktikerin vor. Er sei wegen \nHerzbeschwerden, Schwindel, h\u00e4ufigen Bauchschmerzen, Durchfall und Hautjucken schon \nbei vielen \u00c4rzten gewesen und habe sich vielen Behandlungen unterzogen. Die Symptome \nseien aber immer wieder aufgetreten. \nZu welcher Gesundheitsst\u00f6rung passen die genannten Symptome am ehesten?",
+        "options": {
+            "A": "Paranoid-halluzinatorische Schizophrenie",
+            "B": "Somatoforme St\u00f6rung",
+            "C": "Multiple Sklerose",
+            "D": "Colitis ulcerosa",
+            "E": "Bipolare St\u00f6rung"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Aussagenkombination",
+        "text": "Welche der Aussagen treffen bezogen auf eine Zwangserkrankung zu? \n1. M\u00e4nner sind h\u00e4ufiger als Frauen von einer Zwangsst\u00f6rung betroffen \n2. Bei einer Demenz k\u00f6nnen Zwangssymptome auftreten \n3. Die Diagnosestellung erfolgt \u00fcberwiegend schon kurze Zeit nach Auftreten der \nersten Symptome \n4. Wasch- und Kontrollzwang treten am h\u00e4ufigsten auf \n5. Die Erkrankung beginnt zumeist schleichend",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Aussagenkombination",
+        "text": "Typische Symptome des Morbus Parkinson sind: \n1. schleichender Beginn \n2. Auftreten von Krampfanf\u00e4llen \n3. Affektlabilit\u00e4t \n4. Bewegungsarmut \n5. Bewusstseinstr\u00fcbung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Begriffe geh\u00f6ren zu den formalen Denkst\u00f6rungen bei Schizophrenie? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Beziehungswahn",
+            "B": "Kommentierende Stimmen",
+            "C": "Gedankenabrei\u00dfen",
+            "D": "Affektverflachung",
+            "E": "Konkretismus"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "7",
+        "group": "A",
+        "page": 7,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nLeistungstr\u00e4ger von Ma\u00dfnahmen zur beruflichen Rehabilitation von Menschen mit \npsychischen Erkrankungen sind: \n1. Jobcenter \n2. Deutsche Rentenversicherung \n3. Krankenkassen \n4. Sozial\u00e4mter \n5. Integrations\u00e4mter",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 4 und 4 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "8",
+        "group": "A",
+        "page": 8,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zu alkoholbezogenen St\u00f6rungen trifft zu?",
+        "options": {
+            "A": "Zur Diagnose der Alkoholabh\u00e4ngigkeit m\u00fcssen die Merkmale der Abh\u00e4ngigkeit in \nder Regel \u00fcber einen Zeitraum von mindestens 18 Monaten erf\u00fcllt sein",
+            "B": "Rauschtrinken bezeichnet den Konsum von mindestens 5 Standarddrinks pro \nTrinkgelegenheit",
+            "C": "Unter einer akuten Alkoholintoxikation versteht man ein Zustandsbild mit \nSt\u00f6rungen des Bewusstseins, der kognitiven Funktionen, der Wahrnehmung, des \nAffekts, des Verhaltens oder anderer psychologischer Funktionen",
+            "D": "Die Diagnose eines Abh\u00e4ngigkeitssyndroms wird bei M\u00e4nnern gestellt, die mehr \nals 40 g Alkohol pro Woche konsumieren",
+            "E": "Die Diagnose eines Abh\u00e4ngigkeitssyndroms wird bei Frauen gestellt, die mehr als \n40 g Alkohol pro Woche konsumieren"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "9",
+        "group": "A",
+        "page": 9,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche Aussagen zu substanzinduzierten psychotischen St\u00f6rungen und Schizophrenien \n(nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Unter THC-Konsum kann kein erh\u00f6htes Risiko f\u00fcr Psychosen gefunden werden",
+            "B": "Wenn die psychotischen Symptome l\u00e4nger als 4 Wochen anhalten, muss die \nDiagnose in eine Schizophrenie umgewandelt werden",
+            "C": "Wenn eine akute Intoxikation mit einer halluzinogenen Substanz zu \nWahrnehmungsst\u00f6rungen f\u00fchrt, ist dies nicht als substanzinduzierte \npsychotische St\u00f6rung zu werten",
+            "D": "Solange ein Beikonsum mit THC besteht, kann die Diagnose einer Schizophrenie \nnicht gestellt werden",
+            "E": "Optische Halluzinationen bei einem Entzugsdelir d\u00fcrfen nicht als \nsubstanzinduzierte psychotische St\u00f6rung verschl\u00fcsselt werden"
+        },
+        "solution": [
+            "C",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "10",
+        "group": "A",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum pathologischen Spielen (nach ICD-10) treffen zu? \n1. Pathologisches Spielen beginnt meistens im h\u00f6heren Erwachsenenalter \n2. Die Handlungen k\u00f6nnen kontrolliert werden \n3. Charakteristisch ist h\u00e4ufiges, wiederholtes, episodenhaftes Gl\u00fccksspielen \n4. Das Risiko f\u00fcr Suizide oder Suizidversuche ist erh\u00f6ht \n5. Als Begleiterkrankung liegt unter anderem die hyperkinetische St\u00f6rung geh\u00e4uft \nvor",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "11",
+        "group": "A",
+        "page": 11,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den \u201eIch-St\u00f6rungen\u201c geh\u00f6ren: \n1. Derealisation \n2. Gedankenabrei\u00dfen \n3. Gedankenausbreitung \n4. Gedankendr\u00e4ngen \n5. Gedankeneingebung",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "12",
+        "group": "A",
+        "page": 12,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Sexualst\u00f6rungen nach ICD-10 treffen zu? \n1. Der dauerhafte Wunsch, dem anderen Geschlecht anzugeh\u00f6ren, wird als \nTranssexualismus bezeichnet \n2. Alexithymie bezeichnet psychogen bedingte Schmerzen w\u00e4hrend des \nGeschlechtsverkehrs \n3. Bei sexuellen Funktionsst\u00f6rungen muss an eine m\u00f6gliche organische Ursache \ngedacht werden \n4. Homo- und Bisexualit\u00e4t werden zu den St\u00f6rungen der Sexualpr\u00e4ferenz gerechnet \n5. Exhibitionismus wird zu den sexuellen Funktionsst\u00f6rungen gerechnet",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "13",
+        "group": "A",
+        "page": 13,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Bindungsst\u00f6rungen nach ICD-10 treffen zu? \n1. Die reaktive Bindungsst\u00f6rung wird von anhaltenden und ausgepr\u00e4gten \nkognitiven Defiziten, die denen des Autismus vergleichbar sind, begleitet \n2. Zur klinischen Leitsymptomatik der reaktiven Bindungsst\u00f6rung geh\u00f6ren \nrepetitive und stereotype Verhaltensmuster \n3. Wichtig ist die diagnostische Abgrenzung von tiefgreifenden \nEntwicklungsst\u00f6rungen (nach ICD-10) \n4. Die reaktive Bindungsst\u00f6rung tritt meistens im Kontext von Vernachl\u00e4ssigung \noder Misshandlung auf \n5. Beginn im Alter von 5 Jahren",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "14",
+        "group": "A",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Auf welchen der folgenden Rechtsgrundlagen kann ein vollj\u00e4hriger Patient mit Schizophrenie \nauf einer geschlossenen Station eines psychiatrischen Krankenhauses aufgenommen \nwerden? \n1. Nach Beschluss einer Kommission der zust\u00e4ndigen \u00c4rztekammer \n2. nach StGB \n3. Nach dem Unterbringungsrecht des jeweiligen Landes (Psychisch-Kranken-\nGesetz) \n4. Nach b\u00fcrgerlichem Recht (BGB) \n5. Nach eigener Freiwilligkeitserkl\u00e4rung",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "15",
+        "group": "A",
+        "page": 15,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZur Negativsymptomatik (Minussymptomatik) einer Schizophrenie geh\u00f6ren folgende \nSymptome: \n1. Psychomotorische Hyperkinesien \n2. Sozialer R\u00fcckzug \n3. Aufmerksamkeitsst\u00f6rung \n4. Anhedonie \n5. Promiskuitives Verhalten",
+        "options": {
+            "A": "Nur die Aussagen 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "16",
+        "group": "A",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Entwicklungsst\u00f6rungen treffen zu? \n1. Bei der expressiven Sprachst\u00f6rung ist die Intelligenzentwicklung in der Regel \nnicht gest\u00f6rt \n2. Bei einer isolierten Artikulationsst\u00f6rung ist nur das Sprachverst\u00e4ndnis au\u00dferhalb \nder Norm reduziert \n3. Bei der rezeptiven Sprachst\u00f6rung ist das Sprachverst\u00e4ndnis nicht gest\u00f6rt \n4. Ein Beispiel f\u00fcr eine Artikulationsst\u00f6rung ist das Lispeln (Sigmatismus) \n5. Der fr\u00fchkindliche Autismus tritt vorwiegend bei M\u00e4dchen auf",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 4 und 5 sind richtig",
+            "C": "Nur die Aussagen 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "17",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nF\u00fcr eine schizoide Pers\u00f6nlichkeitsst\u00f6rung (nach ICD-10) sprechen am ehesten: \n1. Einige oder \u00fcberhaupt keine T\u00e4tigkeiten bereiten Freude \n2. Starke Neigung zu theatralischem Verhalten \n3. \u00dcbersteigertes Interesse an sexuellen Erfahrungen mit anderen Menschen \n4. Mangel an engen Freunden oder vertrauensvollen Beziehungen \n5. \u00dcberm\u00e4\u00dfiges Bed\u00fcrfnis nach Anerkennung und Bewunderung",
+        "options": {
+            "A": "Nur die Aussage 4 ist richtig",
+            "B": "Nur die Aussagen 1 und 2 sind richtig",
+            "C": "Nur die Aussagen 1 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "18",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur psychiatrisch-psychotherapeutischen Diagnostik treffen \nzu? \n1. In der Anamnese sollte auch immer nach k\u00f6rperlichen Vorerkrankungen gefragt \nwerden \n2. Zu einer vollst\u00e4ndigen Anamnese geh\u00f6rt auch die Sexualanamnese \n3. Nach Suizidalit\u00e4t sollte nicht im Erstgespr\u00e4ch gefragt werden, da noch keine \nVertrauensbasis zwischen Patient und Behandler besteht \n4. Die Beurteilung der Affektivit\u00e4t und des Antriebs sind wichtige Inhalte des \npsychopathologischen Befundes \n5. Anamnese, eigene Beobachtung des Untersuchers sowie gegebenenfalls \nfremdanamnestische Daten sind Grundlage der Befunderhebung",
+        "options": {
+            "A": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "19",
+        "group": "A",
+        "page": 19,
+        "classification": "Aussagenkombination",
+        "text": "Welche der Aussagen zur Psychotherapie treffen zu? \n1. \u201eErlernte Hilflosigkeit\u201c ist ein in der psychoanalytischen Therapie verwendeter \nBegriff f\u00fcr einen Abwehrmechanismus \n2. Bei einer akuten schweren depressiven Episode ist eine ambulante \npsychodynamisch orientierte Psychotherapie die erste Wahl \n3. Ziel bei der kognitiven Therapie nach Beck ist die sogenannte kognitive \nUmstrukturierung  \n4. Beim SORKC-Modell handelt es sich um ein in der verhaltenstherapeutischen \nDiagnostik anwendbares Analysemodell \n5. Psychodynamisch orientierte Psychotherapiemethoden spielen in der \nKindertherapie keine wesentliche Rolle",
+        "options": {
+            "A": "Nur die Aussagen 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "20",
+        "group": "A",
+        "page": 20,
+        "classification": "Aussagenkombination",
+        "text": "Welche der Aussagen zur Differenzialdiagnose der Anorexia nervosa treffen zu? \nAuszuschlie\u00dfende andere Ursachen des Untergewichts sind: \n1. Leuk\u00e4mie \n2. Hyperthyreose \n3. K\u00f6rperdysmorphe St\u00f6rung  \n4. Zwangserkrankungen mit ern\u00e4hrungsbedingten Zw\u00e4ngen \n5. Diabetes mellitus",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "21",
+        "group": "A",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der Aussagen treffen zu? \nZu den Symptomen bzw. Folgen eines h\u00e4ufigeren und chronischen Cannabiskonsums z\u00e4hlen: \n1. Miosis \n2. Amotivationales Syndrom \n3. Echopsychosen  \n4. Misstrauisch-dysphorische Verstimmungszust\u00e4nde \n5. Schizophrenieartige paranoid-halluzinatorische Psychosen",
+        "options": {
+            "A": "Nur die Aussagen 1,2 und 4 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "22",
+        "group": "A",
+        "page": 22,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Johanniskraut treffen zu?  \n1. Es handelt sich um ein Biologikum \n2. Bei dem pflanzlichen Arzneimittel sind keine Wechselwirkungen mit anderen \nMedikamenten bekannt \n3. Johanniskraut hat eine antidepressive Wirkung \n4. Johanniskraut ist ein hochpotentes Neuroleptikum \n5. Johanniskraut ist bei \u00e4lteren Menschen kontraindiziert",
+        "options": {
+            "A": "Nur die Aussage 2 ist  richtig",
+            "B": "Nur die Aussage 3 ist richtig",
+            "C": "Nur die Aussagen 1 und 3 sind richtig",
+            "D": "Nur die Aussagen 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "23",
+        "group": "A",
+        "page": 23,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zu Therapiem\u00f6glichkeiten bei nichtorganischen Insomnien \n(Schlafst\u00f6rungen) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Bei der paradoxen Intervention soll der Patient entspannt im Bett liegen, die \nAugen offenhalten und versuchen wach zu bleiben",
+            "B": "Unmittelbar vor dem Schlafen sollte noch intensiv Sport gemacht werden, um \nm\u00fcde zu werden",
+            "C": "Die Zeit, die jemand im Bett verbringt, sollte m\u00f6glichst begrenzt und dann \nschrittweise verl\u00e4ngert werden",
+            "D": "Die Einnahme von Hypnotika sollte begleitend \u00fcber einen l\u00e4ngeren Zeitraum \nerfolgen",
+            "E": "Bei anhaltenden Schlafst\u00f6rungen sollte der Patient trotz starker Unruhe im Bett \nbleiben, um die M\u00fcdigkeit aufrecht zu erhalten"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "24",
+        "group": "A",
+        "page": 24,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Somatisierungsst\u00f6rung (nach ICD-10) treffen zu? \nW\u00e4hlen Sie zwei Antworten!",
+        "options": {
+            "A": "Die St\u00f6rung beginnt meist im fr\u00fchen Erwachsenenalter",
+            "B": "Die Diagnose kann nach 3 Monaten bei entsprechender Symptomatik gestellt \nwerden",
+            "C": "Die St\u00f6rung tritt bei M\u00e4nnern und Frauen gleich h\u00e4ufig auf",
+            "D": "Die Betroffenen sind aufgrund ihres hohen Leidensdruckes meist rasch zu einer \nPsychotherapie motivierbar",
+            "E": "Im St\u00f6rungsverlauf kann es zu einer Abh\u00e4ngigkeit oder einem Missbrauch von \nMedikamenten kommen"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "25",
+        "group": "A",
+        "page": 25,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zum Delir treffen zu? \nW\u00e4hlen Sie zwei Aussagen!",
+        "options": {
+            "A": "Bei alkoholabh\u00e4ngigen Patienten kann ein Delir in der Regel ambulant behandelt \nwerden",
+            "B": "Ein Delir ist ein \u00e4tiologisch unspezifisches Syndrom mit St\u00f6rungen des \nBewusstseins, der Kognition und der Psychomotorik",
+            "C": "Ein Delir verl\u00e4uft in der Regel asymptomatisch",
+            "D": "Ein Delir ist eine organisch bedingte psychische St\u00f6rung",
+            "E": "Akustische Halluzination treten beim Delir nicht auf"
+        },
+        "solution": [
+            "B",
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "26",
+        "group": "A",
+        "page": 26,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen zur Unterscheidung zwischen Demenz bei Morbus \nAlzheimer und Depression treffen zu? \nW\u00e4hlen Sie zwei Aussagen!",
+        "options": {
+            "A": "Bei der Depression besteht mindestens eine deutliche St\u00f6rung des \nOrientierungsverm\u00f6gens und der Ged\u00e4chtnisfunktion",
+            "B": "Ein korrekt ausgef\u00fchrter Uhren-Zeichen-Test spricht gegen eine schwere Demenz",
+            "C": "Ein Mini-Mental-Status-Test wird bei der Diagnose und zur Verlaufskontrolle der \nDemenz verwendet",
+            "D": "Der depressive Patient \u00fcberspielt seine Unsicherheiten, um kompetent zu wirken",
+            "E": "Der demente Patient bleibt gedanklich an seinen Problemen haften"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "27",
+        "group": "A",
+        "page": 27,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur leichten Intelligenzminderung nach ICD-10 trifft zu?",
+        "options": {
+            "A": "Der IQ liegt unter 20",
+            "B": "Der IQ liegt im Bereich von 85 und 115",
+            "C": "Der IQ liegt im Bereich von 70 und 84",
+            "D": "Der IQ liegt im Bereich von 50 und 69",
+            "E": "Der IQ liegt im Bereich von 20 und 24"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "11.10.2023",
+        "number": "28",
+        "group": "A",
+        "page": 28,
+        "classification": "Einfachauswahl",
+        "text": "Im Rahmen einer rechtlichen Betreuung kann ein Einwilligungsvorbehalt angeordnet \nwerden. \nWelche Aussage zum Einwilligungsvorbehalt trifft zu?",
+        "options": {
+            "A": "Voraussetzung f\u00fcr die Anordnung eines Einwilligungsvorbehaltes ist das \nVorliegen einer schweren k\u00f6rperlichen Erkrankung",
+            "B": "Es handelt sich um eine spezielle Form der Betreuung f\u00fcr Rechtsgesch\u00e4fte wie \nTestament und Patientenverf\u00fcgung",
+            "C": "Bestimmte Rechtsgesch\u00e4fte werden ohne Einwilligung eines vom Gericht \nbestellten Betreuers nicht rechtswirksam",
+            "D": "Prim\u00e4rer Zweck des Einwilligungsvorbehaltes ist es, andere vor den \nRechtsgesch\u00e4ften des Betreuten zu sch\u00fctzen",
+            "E": "Ein Einwilligungsvorbehalt bleibt grunds\u00e4tzlich lebenslang bestehen"
+        },
+        "solution": [
+            "C"
+        ]
+    }
+]

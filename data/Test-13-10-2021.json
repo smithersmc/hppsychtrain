@@ -1,0 +1,511 @@
+[
+    {
+        "date": "13.10.2021",
+        "number": "1",
+        "group": "A",
+        "page": 1,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Symptome werden bei einer Demenz bei Alzheimer-Krankheit \nbeobachtet? \n1. Orientierungsst\u00f6rungen \n2. Apraxie \n3. Ged\u00e4chtnisst\u00f6rungen \n4. Wortfindungsst\u00f6rungen  \n5. Alexie",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "2",
+        "group": "A",
+        "page": 2,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nIn der dialektisch-behavioralen Therapie (DBT) zur Behandlung der emotional instabilen \nPers\u00f6nlichkeitsst\u00f6rungen vom Borderline-Typ \n1. ist die dauerhaft begleitende Gabe von Psychopharmaka ein elementarer \nTherapiebestandteil \n2. stehen zu Beginn der Behandlung selbstgef\u00e4hrdende Verhaltensweisen im \nMittelpunkt sowie Ma\u00dfnahmen zu deren Reduktion \n3. werden im Therapieverlauf nach Stabilisierung m\u00f6gliche Traumata und andere \nnegative Erfahrungen bearbeitet \n4. werden Probleml\u00f6sungsfertigkeiten und soziale Kompetenzen trainiert  \n5. wird am Aufbau innerer Achtsamkeit und Akzeptanz, Umgang mit Gef\u00fchlen und \nAufbau von Stresstoleranz gearbeitet",
+        "options": {
+            "A": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "B": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "3",
+        "group": "A",
+        "page": 3,
+        "classification": "Einfachauswahl",
+        "text": "Wie in der Therapie mit Medikamenten k\u00f6nnen auch in der Psychotherapie \nNebenwirkungen auftreten. \nWelche Aussage zu Nebenwirkungen der Psychotherapie trifft am ehesten zu?",
+        "options": {
+            "A": "Nebenwirkungen sind mit therapeutischen Kunstfehlern gleichzusetzen",
+            "B": "Es findet sich bisher kein spezifisches Instrument (Verfahren) zur Erfassung von \nNebenwirkungen",
+            "C": "Empirische Befunde sprechen daf\u00fcr, dass besonders erfolgreiche Therapien mit \neinem besonders hohen Nebenwirkungsprofil behaftet sind",
+            "D": "Bei Gruppentherapien sind negative Effekte deutlich seltener als bei \nEinzeltherapien",
+            "E": "Zu den Nebenwirkungen z\u00e4hlt auch die kurzfristige Verschlechterung der \nSymptomatik oder die kurzfristige Angstausweitung durch eine regelgerecht \ndurchgef\u00fchrte Therapie"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "4",
+        "group": "A",
+        "page": 4,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nDepressive Episoden des h\u00f6heren Lebensalters (\u201eAltersdepression\u201c)",
+        "options": {
+            "A": "sind teilweise schwer von Demenzen abzugrenzen",
+            "B": "sind einer psychotherapeutischen Behandlung nicht zug\u00e4nglich",
+            "C": "gehen h\u00e4ufig mit somatischen Symptomen einher",
+            "D": "f\u00fchren so gut wie nie zu einer Suizidgef\u00e4hrdung",
+            "E": "sind normale Alterserscheinungen"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "5",
+        "group": "A",
+        "page": 5,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nBei folgenden Krankheiten k\u00f6nnen Symptome einer Panikst\u00f6rung auftreten: \n1. Herzrhythmusst\u00f6rung \n2. Hyperthyreose \n3. Asthma bronchiale \n4. Agoraphobie \n5. Posttraumatische Belastungsst\u00f6rung (PTBS)",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "6",
+        "group": "A",
+        "page": 6,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Differentialdiagnose der Anorexia nervosa treffen zu? \nAuszuschlie\u00dfende andere Ursachen des Untergewichts sind: \n1. Leuk\u00e4mie \n2. Hyperthyreose \n3. Kokainmissbrauch \n4. Zwangserkrankung mit ern\u00e4hrungsbezogenen Zw\u00e4ngen \n5. Diabetes mellitus",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 3und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "7",
+        "group": "A",
+        "page": 7,
+        "classification": "Aussagenkombination",
+        "text": "Eine 45-j\u00e4hrige Frau kommt in Ihre Praxis und berichtet von leichter Ersch\u00f6pfbarkeit, \nSchwierigkeiten sich zu konzentrieren und Durchschlafst\u00f6rungen. Sie habe Angst vor der \nZukunft und \u201edass etwas Schlimmes passieren\u201c k\u00f6nne. Sie habe sich sozial sehr \nzur\u00fcckgezogen, da ihr \u201ealles zu viel\u201c sei. Weitere Beschwerden nennt sie spontan nicht, wirkt \nim Gespr\u00e4ch aber abgelenkt und fahrig. \nWelche der folgenden Diagnosen k\u00f6nnen den beschriebenen Symptomen zugrunde liegen? \n1. Eine Anpassungsst\u00f6rung \n2. Eine depressive Episode \n3. Eine generalisierte Angstst\u00f6rung \n4. Eine organische affektive St\u00f6rung \n5. Eine Schizophrenie",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 4 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "8",
+        "group": "A",
+        "page": 8,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Benzodiazepinen treffen zu? \n1. Wirksame Metaboliten k\u00f6nnen bei Dauertherapie zu einer Kumulationsgefahr \nf\u00fchren \n2. H\u00e4ufige Nebenwirkungen sind Schl\u00e4frigkeit und Benommenheit \n3. Benzodiazepine werden bei akuten Angstzust\u00e4nden eingesetzt \n4. Bei Hochdosisabh\u00e4ngigkeit ist grunds\u00e4tzlich ein sofortiges Absetzen angezeigt \n5. Entzugssymptome k\u00f6nnen sich \u00fcber Wochen hinziehen",
+        "options": {
+            "A": "Nur die Aussagen 1 2 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "9",
+        "group": "A",
+        "page": 9,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu? \nW\u00e4hlen Sie zwei Antworten! \nF\u00fcr die Entscheidung, ob bei einem suizidalen Patienten mit depressiver Episode die \nIndikation f\u00fcr eine station\u00e4re Therapie besteht, legen bestimmte Faktoren die \nNotwendigkeit einer Klinikaufnahme nahe. \nEine station\u00e4re Einweisung sollte unbedingt erwogen werden,",
+        "options": {
+            "A": "wenn die zugrunde liegende depressive St\u00f6rung einer intensiven psychiatrischen \nund psychotherapeutischen Behandlung bedarf",
+            "B": "bei Patienten mit chronischer, latenter Suizidalit\u00e4t, von der diese sich glaubhaft \ndistanzieren k\u00f6nnen",
+            "C": "bei mangelnder Absprachef\u00e4higkteit",
+            "D": "bei tragf\u00e4higer therapeutischer Beziehung",
+            "E": "bei vorhandener B\u00fcndnis- und Beziehungsf\u00e4higkeit"
+        },
+        "solution": [
+            "A",
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "10",
+        "group": "A",
+        "page": 10,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Symptome sind typisch beim Vorliegen einer Manie? \n1. Psychomotorische Unruhe \n2. Tag-Nacht-Umkehr mit gesteigertem Schlafbed\u00fcrfnis am Tag \n3. Stimmungsschwankungen (\u201eHimmelhoch jauchzend, zu Tode betr\u00fcbt\u201c) \n4. Panikattacken \n5. Distanzloses Verhalten",
+        "options": {
+            "A": "Nur die Aussagen 1 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "11",
+        "group": "A",
+        "page": 11,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen trifft (treffen) zu? \nAkoasmen (elementare, unausgeformte, nicht verbale akustische Sinnest\u00e4uschungen) \nwerden beobachtet bei \n1. Alkoholdelir \n2. Epileptische Aura \n3. Schizophrenie \n4. Zwangsst\u00f6rung \n5. Abh\u00e4ngige (asthenische) Pers\u00f6nlichkeitsst\u00f6rung",
+        "options": {
+            "A": "Nur die Aussage 3 ist richtig",
+            "B": "Nur die Aussagen 1 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "12",
+        "group": "A",
+        "page": 12,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nBei einem bewusstlosen, spontan atmenden Patienten sind folgende Notfallma\u00dfnahmen \nindiziert:",
+        "options": {
+            "A": "Keine weiteren Ma\u00dfnahmen",
+            "B": "Notruf w\u00e4hlen",
+            "C": "Stabile Seitenlage",
+            "D": "Bis zum Eintreffen des Notarztes kardiale Druckmassage und Mund-zu-Mund- \noder Mund-zu-Nase-Beatmung im Wechsel 30:2",
+            "E": "Bis zum Eintreffen des Notarztes kardiale Druckmassage und Mund-zu-Mund- \noder Mund-zu-Nase-Beatmung im Wechsel 20:4"
+        },
+        "solution": [
+            "B",
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "13",
+        "group": "A",
+        "page": 13,
+        "classification": "Einfachauswahl",
+        "text": "Welche Aussage zur Kommunikation im Rahmen der motivierenden Gespr\u00e4chsf\u00fchrung \n(Motivational Interviewing) trifft am ehesten zu?",
+        "options": {
+            "A": "Der Therapeut weist den Patienten m\u00f6glichst oft auf dessen Fehler hin",
+            "B": "Der Therapeut versucht m\u00f6glichst viele Argumente f\u00fcr eine Verhaltens\u00e4nderung \nvorzuschlagen",
+            "C": "Zur Verbesserung des Problemverst\u00e4ndnisses stellt der Therapeut m\u00f6glichst \ngeschlossene Fragen oder immer wieder die gleichen Fragen",
+            "D": "Der Therapeut vermeidet Diskussionen und direkt konfrontatives Vorgehen",
+            "E": "Bei jedem Klienten geht der Therapeut gleich vor und nimmt eine gewisse \nMotivation an"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "14",
+        "group": "A",
+        "page": 14,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen hinsichtlich der Sozio- und Psychotherapie schizophrener \nKranker trifft (treffen) zu? \n1. Aufdeckende psychotherapeutische Interventionen sind supportiven \nInterventionen vorzuziehen \n2. Schizophrene Residualsyndrome sind durch Verhaltenstraining und \n\u00dcbungsprogramme nicht besserungsf\u00e4hig \n3. Patienten mit sogenannten Plussymptomen sind in der Regel besser zu \nrehabilitieren als Patienten mit sogenannten Minussymptomen  \n4. Sozio- und psychotherapeutische Ma\u00dfnahmen ersetzen in der Regel eine \nRezidivprophylaxe mit Antipsychotika \n5. Psychoedukation in Gruppen ist bei Patienten mit Schizophrenie grunds\u00e4tzlich \nkontraindiziert",
+        "options": {
+            "A": "Nur die Aussage 1 ist richtig",
+            "B": "Nur die Aussage 3 ist richtig",
+            "C": "Nur die Aussagen 1 und 2 sind richtig",
+            "D": "Nur die Aussagen 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "15",
+        "group": "A",
+        "page": 15,
+        "classification": "Einfachauswahl",
+        "text": "Im Rahmen einer rechtlichen Betreuung kann ein Einwilligungsvorbehalt angeordnet \nwerden. \nWelche Aussage zum Einwilligungsvorbehalt trifft zu?",
+        "options": {
+            "A": "Voraussetzung f\u00fcr die Anordnung eines Einwilligungsvorbehaltes ist das \nVorliegen einer schweren k\u00f6rperlichen Erkrankung",
+            "B": "Es handelt sich um eine spezielle Form der Betreuung f\u00fcr h\u00f6chstpers\u00f6nliche \nRechtsgesch\u00e4fte wie Eheschlie\u00dfung oder Testament",
+            "C": "Bestimmte Rechtsgesch\u00e4fte werden ohne Einwilligung eines vom Gericht \nbestellten Betreuers nicht rechtswirksam",
+            "D": "Prim\u00e4rer Zweck des Einwilligungsvorbehaltes ist es, andere vor den \nRechtsgesch\u00e4ften des Betreuten zu sch\u00fctzen",
+            "E": "Ein Einwilligungsvorbehalt bleibt grunds\u00e4tzlich lebenslang bestehen"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "16",
+        "group": "A",
+        "page": 16,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Intelligenzminderung (geistige Behinderung) treffen zu? \n1. Bei Personen mit Intelligenzminderung zeigt sich klinisch eine gleichf\u00f6rmige, \neinheitliche Symptomatik \n2. Sie kann sich nach dem 50. Lebensjahr zur\u00fcckbilden \n3. Sie ist geh\u00e4uft mit psychischen Erkrankungen verbunden  \n4. Sie besteht praktisch nur in einem speziellen sozialen Kontext \n5. F\u00fcr die Einteilung des Schweregrads (nach ICD-10) werden IQ-Werte \n(Intelligenzquotient) zugrunde gelegt",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 3 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "17",
+        "group": "A",
+        "page": 17,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur depressiven Episode (nach ICD-10) treffen zu?  \n1. F\u00fcr die Diagnose einer depressiven Episode wird eine Dauer von mindestens 3 \nMonaten verlangt \n2. Sie zeigt ein breites Bild unterschiedlicher Symptome und Auspr\u00e4gung \n3. Agitiertheit spricht gegen eine schwere depressive Episode \n4. Sie ist in ihrer Auswirkung vom sozialen Umfeld abh\u00e4ngig  \n5. Sie beeintr\u00e4chtigt die selbst\u00e4ndige Lebensf\u00fchrung nicht",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "18",
+        "group": "A",
+        "page": 18,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nSinnvolle therapeutische M\u00f6glichkeiten bei der hypochondrischen St\u00f6rung sind: \n1. Motivation zur besseren Bew\u00e4ltigung der Krankheitsangst \n2. Wiederholte apparative Diagnostik der Beschwerden \n3. Psychoedukation zu Auswirkungen von Stress und Angst \n4. Training der Reduktion sicherheitssuchenden Verhaltens  \n5. Bearbeitung fr\u00fcherer und aktueller Belastungen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 4 sind richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "19",
+        "group": "A",
+        "page": 19,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zu Pers\u00f6nlichkeitsst\u00f6rungen trifft (treffen) zu?  \n1. Personen mit narzisstischer Pers\u00f6nlichkeitsst\u00f6rung sind oft sehr einf\u00fchlsam \n2. Personen mit schizoider Pers\u00f6nlichkeitsst\u00f6rung haben oft einen gro\u00dfen \nFreundeskreis \n3. Personen mit emotional instabiler Pers\u00f6nlichkeitsst\u00f6rung haben oft nur geringe \nF\u00e4higkeiten, ihre Ziele langfristig zu verfolgen \n4. Personen mit dissozialer Pers\u00f6nlichkeitsst\u00f6rung haben oft langfristige \nBeziehungen \n5. Personen mit paranoider Pers\u00f6nlichkeitsst\u00f6rung zeigen oft eine \u00fcbertriebene \nEmpfindlichkeit bei R\u00fcckschl\u00e4gen und Zur\u00fccksetzung",
+        "options": {
+            "A": "Nur die Aussage 3 ist richtig",
+            "B": "Nur die Aussagen 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 1 ,3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "E": "Nur die Aussagen 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "20",
+        "group": "A",
+        "page": 20,
+        "classification": "Mehrfachauswahl",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nW\u00e4hlen Sie zwei Antworten! \nZu den abnormen Gewohnheiten und St\u00f6rungen der Impulskontrolle (nach ICD-10) geh\u00f6ren:",
+        "options": {
+            "A": "Pathologisches Stehlen (Kleptomanie)",
+            "B": "Pathologischer Narzissmus",
+            "C": "Pathologisches L\u00fcgen (Pseudologia phantastica)",
+            "D": "Pathologischer Rausch",
+            "E": "Pathologische Brandstiftung (Pyromanie)"
+        },
+        "solution": [
+            "A",
+            "E"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "21",
+        "group": "A",
+        "page": 21,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu? \nZu den Symptomen des Nikotinentzugssyndroms bei tabakabh\u00e4ngigen Konsumenten z\u00e4hlen \nnach ICD-10:  \n1. Hypertonie \n2. Krankheitsgef\u00fchl \n3. Konzentrationsst\u00f6rungen \n4. \u00c4ngstlichkeit \n5. Hohe Risikobereitschaft",
+        "options": {
+            "A": "Nur die Aussagen 2 und 4 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 1, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 2, 3, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "22",
+        "group": "A",
+        "page": 22,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zum pathologischen Spielen (nach ICD-10) treffen zu?  \n1. Pathologisches Spielen beginnt meist im h\u00f6heren Erwachsenenalter \n2. Die Handlungen k\u00f6nnen kontrolliert werden, Verpflichtungen werden \neingehalten \n3. Charakteristisch ist h\u00e4ufiges, wiederholtes, episodenhaftes Gl\u00fccksspielen \n4. Das Risiko f\u00fcr Suizidversuche oder Suizide ist erh\u00f6ht \n5. Als Begleiterkrankung liegt u. a. die hyperkinetische St\u00f6rung geh\u00e4uft vor",
+        "options": {
+            "A": "Nur die Aussagen 4 und 5 sind richtig",
+            "B": "Nur die Aussagen 1, 3 und 5 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 3, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "23",
+        "group": "A",
+        "page": 23,
+        "classification": "Einfachauswahl",
+        "text": "Ein Patient stellt sich erstmals in Ihrer Praxis vor. Er sei wegen Herzbeschwerden, Schwindel,  \nh\u00e4ufigen Bauchschmerzen, Durchfall und Hautjucken schon bei vielen \u00c4rzten gewesen und \nhabe sich vielen Behandlungen unterzogen. Die Symptome seien aber immer wieder \naufgetreten. Jetzt hoffe er, dass Sie ihm helfen k\u00f6nnen. \nZu welcher Gesundheitsst\u00f6rung passen die Symptome am ehesten?",
+        "options": {
+            "A": "Paranoid-halluzinatorische Schizophrenie",
+            "B": "Somatoforme St\u00f6rung",
+            "C": "Multiple Sklerose",
+            "D": "Colitis ulcerosa",
+            "E": "Bipolare affektive St\u00f6rung"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "24",
+        "group": "A",
+        "page": 24,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Bulimia nervosa treffen zu?  \n1. Die Betroffenen betreiben teilweise einen Missbrauch von Abf\u00fchrmitteln, \nSchilddr\u00fcsenpr\u00e4paraten oder Diuretika \n2. In der Vorgeschichte l\u00e4sst sich h\u00e4ufig eine Episode einer Anorexia nervosa \nnachweisen \n3. Die Betroffenen zeigen h\u00e4ufig depressive Symptome \n4. Frauen und M\u00e4nner sind etwa gleich h\u00e4ufig betroffen \n5. Der Body-Mass-Index liegt typischerweise unter 17,5 kg/m2",
+        "options": {
+            "A": "Nur die Aussagen 1 und 3 sind richtig",
+            "B": "Nur die Aussagen 1, 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 4 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "B"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "25",
+        "group": "A",
+        "page": 25,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen treffen zu?  \nZu den organischen, einschlie\u00dflich symptomatischen psychischen St\u00f6rungen (nach ICD-10) \nz\u00e4hlen: \n1. Leichte kognitive St\u00f6rung \n2. Delir, nicht durch Alkohol oder andere psychotrope Substanzen bedingt \n3. Demenz bei Alzheimer-Krankheit \n4. Katatone Schizophrenie \n5. Postenzephalitisches Syndrom",
+        "options": {
+            "A": "Nur die Aussagen 2 und 5 sind richtig",
+            "B": "Nur die Aussagen 3 und 4 sind richtig",
+            "C": "Nur die Aussagen 2, 3 und 5 sind richtig",
+            "D": "Nur die Aussagen 1, 2, 3 und 5 sind richtig",
+            "E": "Alle Aussagen sind richtig"
+        },
+        "solution": [
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "26",
+        "group": "A",
+        "page": 26,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden anamnestischen Angaben eines 25-j\u00e4hrigen, unter innerer Unruhe \nleidenden Patienten st\u00fctzen im Rahmen der Differentialdiagnose den Verdacht auf eine \nAufmerksamkeitsdefizit-/Hyperaktivit\u00e4tsst\u00f6rung (ADHS) des Erwachsenenalters?  \n1. In Bemerkungen der Zeugnisse aus der Grundschulzeit finden sich Hinweise auf \nmotorische Unruhe und Impulsivit\u00e4t \n2. Beim Bruder des Patienten werde eine Behandlung mit Methylphenidat \ndurchgef\u00fchrt \n3. Die Beschwerden seien wenige Tage nach dem Tod seines Vaters vor einem \nviertel Jahr aufgetreten \n4. Bei einer haus\u00e4rztlichen Untersuchung seien die Schilddr\u00fcsenwerte deutlich \nerh\u00f6ht gewesen \n5. Der Patient berichtet \u00fcber h\u00e4ufiges Verlieren von Gegenst\u00e4nden und von \nmehreren selbstverschuldeten Verkehrsunf\u00e4llen",
+        "options": {
+            "A": "Nur die Aussagen 1 und 2 sind richtig",
+            "B": "Nur die Aussagen 1 und 5 sind richtig",
+            "C": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "D": "Nur die Aussagen  2, 3 und 4 sind richtig",
+            "E": "Nur die Aussagen 1, 2, 4 und 5 sind richtig"
+        },
+        "solution": [
+            "C"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "27",
+        "group": "A",
+        "page": 27,
+        "classification": "Mehrfachauswahl",
+        "text": "W\u00e4hlen Sie zwei Antworten! \nWelche der folgenden Aussagen zu Psychotherapieverfahren treffen zu?",
+        "options": {
+            "A": "Die Gestalttherapie geh\u00f6rt zu den humanistischen Therapien",
+            "B": "Kennzeichnend f\u00fcr die Gespr\u00e4chspsychotherapie ist das direktive Verhalten des \nTherapeuten",
+            "C": "Kerngedanke der Verhaltenstherapie ist, das Verhalten und Erleben von \nunbewussten Pers\u00f6nlichkeitsanteilen bestimmt wird",
+            "D": "Gedankenstopp und Selbstverbalisationstraining sind kognitiv-\nverhaltenstherapeutische Techniken",
+            "E": "Wird im Rahmen der Verhaltenstherapie durch Vermeidung einer angstbesetzten \nSituation die \u00e4ngstliche Erregung vermindert, handelt es sich um eine positive \nVerst\u00e4rkung"
+        },
+        "solution": [
+            "A",
+            "D"
+        ]
+    },
+    {
+        "date": "13.10.2021",
+        "number": "28",
+        "group": "A",
+        "page": 28,
+        "classification": "Aussagenkombination",
+        "text": "Welche der folgenden Aussagen zur Unterbringung von psychisch Kranken in psychiatrischen \nKrankenh\u00e4usern trifft (treffen) zu?  \n1. Die strafrechtliche Unterbringung in einer Einrichtung des Ma\u00dfregelvollzugs \nerfordert die vorherige Errichtung einer Betreuung  \n2. Die strafrechtliche Unterbringung in einer Entziehungsanstalt kann bei \nMinderj\u00e4hrigen von den Eltern angeordnet werden \n3. Die zivilrechtliche Unterbringung (nach Betreuungsrecht) setzt eine erhebliche \nGef\u00e4hrdung der Gesundheit des Betroffenen voraus \n4. Die \u00f6ffentlich-rechtliche Unterbringung nach Landesrecht (z. B. Psychisch-\nKranken-Gesetz) ist zeitlich nicht befristet \n5. Eine \u00f6ffentlich-rechtliche Unterbringung nach Landesrecht (z. B. Psychisch-\nKranken-Gesetz) ist zur Abwehr von Selbstgef\u00e4hrdung nicht m\u00f6glich",
+        "options": {
+            "A": "Nur die Aussagen 3 ist richtig",
+            "B": "Nur die Aussagen 2 und 3 sind richtig",
+            "C": "Nur die Aussagen 3 und 4 sind richtig",
+            "D": "Nur die Aussagen 1, 2 und 5 sind richtig",
+            "E": "Nur die Aussagen 1, 3 und 4 sind richtig"
+        },
+        "solution": [
+            "A"
+        ]
+    }
+]
